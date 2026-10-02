@@ -1,0 +1,3001 @@
+CustomerID,ChurnProbability,Predicted12MRevenueEGP,CustomerSegment,AnomalyFlag,RetentionPriorityFlag
+CUST-00001,0.5728,5943.81,High-Value Power Users,No,Yes
+CUST-00002,0.5124,4222.67,Low-Value Basic Users,No,No
+CUST-00003,0.5225,4080.92,Low-Value Basic Users,No,No
+CUST-00004,0.496,4205.31,Low-Value Basic Users,No,No
+CUST-00005,0.5563,4686.33,Low-Value Basic Users,No,No
+CUST-00006,0.2596,5453.65,Low-Value Basic Users,No,No
+CUST-00007,0.6507,3941.03,At-Risk / Late-Payment Customers,No,No
+CUST-00008,0.2318,5692.48,Loyal Long-Tenured Customers,No,No
+CUST-00009,0.2172,3567.45,Low-Value Basic Users,No,No
+CUST-00010,0.3328,4236.94,Low-Value Basic Users,No,No
+CUST-00011,0.5477,4941.11,Loyal Long-Tenured Customers,No,No
+CUST-00012,0.3378,7239.68,High-Value Power Users,No,No
+CUST-00013,0.4028,5301.53,Loyal Long-Tenured Customers,No,No
+CUST-00014,0.5965,4653.54,Low-Value Basic Users,No,No
+CUST-00015,0.5614,4624.78,Low-Value Basic Users,No,No
+CUST-00016,0.2089,5478.6,Low-Value Basic Users,No,No
+CUST-00017,0.2227,4991.24,Low-Value Basic Users,No,No
+CUST-00018,0.2471,6975.16,High-Value Power Users,No,No
+CUST-00019,0.2053,3729.54,Low-Value Basic Users,No,No
+CUST-00020,0.6065,5865.53,High-Value Power Users,No,Yes
+CUST-00021,0.2467,5061.44,Low-Value Basic Users,No,No
+CUST-00022,0.1733,6049.23,Loyal Long-Tenured Customers,No,No
+CUST-00023,0.6797,4675.47,Low-Value Basic Users,No,No
+CUST-00024,0.2207,4192.1,Low-Value Basic Users,No,No
+CUST-00025,0.4208,4628.31,Low-Value Basic Users,No,No
+CUST-00026,0.5329,4378.49,Low-Value Basic Users,No,No
+CUST-00027,0.6262,6555.89,At-Risk / Late-Payment Customers,No,Yes
+CUST-00028,0.5558,4550.84,Low-Value Basic Users,No,No
+CUST-00029,0.241,5662.18,Low-Value Basic Users,No,No
+CUST-00030,0.5354,3858.79,At-Risk / Late-Payment Customers,No,No
+CUST-00031,0.4603,4738.07,Loyal Long-Tenured Customers,No,No
+CUST-00032,0.2301,7902.54,High-Value Power Users,No,No
+CUST-00033,0.2511,6981.29,High-Value Power Users,No,No
+CUST-00034,0.2476,8247.76,High-Value Power Users,No,No
+CUST-00035,0.2877,5796.56,High-Value Power Users,No,No
+CUST-00036,0.5936,4637.55,Low-Value Basic Users,No,No
+CUST-00037,0.5464,4012.52,Low-Value Basic Users,No,No
+CUST-00038,0.4088,6323.3,High-Value Power Users,No,No
+CUST-00039,0.5776,5510.96,High-Value Power Users,No,Yes
+CUST-00040,0.1739,4345.0,Low-Value Basic Users,No,No
+CUST-00041,0.1945,7926.23,At-Risk / Late-Payment Customers,No,No
+CUST-00042,0.2525,7886.89,High-Value Power Users,No,No
+CUST-00043,0.353,7957.12,High-Value Power Users,No,No
+CUST-00044,0.245,6255.22,High-Value Power Users,Yes,No
+CUST-00045,0.2748,6905.8,High-Value Power Users,No,No
+CUST-00046,0.6053,4122.8,Low-Value Basic Users,No,No
+CUST-00047,0.5131,3131.79,Low-Value Basic Users,No,No
+CUST-00048,0.6643,3609.33,At-Risk / Late-Payment Customers,No,No
+CUST-00049,0.2513,6134.42,High-Value Power Users,No,No
+CUST-00050,0.67,4588.38,At-Risk / Late-Payment Customers,No,No
+CUST-00051,0.6019,3673.9,Low-Value Basic Users,No,No
+CUST-00052,0.326,5757.75,At-Risk / Late-Payment Customers,No,No
+CUST-00053,0.5855,4468.65,At-Risk / Late-Payment Customers,No,No
+CUST-00054,0.3055,7359.27,At-Risk / Late-Payment Customers,Yes,No
+CUST-00055,0.4072,4092.93,At-Risk / Late-Payment Customers,No,No
+CUST-00056,0.4609,4138.67,Loyal Long-Tenured Customers,No,No
+CUST-00057,0.7082,3742.36,At-Risk / Late-Payment Customers,No,No
+CUST-00058,0.4058,5485.58,At-Risk / Late-Payment Customers,No,No
+CUST-00059,0.2646,7005.64,At-Risk / Late-Payment Customers,No,No
+CUST-00060,0.1708,7612.8,High-Value Power Users,No,No
+CUST-00061,0.2629,5102.42,Low-Value Basic Users,No,No
+CUST-00062,0.2793,4797.05,At-Risk / Late-Payment Customers,No,No
+CUST-00063,0.5165,7774.9,High-Value Power Users,No,Yes
+CUST-00064,0.2613,6598.43,Loyal Long-Tenured Customers,No,No
+CUST-00065,0.4686,5072.46,High-Value Power Users,No,No
+CUST-00066,0.634,6924.89,High-Value Power Users,No,Yes
+CUST-00067,0.4158,5093.57,Low-Value Basic Users,No,No
+CUST-00068,0.2848,5739.5,Low-Value Basic Users,No,No
+CUST-00069,0.4998,4857.16,Loyal Long-Tenured Customers,No,No
+CUST-00070,0.6538,3393.91,Low-Value Basic Users,No,No
+CUST-00071,0.491,3040.61,Low-Value Basic Users,No,No
+CUST-00072,0.6413,6994.51,High-Value Power Users,No,Yes
+CUST-00073,0.3872,6621.43,At-Risk / Late-Payment Customers,No,No
+CUST-00074,0.4356,3874.72,Low-Value Basic Users,No,No
+CUST-00075,0.1868,7117.38,At-Risk / Late-Payment Customers,No,No
+CUST-00076,0.2899,7564.75,High-Value Power Users,No,No
+CUST-00077,0.6864,5502.74,At-Risk / Late-Payment Customers,No,Yes
+CUST-00078,0.3548,4302.13,Low-Value Basic Users,Yes,No
+CUST-00079,0.3482,7384.59,High-Value Power Users,No,No
+CUST-00080,0.4094,3808.16,Low-Value Basic Users,No,No
+CUST-00081,0.5545,3328.18,Low-Value Basic Users,No,No
+CUST-00082,0.1525,6061.69,Loyal Long-Tenured Customers,No,No
+CUST-00083,0.6998,6561.78,High-Value Power Users,No,Yes
+CUST-00084,0.6046,5468.39,At-Risk / Late-Payment Customers,No,Yes
+CUST-00085,0.6098,6042.07,High-Value Power Users,No,Yes
+CUST-00086,0.4279,3223.83,Low-Value Basic Users,No,No
+CUST-00087,0.3734,7896.28,High-Value Power Users,No,No
+CUST-00088,0.6414,4151.85,Low-Value Basic Users,No,No
+CUST-00089,0.286,6232.66,High-Value Power Users,No,No
+CUST-00090,0.7065,3606.6,At-Risk / Late-Payment Customers,No,No
+CUST-00091,0.1811,6237.74,At-Risk / Late-Payment Customers,No,No
+CUST-00092,0.6171,4244.22,Low-Value Basic Users,No,No
+CUST-00093,0.1805,9508.16,High-Value Power Users,No,No
+CUST-00094,0.2706,6101.57,Low-Value Basic Users,No,No
+CUST-00095,0.6644,6898.87,High-Value Power Users,No,Yes
+CUST-00096,0.4847,7633.93,High-Value Power Users,No,No
+CUST-00097,0.5103,3943.63,Low-Value Basic Users,No,No
+CUST-00098,0.2946,6801.86,At-Risk / Late-Payment Customers,Yes,No
+CUST-00099,0.2092,4470.86,Low-Value Basic Users,No,No
+CUST-00100,0.6355,2933.66,Low-Value Basic Users,No,No
+CUST-00101,0.7207,2740.76,Low-Value Basic Users,Yes,No
+CUST-00102,0.4396,4524.72,Loyal Long-Tenured Customers,No,No
+CUST-00103,0.4001,8400.44,High-Value Power Users,No,No
+CUST-00104,0.3219,3478.14,Low-Value Basic Users,No,No
+CUST-00105,0.6081,4718.8,Loyal Long-Tenured Customers,No,No
+CUST-00106,0.5132,4721.78,At-Risk / Late-Payment Customers,No,No
+CUST-00107,0.5145,3136.73,Loyal Long-Tenured Customers,No,No
+CUST-00108,0.2677,6379.21,Low-Value Basic Users,No,No
+CUST-00109,0.6071,6520.14,High-Value Power Users,No,Yes
+CUST-00110,0.5036,6240.92,At-Risk / Late-Payment Customers,No,Yes
+CUST-00111,0.2586,8282.07,Loyal Long-Tenured Customers,No,No
+CUST-00112,0.4869,2788.62,Low-Value Basic Users,No,No
+CUST-00113,0.2451,9162.54,Loyal Long-Tenured Customers,Yes,No
+CUST-00114,0.5851,4583.79,At-Risk / Late-Payment Customers,No,No
+CUST-00115,0.4312,4829.4,Loyal Long-Tenured Customers,No,No
+CUST-00116,0.3096,7105.01,High-Value Power Users,No,No
+CUST-00117,0.6003,6133.15,High-Value Power Users,No,Yes
+CUST-00118,0.6977,3979.7,Low-Value Basic Users,No,No
+CUST-00119,0.2608,4700.18,Low-Value Basic Users,No,No
+CUST-00120,0.155,8108.67,High-Value Power Users,No,No
+CUST-00121,0.1738,3976.68,Low-Value Basic Users,No,No
+CUST-00122,0.6503,6499.9,At-Risk / Late-Payment Customers,Yes,Yes
+CUST-00123,0.7329,4630.82,Low-Value Basic Users,No,No
+CUST-00124,0.5724,3144.75,Low-Value Basic Users,No,No
+CUST-00125,0.3531,7220.67,High-Value Power Users,No,No
+CUST-00126,0.3125,7077.25,High-Value Power Users,No,No
+CUST-00127,0.6607,6629.07,High-Value Power Users,No,Yes
+CUST-00128,0.1949,6340.91,Low-Value Basic Users,No,No
+CUST-00129,0.5783,5610.6,High-Value Power Users,No,Yes
+CUST-00130,0.2309,5041.19,Low-Value Basic Users,No,No
+CUST-00131,0.5515,5279.86,Low-Value Basic Users,No,No
+CUST-00132,0.5352,6715.08,High-Value Power Users,No,Yes
+CUST-00133,0.2376,4786.71,Low-Value Basic Users,No,No
+CUST-00134,0.3219,7218.78,At-Risk / Late-Payment Customers,No,No
+CUST-00135,0.6134,5950.89,High-Value Power Users,No,Yes
+CUST-00136,0.6141,3538.29,Low-Value Basic Users,No,No
+CUST-00137,0.2757,5733.63,High-Value Power Users,No,No
+CUST-00138,0.5715,3723.45,Low-Value Basic Users,No,No
+CUST-00139,0.2201,6371.07,High-Value Power Users,No,No
+CUST-00140,0.1713,7294.49,At-Risk / Late-Payment Customers,No,No
+CUST-00141,0.548,4425.15,Low-Value Basic Users,No,No
+CUST-00142,0.6181,6653.48,High-Value Power Users,No,Yes
+CUST-00143,0.524,4338.13,Low-Value Basic Users,No,No
+CUST-00144,0.3003,5716.67,At-Risk / Late-Payment Customers,No,No
+CUST-00145,0.6085,4604.36,Low-Value Basic Users,No,No
+CUST-00146,0.3387,6486.32,High-Value Power Users,No,No
+CUST-00147,0.7132,5808.97,At-Risk / Late-Payment Customers,No,Yes
+CUST-00148,0.1562,5791.57,Loyal Long-Tenured Customers,No,No
+CUST-00149,0.6236,4800.63,Low-Value Basic Users,No,No
+CUST-00150,0.6882,5567.79,High-Value Power Users,No,Yes
+CUST-00151,0.3015,3821.81,Low-Value Basic Users,No,No
+CUST-00152,0.3123,3243.7,Low-Value Basic Users,Yes,No
+CUST-00153,0.6289,4889.51,At-Risk / Late-Payment Customers,Yes,No
+CUST-00154,0.6481,4270.67,Low-Value Basic Users,No,No
+CUST-00155,0.1993,4013.99,Low-Value Basic Users,No,No
+CUST-00156,0.63,4870.98,High-Value Power Users,No,No
+CUST-00157,0.4357,5888.55,Loyal Long-Tenured Customers,No,No
+CUST-00158,0.425,5510.9,High-Value Power Users,No,No
+CUST-00159,0.7055,5964.11,High-Value Power Users,No,Yes
+CUST-00160,0.1528,5892.18,High-Value Power Users,No,No
+CUST-00161,0.2064,5408.37,Low-Value Basic Users,No,No
+CUST-00162,0.6536,4996.39,High-Value Power Users,No,No
+CUST-00163,0.2475,7668.77,At-Risk / Late-Payment Customers,No,No
+CUST-00164,0.5859,5211.03,Loyal Long-Tenured Customers,No,No
+CUST-00165,0.3529,6231.41,At-Risk / Late-Payment Customers,No,No
+CUST-00166,0.584,5268.33,Loyal Long-Tenured Customers,No,No
+CUST-00167,0.6691,6687.09,At-Risk / Late-Payment Customers,No,Yes
+CUST-00168,0.4555,7342.22,High-Value Power Users,No,No
+CUST-00169,0.6678,4700.56,High-Value Power Users,No,No
+CUST-00170,0.6918,5785.31,At-Risk / Late-Payment Customers,Yes,Yes
+CUST-00171,0.5194,4801.85,Low-Value Basic Users,No,No
+CUST-00172,0.3467,7303.54,High-Value Power Users,No,No
+CUST-00173,0.594,4483.87,Low-Value Basic Users,No,No
+CUST-00174,0.1545,7431.56,Loyal Long-Tenured Customers,No,No
+CUST-00175,0.3362,6137.68,Low-Value Basic Users,No,No
+CUST-00176,0.2682,6573.46,High-Value Power Users,No,No
+CUST-00177,0.3987,4001.37,Low-Value Basic Users,No,No
+CUST-00178,0.3483,5445.31,Low-Value Basic Users,No,No
+CUST-00179,0.4776,4004.13,Low-Value Basic Users,No,No
+CUST-00180,0.2559,6435.2,High-Value Power Users,No,No
+CUST-00181,0.2961,3683.78,Low-Value Basic Users,No,No
+CUST-00182,0.7108,5787.57,High-Value Power Users,No,Yes
+CUST-00183,0.1636,6827.72,High-Value Power Users,No,No
+CUST-00184,0.4488,6087.04,High-Value Power Users,No,No
+CUST-00185,0.4542,3494.89,Loyal Long-Tenured Customers,Yes,No
+CUST-00186,0.7093,5827.13,High-Value Power Users,No,Yes
+CUST-00187,0.2805,2805.3,Low-Value Basic Users,No,No
+CUST-00188,0.2653,6011.85,At-Risk / Late-Payment Customers,No,No
+CUST-00189,0.2166,9206.47,High-Value Power Users,No,No
+CUST-00190,0.5873,2376.35,Low-Value Basic Users,No,No
+CUST-00191,0.2912,3542.28,Low-Value Basic Users,No,No
+CUST-00192,0.2674,4229.1,Low-Value Basic Users,No,No
+CUST-00193,0.2289,7154.12,High-Value Power Users,No,No
+CUST-00194,0.3696,4275.58,Loyal Long-Tenured Customers,Yes,No
+CUST-00195,0.6225,6223.57,At-Risk / Late-Payment Customers,No,Yes
+CUST-00196,0.1959,4600.73,Low-Value Basic Users,No,No
+CUST-00197,0.5274,4759.86,Low-Value Basic Users,No,No
+CUST-00198,0.5685,3174.47,Low-Value Basic Users,No,No
+CUST-00199,0.5594,4835.38,At-Risk / Late-Payment Customers,No,No
+CUST-00200,0.6385,3601.98,Low-Value Basic Users,No,No
+CUST-00201,0.6049,7043.81,High-Value Power Users,No,Yes
+CUST-00202,0.6446,3675.92,Low-Value Basic Users,No,No
+CUST-00203,0.219,5541.08,Low-Value Basic Users,No,No
+CUST-00204,0.2648,7110.72,High-Value Power Users,No,No
+CUST-00205,0.6685,5416.49,High-Value Power Users,No,Yes
+CUST-00206,0.6692,5277.97,At-Risk / Late-Payment Customers,No,No
+CUST-00207,0.2533,4436.29,At-Risk / Late-Payment Customers,No,No
+CUST-00208,0.6388,3696.75,Low-Value Basic Users,No,No
+CUST-00209,0.2259,5956.46,At-Risk / Late-Payment Customers,No,No
+CUST-00210,0.2623,8241.84,High-Value Power Users,No,No
+CUST-00211,0.4817,5738.17,Loyal Long-Tenured Customers,No,No
+CUST-00212,0.6685,3172.33,Low-Value Basic Users,No,No
+CUST-00213,0.5723,4747.07,At-Risk / Late-Payment Customers,No,No
+CUST-00214,0.2351,6523.35,High-Value Power Users,No,No
+CUST-00215,0.6429,4837.39,High-Value Power Users,No,No
+CUST-00216,0.1813,7441.27,Loyal Long-Tenured Customers,Yes,No
+CUST-00217,0.372,4936.27,At-Risk / Late-Payment Customers,No,No
+CUST-00218,0.22,8194.14,High-Value Power Users,No,No
+CUST-00219,0.1897,5877.41,Loyal Long-Tenured Customers,No,No
+CUST-00220,0.3708,4246.45,Low-Value Basic Users,No,No
+CUST-00221,0.7046,5935.54,At-Risk / Late-Payment Customers,No,Yes
+CUST-00222,0.1519,6192.92,Loyal Long-Tenured Customers,Yes,No
+CUST-00223,0.534,4660.26,Low-Value Basic Users,No,No
+CUST-00224,0.6937,4851.93,High-Value Power Users,No,No
+CUST-00225,0.6178,3862.62,Low-Value Basic Users,No,No
+CUST-00226,0.6137,4699.7,High-Value Power Users,No,No
+CUST-00227,0.1541,6296.66,Loyal Long-Tenured Customers,No,No
+CUST-00228,0.4711,4569.48,High-Value Power Users,No,No
+CUST-00229,0.2804,8294.43,High-Value Power Users,No,No
+CUST-00230,0.2626,7111.42,At-Risk / Late-Payment Customers,No,No
+CUST-00231,0.5751,5413.77,Loyal Long-Tenured Customers,No,Yes
+CUST-00232,0.2769,8177.11,High-Value Power Users,No,No
+CUST-00233,0.5102,4813.63,At-Risk / Late-Payment Customers,No,No
+CUST-00234,0.3785,5678.82,Loyal Long-Tenured Customers,Yes,No
+CUST-00235,0.5289,6190.16,High-Value Power Users,No,Yes
+CUST-00236,0.6374,5322.62,High-Value Power Users,No,Yes
+CUST-00237,0.6435,5490.06,High-Value Power Users,No,Yes
+CUST-00238,0.5637,5648.42,At-Risk / Late-Payment Customers,No,Yes
+CUST-00239,0.5925,4637.2,Loyal Long-Tenured Customers,No,No
+CUST-00240,0.6531,4640.63,Low-Value Basic Users,No,No
+CUST-00241,0.2439,4966.04,Low-Value Basic Users,No,No
+CUST-00242,0.4208,5108.15,Loyal Long-Tenured Customers,No,No
+CUST-00243,0.2885,5475.19,High-Value Power Users,No,No
+CUST-00244,0.2917,7068.76,At-Risk / Late-Payment Customers,No,No
+CUST-00245,0.3207,5131.16,High-Value Power Users,No,No
+CUST-00246,0.1948,7310.57,Loyal Long-Tenured Customers,No,No
+CUST-00247,0.2661,3744.79,Low-Value Basic Users,No,No
+CUST-00248,0.2075,6735.63,High-Value Power Users,No,No
+CUST-00249,0.2143,7872.08,High-Value Power Users,No,No
+CUST-00250,0.2789,4438.43,Low-Value Basic Users,No,No
+CUST-00251,0.5956,4631.15,At-Risk / Late-Payment Customers,No,No
+CUST-00252,0.2275,6324.26,At-Risk / Late-Payment Customers,No,No
+CUST-00253,0.3097,5580.62,At-Risk / Late-Payment Customers,No,No
+CUST-00254,0.5111,4200.92,Low-Value Basic Users,No,No
+CUST-00255,0.4859,3920.89,Low-Value Basic Users,No,No
+CUST-00256,0.1953,6569.47,High-Value Power Users,No,No
+CUST-00257,0.2705,5815.12,High-Value Power Users,No,No
+CUST-00258,0.6547,5701.21,High-Value Power Users,No,Yes
+CUST-00259,0.547,5476.8,Loyal Long-Tenured Customers,No,Yes
+CUST-00260,0.3832,3382.68,Low-Value Basic Users,No,No
+CUST-00261,0.3529,5502.23,At-Risk / Late-Payment Customers,No,No
+CUST-00262,0.2208,8346.11,High-Value Power Users,No,No
+CUST-00263,0.2312,4447.13,Low-Value Basic Users,No,No
+CUST-00264,0.3823,4505.39,Loyal Long-Tenured Customers,No,No
+CUST-00265,0.5597,3333.52,Low-Value Basic Users,No,No
+CUST-00266,0.2168,5228.31,Low-Value Basic Users,No,No
+CUST-00267,0.2759,5647.16,Low-Value Basic Users,No,No
+CUST-00268,0.5999,4587.55,High-Value Power Users,No,No
+CUST-00269,0.6384,5365.06,High-Value Power Users,No,Yes
+CUST-00270,0.4335,3659.06,Low-Value Basic Users,No,No
+CUST-00271,0.1697,6707.22,Loyal Long-Tenured Customers,No,No
+CUST-00272,0.3041,3654.05,At-Risk / Late-Payment Customers,Yes,No
+CUST-00273,0.3486,5550.42,Loyal Long-Tenured Customers,No,No
+CUST-00274,0.2008,8716.79,High-Value Power Users,No,No
+CUST-00275,0.2397,4352.72,Low-Value Basic Users,No,No
+CUST-00276,0.2525,5103.03,Low-Value Basic Users,No,No
+CUST-00277,0.4296,2951.45,Low-Value Basic Users,No,No
+CUST-00278,0.5955,5554.0,At-Risk / Late-Payment Customers,No,Yes
+CUST-00279,0.2666,7623.37,High-Value Power Users,No,No
+CUST-00280,0.1525,6243.42,Loyal Long-Tenured Customers,No,No
+CUST-00281,0.2511,4813.93,Low-Value Basic Users,No,No
+CUST-00282,0.177,3752.51,Low-Value Basic Users,No,No
+CUST-00283,0.5443,4187.07,Low-Value Basic Users,No,No
+CUST-00284,0.5735,2838.44,Low-Value Basic Users,No,No
+CUST-00285,0.542,5648.86,High-Value Power Users,No,Yes
+CUST-00286,0.2223,7415.0,High-Value Power Users,Yes,No
+CUST-00287,0.6366,5423.87,At-Risk / Late-Payment Customers,No,Yes
+CUST-00288,0.2294,6194.17,High-Value Power Users,No,No
+CUST-00289,0.192,6957.43,At-Risk / Late-Payment Customers,No,No
+CUST-00290,0.2511,5632.83,Low-Value Basic Users,No,No
+CUST-00291,0.2922,7323.88,High-Value Power Users,No,No
+CUST-00292,0.2367,8070.07,High-Value Power Users,No,No
+CUST-00293,0.4339,3532.74,Low-Value Basic Users,No,No
+CUST-00294,0.2437,5420.77,At-Risk / Late-Payment Customers,No,No
+CUST-00295,0.692,5727.48,At-Risk / Late-Payment Customers,No,Yes
+CUST-00296,0.4268,5566.67,Loyal Long-Tenured Customers,No,No
+CUST-00297,0.2655,6169.93,At-Risk / Late-Payment Customers,No,No
+CUST-00298,0.2746,6754.47,High-Value Power Users,No,No
+CUST-00299,0.6139,6256.64,High-Value Power Users,No,Yes
+CUST-00300,0.5375,4830.63,At-Risk / Late-Payment Customers,No,No
+CUST-00301,0.7121,4283.57,At-Risk / Late-Payment Customers,No,No
+CUST-00302,0.187,5895.2,High-Value Power Users,No,No
+CUST-00303,0.2688,6782.24,High-Value Power Users,No,No
+CUST-00304,0.5436,4571.85,At-Risk / Late-Payment Customers,No,No
+CUST-00305,0.2816,6521.62,At-Risk / Late-Payment Customers,No,No
+CUST-00306,0.2328,8986.95,High-Value Power Users,No,No
+CUST-00307,0.2038,7448.15,High-Value Power Users,No,No
+CUST-00308,0.6549,5018.92,High-Value Power Users,No,No
+CUST-00309,0.3192,5365.28,At-Risk / Late-Payment Customers,No,No
+CUST-00310,0.5341,3453.22,Low-Value Basic Users,No,No
+CUST-00311,0.5707,5696.91,At-Risk / Late-Payment Customers,No,Yes
+CUST-00312,0.4073,3284.29,Low-Value Basic Users,No,No
+CUST-00313,0.5375,3659.92,Low-Value Basic Users,No,No
+CUST-00314,0.2682,4776.31,At-Risk / Late-Payment Customers,No,No
+CUST-00315,0.6317,4821.23,High-Value Power Users,No,No
+CUST-00316,0.5743,5920.23,High-Value Power Users,No,Yes
+CUST-00317,0.4328,4896.0,Loyal Long-Tenured Customers,No,No
+CUST-00318,0.561,5496.7,Loyal Long-Tenured Customers,No,Yes
+CUST-00319,0.4135,6804.21,High-Value Power Users,No,No
+CUST-00320,0.5363,4642.07,At-Risk / Late-Payment Customers,No,No
+CUST-00321,0.5487,4899.69,At-Risk / Late-Payment Customers,No,No
+CUST-00322,0.1834,5404.46,At-Risk / Late-Payment Customers,No,No
+CUST-00323,0.5952,5836.16,High-Value Power Users,No,Yes
+CUST-00324,0.3091,10821.63,High-Value Power Users,Yes,No
+CUST-00325,0.3731,4926.28,Low-Value Basic Users,No,No
+CUST-00326,0.2584,4762.76,Low-Value Basic Users,No,No
+CUST-00327,0.2614,3544.43,Low-Value Basic Users,No,No
+CUST-00328,0.6655,7168.23,At-Risk / Late-Payment Customers,No,Yes
+CUST-00329,0.157,7499.96,Loyal Long-Tenured Customers,No,No
+CUST-00330,0.3334,9362.71,High-Value Power Users,No,No
+CUST-00331,0.6747,4591.55,At-Risk / Late-Payment Customers,No,No
+CUST-00332,0.2178,7823.79,High-Value Power Users,No,No
+CUST-00333,0.5212,4882.02,Loyal Long-Tenured Customers,No,No
+CUST-00334,0.1966,6627.45,High-Value Power Users,No,No
+CUST-00335,0.2439,4164.33,Low-Value Basic Users,No,No
+CUST-00336,0.5066,4720.68,High-Value Power Users,No,No
+CUST-00337,0.2789,4789.95,Low-Value Basic Users,No,No
+CUST-00338,0.2507,4526.95,Low-Value Basic Users,No,No
+CUST-00339,0.2708,4814.0,Low-Value Basic Users,No,No
+CUST-00340,0.6125,6444.27,High-Value Power Users,No,Yes
+CUST-00341,0.422,5125.14,At-Risk / Late-Payment Customers,No,No
+CUST-00342,0.3488,2742.2,At-Risk / Late-Payment Customers,Yes,No
+CUST-00343,0.4046,4104.44,Loyal Long-Tenured Customers,No,No
+CUST-00344,0.1473,6166.13,Loyal Long-Tenured Customers,No,No
+CUST-00345,0.2661,4115.28,Low-Value Basic Users,No,No
+CUST-00346,0.2674,8211.61,High-Value Power Users,No,No
+CUST-00347,0.2876,4372.82,Low-Value Basic Users,No,No
+CUST-00348,0.7313,5689.92,At-Risk / Late-Payment Customers,No,Yes
+CUST-00349,0.2795,6804.78,High-Value Power Users,No,No
+CUST-00350,0.3952,5411.11,Low-Value Basic Users,No,No
+CUST-00351,0.554,5279.68,High-Value Power Users,No,No
+CUST-00352,0.61,3643.31,Low-Value Basic Users,No,No
+CUST-00353,0.6458,3222.22,Low-Value Basic Users,No,No
+CUST-00354,0.3872,7236.13,High-Value Power Users,No,No
+CUST-00355,0.3696,3155.33,Low-Value Basic Users,Yes,No
+CUST-00356,0.2437,6605.36,Low-Value Basic Users,No,No
+CUST-00357,0.2202,6391.64,High-Value Power Users,No,No
+CUST-00358,0.2844,5467.55,At-Risk / Late-Payment Customers,No,No
+CUST-00359,0.6807,5432.79,At-Risk / Late-Payment Customers,No,Yes
+CUST-00360,0.2801,4554.65,Low-Value Basic Users,No,No
+CUST-00361,0.5094,5865.39,High-Value Power Users,No,Yes
+CUST-00362,0.2583,6088.35,High-Value Power Users,No,No
+CUST-00363,0.6272,5444.63,At-Risk / Late-Payment Customers,No,Yes
+CUST-00364,0.2252,6300.65,Loyal Long-Tenured Customers,No,No
+CUST-00365,0.6093,6766.05,High-Value Power Users,No,Yes
+CUST-00366,0.6733,4923.29,High-Value Power Users,No,No
+CUST-00367,0.1833,6612.74,High-Value Power Users,No,No
+CUST-00368,0.6293,6345.23,High-Value Power Users,No,Yes
+CUST-00369,0.1988,4960.44,Low-Value Basic Users,No,No
+CUST-00370,0.1708,7951.31,High-Value Power Users,No,No
+CUST-00371,0.6438,5520.38,At-Risk / Late-Payment Customers,No,Yes
+CUST-00372,0.5511,4739.81,Low-Value Basic Users,No,No
+CUST-00373,0.2506,4859.91,Low-Value Basic Users,No,No
+CUST-00374,0.2459,3936.68,Low-Value Basic Users,No,No
+CUST-00375,0.1937,4009.09,Low-Value Basic Users,No,No
+CUST-00376,0.5715,6895.32,High-Value Power Users,Yes,Yes
+CUST-00377,0.2387,3895.32,Low-Value Basic Users,No,No
+CUST-00378,0.6852,5181.18,High-Value Power Users,No,No
+CUST-00379,0.2433,2765.58,Low-Value Basic Users,No,No
+CUST-00380,0.2263,3602.98,Loyal Long-Tenured Customers,No,No
+CUST-00381,0.276,6136.76,Low-Value Basic Users,No,No
+CUST-00382,0.5324,6460.98,Loyal Long-Tenured Customers,No,Yes
+CUST-00383,0.5135,3906.84,Low-Value Basic Users,No,No
+CUST-00384,0.5999,4536.51,At-Risk / Late-Payment Customers,No,No
+CUST-00385,0.587,5558.58,At-Risk / Late-Payment Customers,No,Yes
+CUST-00386,0.5469,5330.46,High-Value Power Users,No,Yes
+CUST-00387,0.204,4289.03,Low-Value Basic Users,No,No
+CUST-00388,0.3882,5011.08,Loyal Long-Tenured Customers,No,No
+CUST-00389,0.651,6443.15,High-Value Power Users,No,Yes
+CUST-00390,0.3377,8406.5,High-Value Power Users,No,No
+CUST-00391,0.5698,3530.0,Low-Value Basic Users,No,No
+CUST-00392,0.5739,4859.42,Loyal Long-Tenured Customers,No,No
+CUST-00393,0.2098,9082.84,High-Value Power Users,No,No
+CUST-00394,0.4029,4254.21,Loyal Long-Tenured Customers,No,No
+CUST-00395,0.3971,4180.02,Loyal Long-Tenured Customers,Yes,No
+CUST-00396,0.279,5636.09,At-Risk / Late-Payment Customers,No,No
+CUST-00397,0.5539,2846.3,Low-Value Basic Users,No,No
+CUST-00398,0.6509,6265.19,High-Value Power Users,No,Yes
+CUST-00399,0.6881,5974.89,At-Risk / Late-Payment Customers,No,Yes
+CUST-00400,0.4882,3107.58,Low-Value Basic Users,Yes,No
+CUST-00401,0.2179,6892.03,High-Value Power Users,No,No
+CUST-00402,0.6523,4381.01,At-Risk / Late-Payment Customers,No,No
+CUST-00403,0.6167,4830.08,Low-Value Basic Users,No,No
+CUST-00404,0.5646,5451.96,High-Value Power Users,No,Yes
+CUST-00405,0.25,8301.78,High-Value Power Users,No,No
+CUST-00406,0.5985,5368.55,High-Value Power Users,No,Yes
+CUST-00407,0.3073,7248.19,High-Value Power Users,No,No
+CUST-00408,0.5012,3740.4,Low-Value Basic Users,No,No
+CUST-00409,0.2403,10428.77,High-Value Power Users,No,No
+CUST-00410,0.6377,4793.23,Low-Value Basic Users,No,No
+CUST-00411,0.5386,3802.07,Low-Value Basic Users,No,No
+CUST-00412,0.6516,5347.01,High-Value Power Users,No,Yes
+CUST-00413,0.5622,3324.21,Low-Value Basic Users,No,No
+CUST-00414,0.2953,3556.12,Low-Value Basic Users,No,No
+CUST-00415,0.3211,4733.9,Low-Value Basic Users,No,No
+CUST-00416,0.166,4543.56,Loyal Long-Tenured Customers,No,No
+CUST-00417,0.6054,3859.45,At-Risk / Late-Payment Customers,No,No
+CUST-00418,0.3392,8147.17,High-Value Power Users,No,No
+CUST-00419,0.4577,2364.53,Low-Value Basic Users,No,No
+CUST-00420,0.2168,8949.35,High-Value Power Users,No,No
+CUST-00421,0.3587,5364.33,At-Risk / Late-Payment Customers,No,No
+CUST-00422,0.374,7958.44,High-Value Power Users,No,No
+CUST-00423,0.2799,4021.9,Low-Value Basic Users,No,No
+CUST-00424,0.2466,6599.98,Loyal Long-Tenured Customers,No,No
+CUST-00425,0.2947,2123.44,Low-Value Basic Users,No,No
+CUST-00426,0.5802,4553.18,Low-Value Basic Users,No,No
+CUST-00427,0.2636,6183.03,High-Value Power Users,No,No
+CUST-00428,0.6664,4485.76,Low-Value Basic Users,No,No
+CUST-00429,0.529,6094.01,High-Value Power Users,No,Yes
+CUST-00430,0.2625,7193.22,High-Value Power Users,No,No
+CUST-00431,0.6121,1851.68,Low-Value Basic Users,Yes,No
+CUST-00432,0.2847,6005.33,High-Value Power Users,No,No
+CUST-00433,0.5811,5530.1,At-Risk / Late-Payment Customers,No,Yes
+CUST-00434,0.3694,4178.97,Loyal Long-Tenured Customers,No,No
+CUST-00435,0.1574,10753.54,High-Value Power Users,Yes,No
+CUST-00436,0.6055,6306.23,High-Value Power Users,No,Yes
+CUST-00437,0.2575,5785.06,Low-Value Basic Users,No,No
+CUST-00438,0.2962,4427.1,Low-Value Basic Users,No,No
+CUST-00439,0.1838,5028.48,Low-Value Basic Users,No,No
+CUST-00440,0.6784,4221.82,Low-Value Basic Users,No,No
+CUST-00441,0.2863,5380.04,High-Value Power Users,No,No
+CUST-00442,0.6813,3990.59,Low-Value Basic Users,No,No
+CUST-00443,0.6494,3928.67,Low-Value Basic Users,No,No
+CUST-00444,0.6361,4879.4,High-Value Power Users,No,No
+CUST-00445,0.555,6120.26,High-Value Power Users,No,Yes
+CUST-00446,0.624,5618.12,High-Value Power Users,No,Yes
+CUST-00447,0.6614,3779.55,Low-Value Basic Users,No,No
+CUST-00448,0.694,4049.49,Low-Value Basic Users,No,No
+CUST-00449,0.2571,4489.52,Low-Value Basic Users,No,No
+CUST-00450,0.6259,4189.12,Low-Value Basic Users,No,No
+CUST-00451,0.5191,4390.21,At-Risk / Late-Payment Customers,No,No
+CUST-00452,0.4255,6699.58,High-Value Power Users,No,No
+CUST-00453,0.5948,4984.5,High-Value Power Users,No,No
+CUST-00454,0.3087,5284.99,Low-Value Basic Users,No,No
+CUST-00455,0.189,7049.24,High-Value Power Users,No,No
+CUST-00456,0.3285,5364.02,Low-Value Basic Users,Yes,No
+CUST-00457,0.2176,4600.93,Low-Value Basic Users,No,No
+CUST-00458,0.5925,5456.96,High-Value Power Users,No,Yes
+CUST-00459,0.1892,4460.18,Low-Value Basic Users,No,No
+CUST-00460,0.3962,6570.61,Loyal Long-Tenured Customers,No,No
+CUST-00461,0.6469,2927.65,Low-Value Basic Users,Yes,No
+CUST-00462,0.4693,3860.38,Loyal Long-Tenured Customers,No,No
+CUST-00463,0.5201,5190.85,High-Value Power Users,No,No
+CUST-00464,0.2096,5075.69,Low-Value Basic Users,No,No
+CUST-00465,0.6286,5546.56,High-Value Power Users,No,Yes
+CUST-00466,0.5835,6327.77,High-Value Power Users,No,Yes
+CUST-00467,0.7113,3956.48,Low-Value Basic Users,No,No
+CUST-00468,0.2759,3135.22,Low-Value Basic Users,No,No
+CUST-00469,0.2552,6653.6,High-Value Power Users,No,No
+CUST-00470,0.2775,5042.41,Low-Value Basic Users,No,No
+CUST-00471,0.2401,7228.42,Loyal Long-Tenured Customers,No,No
+CUST-00472,0.2991,7003.93,At-Risk / Late-Payment Customers,No,No
+CUST-00473,0.4853,6724.7,High-Value Power Users,No,No
+CUST-00474,0.494,4830.61,High-Value Power Users,No,No
+CUST-00475,0.5868,5638.95,Loyal Long-Tenured Customers,No,Yes
+CUST-00476,0.6066,4821.11,Loyal Long-Tenured Customers,No,No
+CUST-00477,0.4758,6497.43,At-Risk / Late-Payment Customers,No,No
+CUST-00478,0.5602,5324.34,At-Risk / Late-Payment Customers,No,Yes
+CUST-00479,0.6029,3917.03,Low-Value Basic Users,No,No
+CUST-00480,0.2795,6558.75,At-Risk / Late-Payment Customers,No,No
+CUST-00481,0.5354,5057.56,Low-Value Basic Users,No,No
+CUST-00482,0.451,5123.56,High-Value Power Users,No,No
+CUST-00483,0.5165,4799.06,High-Value Power Users,No,No
+CUST-00484,0.312,4070.03,At-Risk / Late-Payment Customers,No,No
+CUST-00485,0.4344,4992.47,Loyal Long-Tenured Customers,No,No
+CUST-00486,0.5245,6964.58,High-Value Power Users,No,Yes
+CUST-00487,0.6671,4189.04,At-Risk / Late-Payment Customers,Yes,No
+CUST-00488,0.245,6432.19,High-Value Power Users,No,No
+CUST-00489,0.7537,5742.43,At-Risk / Late-Payment Customers,No,Yes
+CUST-00490,0.5245,4443.63,Loyal Long-Tenured Customers,No,No
+CUST-00491,0.1616,6879.92,Loyal Long-Tenured Customers,Yes,No
+CUST-00492,0.2074,5226.96,Loyal Long-Tenured Customers,No,No
+CUST-00493,0.4958,3308.31,Low-Value Basic Users,No,No
+CUST-00494,0.5304,4431.21,At-Risk / Late-Payment Customers,No,No
+CUST-00495,0.4513,5130.64,At-Risk / Late-Payment Customers,No,No
+CUST-00496,0.4944,4982.1,At-Risk / Late-Payment Customers,No,No
+CUST-00497,0.3769,4216.06,Loyal Long-Tenured Customers,No,No
+CUST-00498,0.3375,7476.61,At-Risk / Late-Payment Customers,No,No
+CUST-00499,0.3067,3860.78,Low-Value Basic Users,No,No
+CUST-00500,0.1435,4294.89,Loyal Long-Tenured Customers,Yes,No
+CUST-00501,0.6333,5515.97,High-Value Power Users,No,Yes
+CUST-00502,0.2267,6030.93,At-Risk / Late-Payment Customers,No,No
+CUST-00503,0.3905,3095.07,At-Risk / Late-Payment Customers,Yes,No
+CUST-00504,0.3541,5881.18,High-Value Power Users,No,No
+CUST-00505,0.5553,4293.37,At-Risk / Late-Payment Customers,No,No
+CUST-00506,0.1974,3913.51,Low-Value Basic Users,No,No
+CUST-00507,0.3089,5630.52,Loyal Long-Tenured Customers,No,No
+CUST-00508,0.2148,5430.36,At-Risk / Late-Payment Customers,No,No
+CUST-00509,0.3551,5425.64,At-Risk / Late-Payment Customers,No,No
+CUST-00510,0.5563,5534.55,High-Value Power Users,No,Yes
+CUST-00511,0.4808,5635.6,High-Value Power Users,No,No
+CUST-00512,0.295,3701.21,Low-Value Basic Users,No,No
+CUST-00513,0.2188,5676.07,Low-Value Basic Users,No,No
+CUST-00514,0.2793,4879.54,Loyal Long-Tenured Customers,No,No
+CUST-00515,0.5339,2982.0,Low-Value Basic Users,No,No
+CUST-00516,0.4655,4048.77,Loyal Long-Tenured Customers,No,No
+CUST-00517,0.2116,3754.09,Low-Value Basic Users,No,No
+CUST-00518,0.2069,7707.98,High-Value Power Users,No,No
+CUST-00519,0.4379,3284.13,Low-Value Basic Users,No,No
+CUST-00520,0.5207,5211.55,High-Value Power Users,No,No
+CUST-00521,0.2282,5066.88,Low-Value Basic Users,No,No
+CUST-00522,0.5817,6673.32,At-Risk / Late-Payment Customers,No,Yes
+CUST-00523,0.5867,5782.74,High-Value Power Users,No,Yes
+CUST-00524,0.6117,5575.27,High-Value Power Users,No,Yes
+CUST-00525,0.7219,5077.74,Low-Value Basic Users,No,No
+CUST-00526,0.5491,5934.47,High-Value Power Users,No,Yes
+CUST-00527,0.3761,5526.58,Low-Value Basic Users,No,No
+CUST-00528,0.312,6554.64,High-Value Power Users,No,No
+CUST-00529,0.2801,5391.05,High-Value Power Users,No,No
+CUST-00530,0.2733,4998.87,Low-Value Basic Users,No,No
+CUST-00531,0.6613,3887.7,Low-Value Basic Users,Yes,No
+CUST-00532,0.528,4893.19,High-Value Power Users,No,No
+CUST-00533,0.5021,5611.83,Loyal Long-Tenured Customers,No,Yes
+CUST-00534,0.5184,4917.33,High-Value Power Users,No,No
+CUST-00535,0.1424,5588.32,Loyal Long-Tenured Customers,No,No
+CUST-00536,0.6861,6127.3,High-Value Power Users,No,Yes
+CUST-00537,0.3795,4219.27,Low-Value Basic Users,No,No
+CUST-00538,0.4038,4014.29,Low-Value Basic Users,No,No
+CUST-00539,0.5891,3289.42,Low-Value Basic Users,No,No
+CUST-00540,0.6427,3713.36,Low-Value Basic Users,No,No
+CUST-00541,0.7303,5956.8,At-Risk / Late-Payment Customers,No,Yes
+CUST-00542,0.2127,6881.91,High-Value Power Users,No,No
+CUST-00543,0.2273,8059.21,High-Value Power Users,No,No
+CUST-00544,0.5302,5103.51,At-Risk / Late-Payment Customers,No,No
+CUST-00545,0.2202,5797.58,High-Value Power Users,No,No
+CUST-00546,0.341,5925.06,High-Value Power Users,No,No
+CUST-00547,0.6819,5244.51,At-Risk / Late-Payment Customers,No,No
+CUST-00548,0.436,7472.12,High-Value Power Users,No,No
+CUST-00549,0.5978,5219.4,High-Value Power Users,No,No
+CUST-00550,0.5312,5436.64,High-Value Power Users,No,Yes
+CUST-00551,0.2152,6639.96,Loyal Long-Tenured Customers,No,No
+CUST-00552,0.5329,4876.98,Loyal Long-Tenured Customers,No,No
+CUST-00553,0.6971,5501.47,High-Value Power Users,No,Yes
+CUST-00554,0.2648,6379.87,Low-Value Basic Users,Yes,No
+CUST-00555,0.5531,7032.99,High-Value Power Users,No,Yes
+CUST-00556,0.189,4686.73,Low-Value Basic Users,No,No
+CUST-00557,0.7362,4603.98,Low-Value Basic Users,No,No
+CUST-00558,0.6178,4369.58,Low-Value Basic Users,No,No
+CUST-00559,0.6472,4233.29,Low-Value Basic Users,No,No
+CUST-00560,0.6482,3652.38,At-Risk / Late-Payment Customers,No,No
+CUST-00561,0.7304,4099.27,Low-Value Basic Users,No,No
+CUST-00562,0.2813,7224.3,High-Value Power Users,No,No
+CUST-00563,0.2688,7896.87,High-Value Power Users,No,No
+CUST-00564,0.2086,5030.63,Low-Value Basic Users,No,No
+CUST-00565,0.6941,4315.59,At-Risk / Late-Payment Customers,No,No
+CUST-00566,0.2589,7997.97,High-Value Power Users,No,No
+CUST-00567,0.6726,5497.55,At-Risk / Late-Payment Customers,No,Yes
+CUST-00568,0.1869,9741.27,At-Risk / Late-Payment Customers,Yes,No
+CUST-00569,0.2308,6303.34,High-Value Power Users,No,No
+CUST-00570,0.3167,8050.36,At-Risk / Late-Payment Customers,Yes,No
+CUST-00571,0.5866,7241.26,High-Value Power Users,No,Yes
+CUST-00572,0.219,2988.51,Low-Value Basic Users,No,No
+CUST-00573,0.4108,7137.62,At-Risk / Late-Payment Customers,No,No
+CUST-00574,0.6539,6354.32,High-Value Power Users,No,Yes
+CUST-00575,0.4041,3387.49,Low-Value Basic Users,No,No
+CUST-00576,0.5246,5545.42,At-Risk / Late-Payment Customers,No,Yes
+CUST-00577,0.5962,5316.09,At-Risk / Late-Payment Customers,No,Yes
+CUST-00578,0.2091,6464.23,High-Value Power Users,No,No
+CUST-00579,0.3333,6864.05,High-Value Power Users,No,No
+CUST-00580,0.4192,5108.05,Low-Value Basic Users,No,No
+CUST-00581,0.6294,2386.91,Low-Value Basic Users,No,No
+CUST-00582,0.4221,6230.21,Loyal Long-Tenured Customers,No,No
+CUST-00583,0.6,6698.88,High-Value Power Users,No,Yes
+CUST-00584,0.5782,3810.13,Low-Value Basic Users,No,No
+CUST-00585,0.6481,4816.19,At-Risk / Late-Payment Customers,No,No
+CUST-00586,0.3525,5232.23,Low-Value Basic Users,No,No
+CUST-00587,0.4683,4171.82,Low-Value Basic Users,No,No
+CUST-00588,0.5072,4529.26,Low-Value Basic Users,No,No
+CUST-00589,0.5331,5882.08,Loyal Long-Tenured Customers,No,Yes
+CUST-00590,0.442,5781.92,High-Value Power Users,No,No
+CUST-00591,0.5524,6711.73,High-Value Power Users,No,Yes
+CUST-00592,0.5164,3680.23,Loyal Long-Tenured Customers,Yes,No
+CUST-00593,0.5986,3249.26,Low-Value Basic Users,No,No
+CUST-00594,0.4058,4370.37,Loyal Long-Tenured Customers,No,No
+CUST-00595,0.2667,5532.68,At-Risk / Late-Payment Customers,No,No
+CUST-00596,0.2303,6043.56,Loyal Long-Tenured Customers,No,No
+CUST-00597,0.5918,4257.45,Low-Value Basic Users,No,No
+CUST-00598,0.7228,3847.02,Low-Value Basic Users,No,No
+CUST-00599,0.4021,4115.86,Low-Value Basic Users,No,No
+CUST-00600,0.5452,4874.0,Loyal Long-Tenured Customers,No,No
+CUST-00601,0.2973,7107.34,High-Value Power Users,No,No
+CUST-00602,0.2562,7582.7,High-Value Power Users,No,No
+CUST-00603,0.5683,4516.12,At-Risk / Late-Payment Customers,No,No
+CUST-00604,0.5045,6286.92,High-Value Power Users,No,Yes
+CUST-00605,0.4803,4485.16,Loyal Long-Tenured Customers,No,No
+CUST-00606,0.5303,5918.97,High-Value Power Users,No,Yes
+CUST-00607,0.1912,3999.95,Low-Value Basic Users,No,No
+CUST-00608,0.6022,5119.25,At-Risk / Late-Payment Customers,No,No
+CUST-00609,0.4514,7929.43,Loyal Long-Tenured Customers,Yes,No
+CUST-00610,0.6151,3690.67,Low-Value Basic Users,No,No
+CUST-00611,0.546,6818.33,High-Value Power Users,No,Yes
+CUST-00612,0.6757,3303.41,Low-Value Basic Users,No,No
+CUST-00613,0.6632,5602.37,High-Value Power Users,No,Yes
+CUST-00614,0.4246,3967.17,Low-Value Basic Users,No,No
+CUST-00615,0.6897,5525.31,High-Value Power Users,No,Yes
+CUST-00616,0.1486,7644.88,High-Value Power Users,No,No
+CUST-00617,0.4808,5533.65,High-Value Power Users,No,No
+CUST-00618,0.5838,4702.01,Low-Value Basic Users,No,No
+CUST-00619,0.1521,9097.57,Loyal Long-Tenured Customers,Yes,No
+CUST-00620,0.4808,4991.35,Low-Value Basic Users,No,No
+CUST-00621,0.2803,5647.34,High-Value Power Users,No,No
+CUST-00622,0.1626,6310.36,High-Value Power Users,No,No
+CUST-00623,0.4219,6753.41,High-Value Power Users,No,No
+CUST-00624,0.6097,4197.36,Loyal Long-Tenured Customers,No,No
+CUST-00625,0.2864,5723.01,At-Risk / Late-Payment Customers,No,No
+CUST-00626,0.6272,4794.36,Low-Value Basic Users,No,No
+CUST-00627,0.3929,3641.13,Low-Value Basic Users,No,No
+CUST-00628,0.3674,7455.75,High-Value Power Users,No,No
+CUST-00629,0.6625,4030.97,Low-Value Basic Users,No,No
+CUST-00630,0.2921,5652.47,Loyal Long-Tenured Customers,No,No
+CUST-00631,0.1693,7964.35,High-Value Power Users,No,No
+CUST-00632,0.2338,9652.74,High-Value Power Users,Yes,No
+CUST-00633,0.2534,6744.81,High-Value Power Users,No,No
+CUST-00634,0.39,5301.43,At-Risk / Late-Payment Customers,No,No
+CUST-00635,0.4982,6619.25,High-Value Power Users,No,No
+CUST-00636,0.2714,6243.65,At-Risk / Late-Payment Customers,No,No
+CUST-00637,0.1927,4514.73,Low-Value Basic Users,No,No
+CUST-00638,0.1934,4587.25,Low-Value Basic Users,No,No
+CUST-00639,0.2796,4989.77,Low-Value Basic Users,No,No
+CUST-00640,0.3213,5058.8,Low-Value Basic Users,No,No
+CUST-00641,0.5933,3816.56,At-Risk / Late-Payment Customers,No,No
+CUST-00642,0.193,4857.4,Low-Value Basic Users,No,No
+CUST-00643,0.5994,3848.24,At-Risk / Late-Payment Customers,No,No
+CUST-00644,0.5903,3344.84,Low-Value Basic Users,No,No
+CUST-00645,0.5363,5763.01,High-Value Power Users,No,Yes
+CUST-00646,0.2466,5288.13,Low-Value Basic Users,No,No
+CUST-00647,0.248,5475.03,High-Value Power Users,No,No
+CUST-00648,0.4526,4265.73,Low-Value Basic Users,No,No
+CUST-00649,0.607,4291.84,Low-Value Basic Users,No,No
+CUST-00650,0.5166,3945.12,Low-Value Basic Users,No,No
+CUST-00651,0.468,4100.08,Low-Value Basic Users,No,No
+CUST-00652,0.4805,3952.16,Loyal Long-Tenured Customers,No,No
+CUST-00653,0.2232,5565.92,At-Risk / Late-Payment Customers,No,No
+CUST-00654,0.4066,4986.79,Loyal Long-Tenured Customers,No,No
+CUST-00655,0.585,5458.49,At-Risk / Late-Payment Customers,No,Yes
+CUST-00656,0.4093,1961.84,Low-Value Basic Users,No,No
+CUST-00657,0.6054,4899.52,High-Value Power Users,No,No
+CUST-00658,0.1757,5404.58,Low-Value Basic Users,No,No
+CUST-00659,0.5955,4920.27,High-Value Power Users,No,No
+CUST-00660,0.4158,5385.95,At-Risk / Late-Payment Customers,No,No
+CUST-00661,0.3989,4398.24,Low-Value Basic Users,No,No
+CUST-00662,0.5757,5004.23,Loyal Long-Tenured Customers,No,No
+CUST-00663,0.2331,8337.44,High-Value Power Users,No,No
+CUST-00664,0.272,8048.43,At-Risk / Late-Payment Customers,No,No
+CUST-00665,0.2066,4979.92,Low-Value Basic Users,No,No
+CUST-00666,0.1905,4854.14,Low-Value Basic Users,No,No
+CUST-00667,0.6269,5141.72,Low-Value Basic Users,No,No
+CUST-00668,0.4998,5346.22,At-Risk / Late-Payment Customers,No,No
+CUST-00669,0.6033,4904.23,Low-Value Basic Users,No,No
+CUST-00670,0.6262,3414.63,Low-Value Basic Users,No,No
+CUST-00671,0.5967,5279.71,High-Value Power Users,No,No
+CUST-00672,0.7146,3172.01,At-Risk / Late-Payment Customers,Yes,No
+CUST-00673,0.5719,4428.1,Loyal Long-Tenured Customers,No,No
+CUST-00674,0.5287,5249.87,High-Value Power Users,No,No
+CUST-00675,0.2518,5618.23,Loyal Long-Tenured Customers,No,No
+CUST-00676,0.5493,6967.57,High-Value Power Users,No,Yes
+CUST-00677,0.471,4654.44,Low-Value Basic Users,No,No
+CUST-00678,0.6625,5850.2,High-Value Power Users,No,Yes
+CUST-00679,0.2164,8166.63,High-Value Power Users,Yes,No
+CUST-00680,0.4565,5506.17,Low-Value Basic Users,No,No
+CUST-00681,0.2657,8049.49,High-Value Power Users,No,No
+CUST-00682,0.6172,5255.44,High-Value Power Users,No,No
+CUST-00683,0.5878,3044.91,Low-Value Basic Users,No,No
+CUST-00684,0.2908,6886.98,High-Value Power Users,No,No
+CUST-00685,0.51,5699.2,Loyal Long-Tenured Customers,No,Yes
+CUST-00686,0.6977,4197.03,At-Risk / Late-Payment Customers,No,No
+CUST-00687,0.6276,3243.9,Low-Value Basic Users,No,No
+CUST-00688,0.5621,5311.43,High-Value Power Users,No,Yes
+CUST-00689,0.3604,3827.88,Loyal Long-Tenured Customers,Yes,No
+CUST-00690,0.5561,4515.27,Low-Value Basic Users,No,No
+CUST-00691,0.4912,4945.02,Low-Value Basic Users,No,No
+CUST-00692,0.2293,6431.76,High-Value Power Users,No,No
+CUST-00693,0.5147,3837.47,Low-Value Basic Users,No,No
+CUST-00694,0.5709,5766.95,Loyal Long-Tenured Customers,No,Yes
+CUST-00695,0.1917,5594.63,Low-Value Basic Users,No,No
+CUST-00696,0.4843,3563.63,Loyal Long-Tenured Customers,No,No
+CUST-00697,0.1771,4415.17,Low-Value Basic Users,No,No
+CUST-00698,0.3817,5780.32,Loyal Long-Tenured Customers,No,No
+CUST-00699,0.3297,4887.14,Low-Value Basic Users,No,No
+CUST-00700,0.2036,7243.43,High-Value Power Users,No,No
+CUST-00701,0.7113,2234.85,Low-Value Basic Users,Yes,No
+CUST-00702,0.2105,5519.08,Loyal Long-Tenured Customers,No,No
+CUST-00703,0.3885,6181.93,At-Risk / Late-Payment Customers,No,No
+CUST-00704,0.2832,5318.82,Loyal Long-Tenured Customers,No,No
+CUST-00705,0.623,2926.92,Low-Value Basic Users,No,No
+CUST-00706,0.5806,5423.25,High-Value Power Users,No,Yes
+CUST-00707,0.4512,4818.09,Loyal Long-Tenured Customers,No,No
+CUST-00708,0.235,7472.89,At-Risk / Late-Payment Customers,No,No
+CUST-00709,0.6763,5738.99,High-Value Power Users,Yes,Yes
+CUST-00710,0.5975,4017.54,Low-Value Basic Users,No,No
+CUST-00711,0.2016,7425.85,High-Value Power Users,No,No
+CUST-00712,0.7276,3914.76,Low-Value Basic Users,No,No
+CUST-00713,0.268,5372.33,Low-Value Basic Users,No,No
+CUST-00714,0.3684,2848.72,Loyal Long-Tenured Customers,No,No
+CUST-00715,0.3148,4629.35,At-Risk / Late-Payment Customers,No,No
+CUST-00716,0.5239,4763.64,Loyal Long-Tenured Customers,No,No
+CUST-00717,0.6066,4002.71,Low-Value Basic Users,No,No
+CUST-00718,0.61,5991.52,High-Value Power Users,No,Yes
+CUST-00719,0.5911,4918.52,At-Risk / Late-Payment Customers,No,No
+CUST-00720,0.6085,3666.97,Low-Value Basic Users,No,No
+CUST-00721,0.6465,4493.31,At-Risk / Late-Payment Customers,No,No
+CUST-00722,0.22,5691.63,Loyal Long-Tenured Customers,No,No
+CUST-00723,0.736,6404.18,At-Risk / Late-Payment Customers,No,Yes
+CUST-00724,0.6987,4479.72,At-Risk / Late-Payment Customers,Yes,No
+CUST-00725,0.6568,4467.32,At-Risk / Late-Payment Customers,No,No
+CUST-00726,0.6043,4735.75,At-Risk / Late-Payment Customers,No,No
+CUST-00727,0.1749,6971.73,Loyal Long-Tenured Customers,No,No
+CUST-00728,0.5336,3888.18,Low-Value Basic Users,No,No
+CUST-00729,0.1999,4027.54,Low-Value Basic Users,No,No
+CUST-00730,0.268,7776.59,High-Value Power Users,No,No
+CUST-00731,0.174,5274.25,Loyal Long-Tenured Customers,No,No
+CUST-00732,0.2556,5199.4,Loyal Long-Tenured Customers,No,No
+CUST-00733,0.4287,5204.41,Loyal Long-Tenured Customers,No,No
+CUST-00734,0.1385,6177.06,Loyal Long-Tenured Customers,No,No
+CUST-00735,0.2167,3250.71,Low-Value Basic Users,No,No
+CUST-00736,0.3436,4234.06,Low-Value Basic Users,No,No
+CUST-00737,0.6173,4573.81,At-Risk / Late-Payment Customers,No,No
+CUST-00738,0.5507,6346.17,High-Value Power Users,No,Yes
+CUST-00739,0.1771,4747.44,Loyal Long-Tenured Customers,No,No
+CUST-00740,0.5751,5618.4,High-Value Power Users,No,Yes
+CUST-00741,0.3416,5475.12,At-Risk / Late-Payment Customers,No,No
+CUST-00742,0.5101,4772.15,Low-Value Basic Users,No,No
+CUST-00743,0.6169,5735.49,High-Value Power Users,No,Yes
+CUST-00744,0.6252,5018.55,High-Value Power Users,No,No
+CUST-00745,0.5709,5344.27,High-Value Power Users,No,Yes
+CUST-00746,0.5507,3301.55,Low-Value Basic Users,No,No
+CUST-00747,0.2572,5492.81,Low-Value Basic Users,No,No
+CUST-00748,0.2657,6808.71,High-Value Power Users,No,No
+CUST-00749,0.236,2833.9,Low-Value Basic Users,No,No
+CUST-00750,0.2313,4609.83,Loyal Long-Tenured Customers,No,No
+CUST-00751,0.4099,3727.87,Low-Value Basic Users,No,No
+CUST-00752,0.3909,5817.37,High-Value Power Users,No,No
+CUST-00753,0.3049,7499.11,High-Value Power Users,No,No
+CUST-00754,0.3072,9126.89,High-Value Power Users,No,No
+CUST-00755,0.2719,6417.61,At-Risk / Late-Payment Customers,No,No
+CUST-00756,0.5079,4493.79,At-Risk / Late-Payment Customers,No,No
+CUST-00757,0.2316,4945.46,Low-Value Basic Users,No,No
+CUST-00758,0.5092,5033.8,High-Value Power Users,No,No
+CUST-00759,0.6023,5706.5,At-Risk / Late-Payment Customers,No,Yes
+CUST-00760,0.3031,4785.59,Low-Value Basic Users,No,No
+CUST-00761,0.2208,8139.64,Loyal Long-Tenured Customers,No,No
+CUST-00762,0.5138,5389.91,High-Value Power Users,No,Yes
+CUST-00763,0.5918,4829.21,Loyal Long-Tenured Customers,No,No
+CUST-00764,0.2325,5895.23,Loyal Long-Tenured Customers,No,No
+CUST-00765,0.6663,4164.67,Low-Value Basic Users,No,No
+CUST-00766,0.5836,4439.18,Low-Value Basic Users,No,No
+CUST-00767,0.3441,3984.24,Low-Value Basic Users,No,No
+CUST-00768,0.1619,6127.06,Low-Value Basic Users,No,No
+CUST-00769,0.5604,3991.91,Low-Value Basic Users,No,No
+CUST-00770,0.511,6125.24,Loyal Long-Tenured Customers,Yes,Yes
+CUST-00771,0.544,4220.25,Low-Value Basic Users,No,No
+CUST-00772,0.5827,5407.69,High-Value Power Users,No,Yes
+CUST-00773,0.2524,5997.02,High-Value Power Users,No,No
+CUST-00774,0.1805,3667.39,Low-Value Basic Users,No,No
+CUST-00775,0.6242,3247.97,Low-Value Basic Users,No,No
+CUST-00776,0.5236,3929.53,Low-Value Basic Users,No,No
+CUST-00777,0.5675,4534.89,Low-Value Basic Users,No,No
+CUST-00778,0.5156,3907.38,Low-Value Basic Users,No,No
+CUST-00779,0.7066,3665.77,Low-Value Basic Users,No,No
+CUST-00780,0.5186,5324.18,High-Value Power Users,No,Yes
+CUST-00781,0.2347,4420.97,Loyal Long-Tenured Customers,No,No
+CUST-00782,0.4021,3204.41,Low-Value Basic Users,No,No
+CUST-00783,0.2719,6248.38,Loyal Long-Tenured Customers,No,No
+CUST-00784,0.4916,3815.69,Low-Value Basic Users,No,No
+CUST-00785,0.242,6255.6,High-Value Power Users,No,No
+CUST-00786,0.2857,7355.04,High-Value Power Users,No,No
+CUST-00787,0.5416,4222.84,Low-Value Basic Users,No,No
+CUST-00788,0.5419,5690.44,High-Value Power Users,No,Yes
+CUST-00789,0.2539,5773.67,Loyal Long-Tenured Customers,No,No
+CUST-00790,0.486,5336.49,Loyal Long-Tenured Customers,No,No
+CUST-00791,0.6182,3691.03,Low-Value Basic Users,No,No
+CUST-00792,0.5276,4932.04,At-Risk / Late-Payment Customers,No,No
+CUST-00793,0.2912,5172.11,Low-Value Basic Users,No,No
+CUST-00794,0.646,5878.43,High-Value Power Users,No,Yes
+CUST-00795,0.5588,4404.51,At-Risk / Late-Payment Customers,No,No
+CUST-00796,0.5322,4489.43,At-Risk / Late-Payment Customers,No,No
+CUST-00797,0.2943,5553.55,Low-Value Basic Users,No,No
+CUST-00798,0.5273,3588.74,Low-Value Basic Users,No,No
+CUST-00799,0.198,8227.45,High-Value Power Users,No,No
+CUST-00800,0.3664,6546.42,High-Value Power Users,No,No
+CUST-00801,0.4826,3678.73,Low-Value Basic Users,No,No
+CUST-00802,0.5503,3680.65,At-Risk / Late-Payment Customers,No,No
+CUST-00803,0.2634,8444.93,At-Risk / Late-Payment Customers,Yes,No
+CUST-00804,0.3093,4500.42,Low-Value Basic Users,No,No
+CUST-00805,0.649,6048.66,High-Value Power Users,No,Yes
+CUST-00806,0.6128,5376.4,At-Risk / Late-Payment Customers,No,Yes
+CUST-00807,0.6128,4602.1,At-Risk / Late-Payment Customers,No,No
+CUST-00808,0.4596,6113.48,High-Value Power Users,No,No
+CUST-00809,0.7016,4533.97,At-Risk / Late-Payment Customers,No,No
+CUST-00810,0.64,6680.88,High-Value Power Users,No,Yes
+CUST-00811,0.6843,5065.28,Low-Value Basic Users,No,No
+CUST-00812,0.149,6053.5,Loyal Long-Tenured Customers,No,No
+CUST-00813,0.3019,5443.42,Low-Value Basic Users,No,No
+CUST-00814,0.2488,7367.07,High-Value Power Users,No,No
+CUST-00815,0.274,5764.51,Loyal Long-Tenured Customers,No,No
+CUST-00816,0.2567,6543.62,High-Value Power Users,No,No
+CUST-00817,0.6752,3279.47,Low-Value Basic Users,No,No
+CUST-00818,0.3473,7180.7,High-Value Power Users,No,No
+CUST-00819,0.6392,3170.62,Low-Value Basic Users,No,No
+CUST-00820,0.3719,3032.61,Low-Value Basic Users,No,No
+CUST-00821,0.2796,7287.3,At-Risk / Late-Payment Customers,No,No
+CUST-00822,0.2209,7390.56,Loyal Long-Tenured Customers,Yes,No
+CUST-00823,0.5581,5738.63,At-Risk / Late-Payment Customers,No,Yes
+CUST-00824,0.3908,7092.99,At-Risk / Late-Payment Customers,No,No
+CUST-00825,0.56,5310.09,High-Value Power Users,No,No
+CUST-00826,0.4146,4459.95,Loyal Long-Tenured Customers,No,No
+CUST-00827,0.6771,4523.97,Low-Value Basic Users,No,No
+CUST-00828,0.4412,5390.21,High-Value Power Users,No,No
+CUST-00829,0.177,6787.2,At-Risk / Late-Payment Customers,No,No
+CUST-00830,0.6009,5423.29,High-Value Power Users,No,Yes
+CUST-00831,0.7192,3653.79,Low-Value Basic Users,No,No
+CUST-00832,0.3003,6217.73,High-Value Power Users,No,No
+CUST-00833,0.4209,3886.27,Low-Value Basic Users,No,No
+CUST-00834,0.6859,2995.95,At-Risk / Late-Payment Customers,Yes,No
+CUST-00835,0.6147,6321.75,High-Value Power Users,No,Yes
+CUST-00836,0.5688,4106.23,Low-Value Basic Users,No,No
+CUST-00837,0.6038,4728.19,High-Value Power Users,No,No
+CUST-00838,0.2821,5467.6,At-Risk / Late-Payment Customers,No,No
+CUST-00839,0.2334,5627.78,Loyal Long-Tenured Customers,No,No
+CUST-00840,0.4241,3396.97,Low-Value Basic Users,No,No
+CUST-00841,0.6167,4764.89,Low-Value Basic Users,No,No
+CUST-00842,0.6671,3932.49,Low-Value Basic Users,No,No
+CUST-00843,0.169,7399.36,At-Risk / Late-Payment Customers,No,No
+CUST-00844,0.6714,5877.99,High-Value Power Users,No,Yes
+CUST-00845,0.4918,3751.14,Loyal Long-Tenured Customers,No,No
+CUST-00846,0.1635,5325.8,Loyal Long-Tenured Customers,Yes,No
+CUST-00847,0.2715,4844.02,At-Risk / Late-Payment Customers,No,No
+CUST-00848,0.6567,4993.48,High-Value Power Users,No,No
+CUST-00849,0.5561,3390.7,Low-Value Basic Users,No,No
+CUST-00850,0.5438,5666.11,High-Value Power Users,No,Yes
+CUST-00851,0.1494,4817.15,Loyal Long-Tenured Customers,No,No
+CUST-00852,0.5184,4833.0,Low-Value Basic Users,No,No
+CUST-00853,0.5053,5634.54,High-Value Power Users,No,Yes
+CUST-00854,0.1991,5091.76,Low-Value Basic Users,No,No
+CUST-00855,0.5247,6350.73,High-Value Power Users,No,Yes
+CUST-00856,0.5427,4793.09,Loyal Long-Tenured Customers,No,No
+CUST-00857,0.2343,5868.02,Low-Value Basic Users,No,No
+CUST-00858,0.6858,4725.93,High-Value Power Users,No,No
+CUST-00859,0.173,7550.22,At-Risk / Late-Payment Customers,No,No
+CUST-00860,0.2937,5385.09,Low-Value Basic Users,No,No
+CUST-00861,0.3887,5026.64,Loyal Long-Tenured Customers,No,No
+CUST-00862,0.2978,8444.33,High-Value Power Users,No,No
+CUST-00863,0.3032,6468.08,High-Value Power Users,No,No
+CUST-00864,0.336,7172.46,At-Risk / Late-Payment Customers,No,No
+CUST-00865,0.3001,7926.02,High-Value Power Users,No,No
+CUST-00866,0.5652,4642.07,At-Risk / Late-Payment Customers,No,No
+CUST-00867,0.5422,4679.91,Loyal Long-Tenured Customers,No,No
+CUST-00868,0.2693,5835.08,Loyal Long-Tenured Customers,No,No
+CUST-00869,0.6156,4812.84,High-Value Power Users,No,No
+CUST-00870,0.4366,5080.56,Loyal Long-Tenured Customers,No,No
+CUST-00871,0.4812,5346.56,Loyal Long-Tenured Customers,No,No
+CUST-00872,0.5999,4769.97,Low-Value Basic Users,No,No
+CUST-00873,0.2421,4540.7,Low-Value Basic Users,Yes,No
+CUST-00874,0.2554,4987.98,Low-Value Basic Users,No,No
+CUST-00875,0.2908,8106.88,High-Value Power Users,No,No
+CUST-00876,0.5296,3279.68,Low-Value Basic Users,No,No
+CUST-00877,0.3852,5196.85,Loyal Long-Tenured Customers,No,No
+CUST-00878,0.1413,5977.74,Loyal Long-Tenured Customers,No,No
+CUST-00879,0.5861,5718.54,High-Value Power Users,No,Yes
+CUST-00880,0.3105,5427.76,High-Value Power Users,No,No
+CUST-00881,0.4003,5270.69,At-Risk / Late-Payment Customers,Yes,No
+CUST-00882,0.6865,5504.25,High-Value Power Users,No,Yes
+CUST-00883,0.6522,6111.84,Low-Value Basic Users,No,Yes
+CUST-00884,0.2442,5172.24,Loyal Long-Tenured Customers,No,No
+CUST-00885,0.589,7085.06,High-Value Power Users,No,Yes
+CUST-00886,0.2443,9016.34,High-Value Power Users,No,No
+CUST-00887,0.2353,5103.59,Low-Value Basic Users,No,No
+CUST-00888,0.7127,5323.8,High-Value Power Users,No,Yes
+CUST-00889,0.203,5066.97,Loyal Long-Tenured Customers,No,No
+CUST-00890,0.4394,5411.72,At-Risk / Late-Payment Customers,No,No
+CUST-00891,0.5513,4868.38,High-Value Power Users,No,No
+CUST-00892,0.1356,8088.21,Loyal Long-Tenured Customers,Yes,No
+CUST-00893,0.4489,7588.52,High-Value Power Users,No,No
+CUST-00894,0.2732,6549.8,Loyal Long-Tenured Customers,No,No
+CUST-00895,0.1977,4016.96,Low-Value Basic Users,No,No
+CUST-00896,0.7076,5257.67,High-Value Power Users,No,No
+CUST-00897,0.6463,3615.68,Low-Value Basic Users,No,No
+CUST-00898,0.4969,3633.87,Loyal Long-Tenured Customers,No,No
+CUST-00899,0.4798,5463.48,High-Value Power Users,No,No
+CUST-00900,0.5266,4851.79,Loyal Long-Tenured Customers,No,No
+CUST-00901,0.5016,5484.54,High-Value Power Users,No,Yes
+CUST-00902,0.4485,8394.37,At-Risk / Late-Payment Customers,Yes,No
+CUST-00903,0.4738,5007.61,Low-Value Basic Users,No,No
+CUST-00904,0.266,6647.19,High-Value Power Users,No,No
+CUST-00905,0.2198,5217.82,Low-Value Basic Users,No,No
+CUST-00906,0.2474,7052.63,High-Value Power Users,No,No
+CUST-00907,0.4156,7162.05,High-Value Power Users,No,No
+CUST-00908,0.2113,7820.92,At-Risk / Late-Payment Customers,No,No
+CUST-00909,0.2569,7075.61,High-Value Power Users,No,No
+CUST-00910,0.4466,4788.77,Loyal Long-Tenured Customers,No,No
+CUST-00911,0.5594,3630.55,Loyal Long-Tenured Customers,No,No
+CUST-00912,0.7169,5857.23,High-Value Power Users,No,Yes
+CUST-00913,0.2828,5635.82,Loyal Long-Tenured Customers,No,No
+CUST-00914,0.2112,5047.06,At-Risk / Late-Payment Customers,Yes,No
+CUST-00915,0.5082,3283.59,Low-Value Basic Users,Yes,No
+CUST-00916,0.2477,4532.0,Low-Value Basic Users,No,No
+CUST-00917,0.5396,3009.33,Loyal Long-Tenured Customers,No,No
+CUST-00918,0.6042,4498.01,At-Risk / Late-Payment Customers,No,No
+CUST-00919,0.2606,5063.76,Low-Value Basic Users,No,No
+CUST-00920,0.2913,8523.48,High-Value Power Users,No,No
+CUST-00921,0.2649,6105.05,High-Value Power Users,No,No
+CUST-00922,0.6111,4372.22,Low-Value Basic Users,No,No
+CUST-00923,0.6234,3206.11,Low-Value Basic Users,No,No
+CUST-00924,0.5026,4307.93,Low-Value Basic Users,No,No
+CUST-00925,0.5532,3567.73,Low-Value Basic Users,No,No
+CUST-00926,0.5441,6335.2,High-Value Power Users,No,Yes
+CUST-00927,0.167,7385.36,Loyal Long-Tenured Customers,No,No
+CUST-00928,0.4372,6290.92,High-Value Power Users,No,No
+CUST-00929,0.4127,8191.44,High-Value Power Users,No,No
+CUST-00930,0.5406,4402.42,Low-Value Basic Users,No,No
+CUST-00931,0.6276,5769.76,Loyal Long-Tenured Customers,Yes,Yes
+CUST-00932,0.5744,4830.72,At-Risk / Late-Payment Customers,No,No
+CUST-00933,0.2699,5563.79,Loyal Long-Tenured Customers,No,No
+CUST-00934,0.6461,3826.75,At-Risk / Late-Payment Customers,No,No
+CUST-00935,0.4765,8153.0,High-Value Power Users,No,No
+CUST-00936,0.576,4779.6,High-Value Power Users,No,No
+CUST-00937,0.4984,3771.83,Low-Value Basic Users,No,No
+CUST-00938,0.2512,4405.73,Low-Value Basic Users,No,No
+CUST-00939,0.4667,3046.57,Low-Value Basic Users,No,No
+CUST-00940,0.5949,4811.52,At-Risk / Late-Payment Customers,No,No
+CUST-00941,0.2232,5031.52,Low-Value Basic Users,No,No
+CUST-00942,0.6257,2246.53,Low-Value Basic Users,No,No
+CUST-00943,0.4208,4118.87,Low-Value Basic Users,No,No
+CUST-00944,0.5499,4428.95,Low-Value Basic Users,No,No
+CUST-00945,0.4659,6578.43,High-Value Power Users,No,No
+CUST-00946,0.6344,5585.95,High-Value Power Users,No,Yes
+CUST-00947,0.45,5511.87,Loyal Long-Tenured Customers,No,No
+CUST-00948,0.2075,5370.24,At-Risk / Late-Payment Customers,No,No
+CUST-00949,0.2726,6935.29,High-Value Power Users,No,No
+CUST-00950,0.414,6329.81,Loyal Long-Tenured Customers,No,No
+CUST-00951,0.6344,5256.06,High-Value Power Users,No,No
+CUST-00952,0.6062,3516.69,Low-Value Basic Users,No,No
+CUST-00953,0.5143,4913.32,High-Value Power Users,No,No
+CUST-00954,0.5887,5532.19,High-Value Power Users,No,Yes
+CUST-00955,0.4272,4276.62,Low-Value Basic Users,No,No
+CUST-00956,0.3662,4962.34,Loyal Long-Tenured Customers,No,No
+CUST-00957,0.4307,7290.15,High-Value Power Users,No,No
+CUST-00958,0.3208,7109.24,At-Risk / Late-Payment Customers,No,No
+CUST-00959,0.2727,7277.1,At-Risk / Late-Payment Customers,No,No
+CUST-00960,0.5347,5035.02,High-Value Power Users,No,No
+CUST-00961,0.6403,5555.37,At-Risk / Late-Payment Customers,No,Yes
+CUST-00962,0.1938,3979.06,Low-Value Basic Users,No,No
+CUST-00963,0.517,4000.92,Loyal Long-Tenured Customers,No,No
+CUST-00964,0.3225,4775.02,Low-Value Basic Users,No,No
+CUST-00965,0.2549,4568.84,Low-Value Basic Users,No,No
+CUST-00966,0.6497,6693.35,High-Value Power Users,Yes,Yes
+CUST-00967,0.7061,4382.01,Low-Value Basic Users,No,No
+CUST-00968,0.5839,4828.67,High-Value Power Users,No,No
+CUST-00969,0.5672,2896.25,Low-Value Basic Users,No,No
+CUST-00970,0.5932,3879.47,Low-Value Basic Users,No,No
+CUST-00971,0.2702,4153.18,Loyal Long-Tenured Customers,No,No
+CUST-00972,0.3534,5611.63,Low-Value Basic Users,No,No
+CUST-00973,0.3064,7594.61,High-Value Power Users,No,No
+CUST-00974,0.184,6107.88,Low-Value Basic Users,No,No
+CUST-00975,0.2284,5487.13,Loyal Long-Tenured Customers,No,No
+CUST-00976,0.586,3220.93,Low-Value Basic Users,No,No
+CUST-00977,0.6053,5485.17,At-Risk / Late-Payment Customers,No,Yes
+CUST-00978,0.2713,7821.24,High-Value Power Users,No,No
+CUST-00979,0.3934,6052.15,At-Risk / Late-Payment Customers,No,No
+CUST-00980,0.6027,5947.58,High-Value Power Users,No,Yes
+CUST-00981,0.2534,6567.62,High-Value Power Users,No,No
+CUST-00982,0.5408,4114.07,Loyal Long-Tenured Customers,Yes,No
+CUST-00983,0.5323,6906.84,High-Value Power Users,No,Yes
+CUST-00984,0.1705,7010.45,High-Value Power Users,No,No
+CUST-00985,0.4282,4764.06,At-Risk / Late-Payment Customers,No,No
+CUST-00986,0.5401,6630.03,High-Value Power Users,No,Yes
+CUST-00987,0.4293,4560.74,Low-Value Basic Users,Yes,No
+CUST-00988,0.3445,6466.26,High-Value Power Users,No,No
+CUST-00989,0.6119,3341.57,Low-Value Basic Users,No,No
+CUST-00990,0.2035,5820.34,Loyal Long-Tenured Customers,No,No
+CUST-00991,0.453,4353.25,Loyal Long-Tenured Customers,No,No
+CUST-00992,0.2379,7054.65,High-Value Power Users,No,No
+CUST-00993,0.6406,5640.03,High-Value Power Users,No,Yes
+CUST-00994,0.1755,5219.29,Low-Value Basic Users,No,No
+CUST-00995,0.2984,3749.33,Low-Value Basic Users,No,No
+CUST-00996,0.6738,5829.43,At-Risk / Late-Payment Customers,Yes,Yes
+CUST-00997,0.6869,5886.27,High-Value Power Users,No,Yes
+CUST-00998,0.5274,4076.92,Loyal Long-Tenured Customers,No,No
+CUST-00999,0.3167,4622.92,Low-Value Basic Users,No,No
+CUST-01000,0.4361,5505.65,Low-Value Basic Users,No,No
+CUST-01001,0.2565,3353.55,Low-Value Basic Users,No,No
+CUST-01002,0.2691,5696.84,Low-Value Basic Users,No,No
+CUST-01003,0.5298,4482.82,Low-Value Basic Users,No,No
+CUST-01004,0.3588,4623.46,Low-Value Basic Users,No,No
+CUST-01005,0.4274,4403.75,Low-Value Basic Users,No,No
+CUST-01006,0.4137,7949.14,At-Risk / Late-Payment Customers,No,No
+CUST-01007,0.5787,3978.22,High-Value Power Users,Yes,No
+CUST-01008,0.166,7735.34,At-Risk / Late-Payment Customers,Yes,No
+CUST-01009,0.5586,6551.28,High-Value Power Users,No,Yes
+CUST-01010,0.5701,3478.48,Low-Value Basic Users,No,No
+CUST-01011,0.474,2638.57,Low-Value Basic Users,No,No
+CUST-01012,0.2259,7615.28,High-Value Power Users,No,No
+CUST-01013,0.5037,3551.8,Low-Value Basic Users,No,No
+CUST-01014,0.5687,4973.12,Loyal Long-Tenured Customers,No,No
+CUST-01015,0.4914,4076.86,Loyal Long-Tenured Customers,Yes,No
+CUST-01016,0.5329,3846.19,Low-Value Basic Users,No,No
+CUST-01017,0.189,7528.31,High-Value Power Users,No,No
+CUST-01018,0.2088,9465.18,High-Value Power Users,No,No
+CUST-01019,0.2171,4765.9,Low-Value Basic Users,No,No
+CUST-01020,0.2205,4998.84,Loyal Long-Tenured Customers,No,No
+CUST-01021,0.672,5728.11,High-Value Power Users,No,Yes
+CUST-01022,0.4963,3872.21,Low-Value Basic Users,No,No
+CUST-01023,0.3236,6681.1,High-Value Power Users,No,No
+CUST-01024,0.1563,5792.94,Loyal Long-Tenured Customers,No,No
+CUST-01025,0.4479,7089.64,High-Value Power Users,No,No
+CUST-01026,0.3227,8017.71,High-Value Power Users,No,No
+CUST-01027,0.4826,4936.79,Loyal Long-Tenured Customers,No,No
+CUST-01028,0.5287,3506.08,Low-Value Basic Users,No,No
+CUST-01029,0.5941,5933.22,Loyal Long-Tenured Customers,No,Yes
+CUST-01030,0.3202,4588.2,Low-Value Basic Users,No,No
+CUST-01031,0.1519,5593.7,Loyal Long-Tenured Customers,No,No
+CUST-01032,0.6431,4583.6,At-Risk / Late-Payment Customers,No,No
+CUST-01033,0.2641,5337.77,At-Risk / Late-Payment Customers,No,No
+CUST-01034,0.2714,5921.72,At-Risk / Late-Payment Customers,No,No
+CUST-01035,0.5188,4149.77,Low-Value Basic Users,No,No
+CUST-01036,0.1793,8027.63,High-Value Power Users,No,No
+CUST-01037,0.4295,2923.98,Low-Value Basic Users,No,No
+CUST-01038,0.6514,3660.86,At-Risk / Late-Payment Customers,No,No
+CUST-01039,0.5969,6889.55,High-Value Power Users,No,Yes
+CUST-01040,0.3963,7665.36,Loyal Long-Tenured Customers,Yes,No
+CUST-01041,0.4352,6273.86,High-Value Power Users,No,No
+CUST-01042,0.5496,6533.77,At-Risk / Late-Payment Customers,No,Yes
+CUST-01043,0.5276,4598.38,Low-Value Basic Users,No,No
+CUST-01044,0.3578,4623.14,At-Risk / Late-Payment Customers,No,No
+CUST-01045,0.2546,5063.7,Low-Value Basic Users,No,No
+CUST-01046,0.6712,4969.63,At-Risk / Late-Payment Customers,No,No
+CUST-01047,0.5133,3543.08,Low-Value Basic Users,No,No
+CUST-01048,0.559,4653.85,Loyal Long-Tenured Customers,No,No
+CUST-01049,0.1884,7330.66,High-Value Power Users,No,No
+CUST-01050,0.2463,7548.54,At-Risk / Late-Payment Customers,No,No
+CUST-01051,0.4295,4324.02,Loyal Long-Tenured Customers,No,No
+CUST-01052,0.3856,4521.52,Low-Value Basic Users,No,No
+CUST-01053,0.2391,3933.34,Low-Value Basic Users,No,No
+CUST-01054,0.2881,6091.12,Low-Value Basic Users,No,No
+CUST-01055,0.4652,3986.57,Low-Value Basic Users,No,No
+CUST-01056,0.3851,8197.85,High-Value Power Users,No,No
+CUST-01057,0.1565,5228.44,Loyal Long-Tenured Customers,No,No
+CUST-01058,0.5608,6364.58,High-Value Power Users,No,Yes
+CUST-01059,0.7203,4014.47,Low-Value Basic Users,No,No
+CUST-01060,0.6258,3094.61,Low-Value Basic Users,No,No
+CUST-01061,0.5208,3333.85,Low-Value Basic Users,No,No
+CUST-01062,0.3097,6498.07,High-Value Power Users,No,No
+CUST-01063,0.3321,6536.38,At-Risk / Late-Payment Customers,No,No
+CUST-01064,0.7063,6476.08,High-Value Power Users,No,Yes
+CUST-01065,0.2521,7356.0,High-Value Power Users,No,No
+CUST-01066,0.4509,3716.13,Low-Value Basic Users,No,No
+CUST-01067,0.2882,7934.74,High-Value Power Users,No,No
+CUST-01068,0.4718,3848.74,Low-Value Basic Users,No,No
+CUST-01069,0.1297,6360.52,Loyal Long-Tenured Customers,No,No
+CUST-01070,0.1999,5920.29,Loyal Long-Tenured Customers,No,No
+CUST-01071,0.1658,6534.3,High-Value Power Users,No,No
+CUST-01072,0.1898,5503.43,Loyal Long-Tenured Customers,Yes,No
+CUST-01073,0.7138,5375.39,At-Risk / Late-Payment Customers,No,Yes
+CUST-01074,0.2753,4397.06,Low-Value Basic Users,No,No
+CUST-01075,0.3274,4801.28,At-Risk / Late-Payment Customers,No,No
+CUST-01076,0.5634,5113.14,At-Risk / Late-Payment Customers,No,No
+CUST-01077,0.2641,7487.0,High-Value Power Users,No,No
+CUST-01078,0.6118,3545.31,Low-Value Basic Users,No,No
+CUST-01079,0.6046,4190.74,Low-Value Basic Users,No,No
+CUST-01080,0.3162,5953.77,At-Risk / Late-Payment Customers,No,No
+CUST-01081,0.568,6630.08,High-Value Power Users,No,Yes
+CUST-01082,0.7395,5321.88,At-Risk / Late-Payment Customers,Yes,Yes
+CUST-01083,0.5337,2895.51,Low-Value Basic Users,No,No
+CUST-01084,0.2614,4965.97,Low-Value Basic Users,No,No
+CUST-01085,0.1604,5560.57,Low-Value Basic Users,No,No
+CUST-01086,0.6892,6925.33,High-Value Power Users,No,Yes
+CUST-01087,0.3015,8262.9,High-Value Power Users,No,No
+CUST-01088,0.1656,5145.69,Loyal Long-Tenured Customers,No,No
+CUST-01089,0.4167,7602.58,High-Value Power Users,No,No
+CUST-01090,0.406,6189.57,At-Risk / Late-Payment Customers,No,No
+CUST-01091,0.1564,5448.38,Loyal Long-Tenured Customers,No,No
+CUST-01092,0.4974,5371.92,High-Value Power Users,No,No
+CUST-01093,0.4589,3734.95,Low-Value Basic Users,No,No
+CUST-01094,0.2657,5460.29,Low-Value Basic Users,No,No
+CUST-01095,0.5365,3462.88,Low-Value Basic Users,No,No
+CUST-01096,0.6752,4144.21,Low-Value Basic Users,No,No
+CUST-01097,0.6401,5672.35,High-Value Power Users,No,Yes
+CUST-01098,0.5749,6386.89,High-Value Power Users,No,Yes
+CUST-01099,0.2564,6117.43,Low-Value Basic Users,No,No
+CUST-01100,0.5471,4693.83,At-Risk / Late-Payment Customers,No,No
+CUST-01101,0.2396,4061.88,Low-Value Basic Users,No,No
+CUST-01102,0.52,6973.1,High-Value Power Users,No,Yes
+CUST-01103,0.7208,5334.3,At-Risk / Late-Payment Customers,No,Yes
+CUST-01104,0.5334,4818.56,Low-Value Basic Users,No,No
+CUST-01105,0.587,4307.56,Loyal Long-Tenured Customers,No,No
+CUST-01106,0.4375,4639.51,Low-Value Basic Users,No,No
+CUST-01107,0.4224,6562.5,High-Value Power Users,No,No
+CUST-01108,0.2381,4900.48,Low-Value Basic Users,No,No
+CUST-01109,0.55,2330.47,Low-Value Basic Users,No,No
+CUST-01110,0.5498,7853.93,High-Value Power Users,No,Yes
+CUST-01111,0.3559,4996.24,Loyal Long-Tenured Customers,No,No
+CUST-01112,0.628,4202.07,Low-Value Basic Users,No,No
+CUST-01113,0.5668,5506.95,Loyal Long-Tenured Customers,No,Yes
+CUST-01114,0.2052,4987.63,At-Risk / Late-Payment Customers,No,No
+CUST-01115,0.4929,4065.06,Loyal Long-Tenured Customers,No,No
+CUST-01116,0.6789,2678.56,Low-Value Basic Users,No,No
+CUST-01117,0.2476,4092.46,Low-Value Basic Users,No,No
+CUST-01118,0.3655,7517.94,High-Value Power Users,No,No
+CUST-01119,0.2385,7962.47,High-Value Power Users,No,No
+CUST-01120,0.76,4434.59,At-Risk / Late-Payment Customers,No,No
+CUST-01121,0.3855,3573.18,Low-Value Basic Users,Yes,No
+CUST-01122,0.6511,3704.12,Low-Value Basic Users,No,No
+CUST-01123,0.2624,4604.29,Low-Value Basic Users,No,No
+CUST-01124,0.4504,5639.88,High-Value Power Users,No,No
+CUST-01125,0.3805,6587.33,High-Value Power Users,No,No
+CUST-01126,0.2656,6223.21,High-Value Power Users,No,No
+CUST-01127,0.2953,6354.89,At-Risk / Late-Payment Customers,No,No
+CUST-01128,0.635,5950.71,High-Value Power Users,No,Yes
+CUST-01129,0.2225,5694.47,Loyal Long-Tenured Customers,No,No
+CUST-01130,0.3758,4444.1,At-Risk / Late-Payment Customers,No,No
+CUST-01131,0.5406,3486.18,Low-Value Basic Users,No,No
+CUST-01132,0.5628,5100.74,High-Value Power Users,No,No
+CUST-01133,0.3893,3474.3,Low-Value Basic Users,No,No
+CUST-01134,0.4737,3400.24,Loyal Long-Tenured Customers,No,No
+CUST-01135,0.3437,5196.13,Low-Value Basic Users,No,No
+CUST-01136,0.5266,4475.72,At-Risk / Late-Payment Customers,No,No
+CUST-01137,0.2234,5297.3,Low-Value Basic Users,No,No
+CUST-01138,0.3328,6762.83,High-Value Power Users,No,No
+CUST-01139,0.2662,5670.44,Low-Value Basic Users,No,No
+CUST-01140,0.3429,4559.2,Low-Value Basic Users,No,No
+CUST-01141,0.1606,3447.41,Loyal Long-Tenured Customers,Yes,No
+CUST-01142,0.4961,4262.64,Low-Value Basic Users,No,No
+CUST-01143,0.408,3544.52,Low-Value Basic Users,No,No
+CUST-01144,0.2323,5966.11,Loyal Long-Tenured Customers,No,No
+CUST-01145,0.2877,8770.15,High-Value Power Users,No,No
+CUST-01146,0.5657,5656.35,High-Value Power Users,No,Yes
+CUST-01147,0.2241,3983.17,Low-Value Basic Users,No,No
+CUST-01148,0.139,5895.47,Loyal Long-Tenured Customers,No,No
+CUST-01149,0.6089,6918.87,High-Value Power Users,No,Yes
+CUST-01150,0.4079,7153.24,High-Value Power Users,No,No
+CUST-01151,0.2132,6347.49,High-Value Power Users,No,No
+CUST-01152,0.5496,4226.59,Low-Value Basic Users,No,No
+CUST-01153,0.7111,3458.38,Low-Value Basic Users,No,No
+CUST-01154,0.6664,5392.32,High-Value Power Users,No,Yes
+CUST-01155,0.3554,5432.74,Low-Value Basic Users,No,No
+CUST-01156,0.5612,5713.13,High-Value Power Users,No,Yes
+CUST-01157,0.2763,5058.25,Low-Value Basic Users,No,No
+CUST-01158,0.2036,3657.75,Low-Value Basic Users,No,No
+CUST-01159,0.1559,4613.8,Loyal Long-Tenured Customers,No,No
+CUST-01160,0.6274,5938.28,High-Value Power Users,No,Yes
+CUST-01161,0.5844,3621.78,At-Risk / Late-Payment Customers,No,No
+CUST-01162,0.6684,5364.5,At-Risk / Late-Payment Customers,No,Yes
+CUST-01163,0.6763,6438.21,At-Risk / Late-Payment Customers,Yes,Yes
+CUST-01164,0.4048,5137.7,Loyal Long-Tenured Customers,No,No
+CUST-01165,0.6705,4003.64,Low-Value Basic Users,No,No
+CUST-01166,0.4521,4671.54,Low-Value Basic Users,No,No
+CUST-01167,0.2121,6241.33,High-Value Power Users,No,No
+CUST-01168,0.4641,4505.86,Loyal Long-Tenured Customers,No,No
+CUST-01169,0.4098,4686.56,Loyal Long-Tenured Customers,No,No
+CUST-01170,0.1983,5716.17,Low-Value Basic Users,No,No
+CUST-01171,0.6443,3278.87,Low-Value Basic Users,No,No
+CUST-01172,0.1858,9774.18,Loyal Long-Tenured Customers,Yes,No
+CUST-01173,0.3647,6640.91,High-Value Power Users,Yes,No
+CUST-01174,0.5268,3134.2,Low-Value Basic Users,No,No
+CUST-01175,0.286,7225.47,High-Value Power Users,No,No
+CUST-01176,0.1913,6129.18,Low-Value Basic Users,No,No
+CUST-01177,0.2633,5216.87,Low-Value Basic Users,Yes,No
+CUST-01178,0.6038,6252.52,High-Value Power Users,No,Yes
+CUST-01179,0.5217,4109.94,Loyal Long-Tenured Customers,No,No
+CUST-01180,0.6498,3826.2,Low-Value Basic Users,No,No
+CUST-01181,0.384,8237.96,High-Value Power Users,No,No
+CUST-01182,0.5689,4865.76,At-Risk / Late-Payment Customers,No,No
+CUST-01183,0.4724,5387.16,Loyal Long-Tenured Customers,No,No
+CUST-01184,0.6084,4846.67,At-Risk / Late-Payment Customers,No,No
+CUST-01185,0.6566,2569.3,Low-Value Basic Users,No,No
+CUST-01186,0.6109,4110.67,Low-Value Basic Users,No,No
+CUST-01187,0.5102,2595.9,Loyal Long-Tenured Customers,No,No
+CUST-01188,0.2048,6368.17,Loyal Long-Tenured Customers,No,No
+CUST-01189,0.5299,5942.23,High-Value Power Users,No,Yes
+CUST-01190,0.6215,4007.24,Low-Value Basic Users,No,No
+CUST-01191,0.4832,3206.81,Low-Value Basic Users,No,No
+CUST-01192,0.665,5753.59,High-Value Power Users,No,Yes
+CUST-01193,0.272,5985.67,Low-Value Basic Users,No,No
+CUST-01194,0.5582,2483.4,Low-Value Basic Users,No,No
+CUST-01195,0.3177,8590.31,High-Value Power Users,Yes,No
+CUST-01196,0.2254,7161.83,At-Risk / Late-Payment Customers,No,No
+CUST-01197,0.233,6007.54,At-Risk / Late-Payment Customers,No,No
+CUST-01198,0.3419,6039.86,At-Risk / Late-Payment Customers,No,No
+CUST-01199,0.509,4400.21,Low-Value Basic Users,No,No
+CUST-01200,0.3129,5717.4,At-Risk / Late-Payment Customers,No,No
+CUST-01201,0.5911,5242.0,High-Value Power Users,No,No
+CUST-01202,0.4324,9132.19,High-Value Power Users,No,No
+CUST-01203,0.589,2298.62,Low-Value Basic Users,No,No
+CUST-01204,0.6054,5983.28,High-Value Power Users,No,Yes
+CUST-01205,0.6716,4675.85,At-Risk / Late-Payment Customers,No,No
+CUST-01206,0.2434,5962.26,High-Value Power Users,No,No
+CUST-01207,0.1414,5587.69,Loyal Long-Tenured Customers,No,No
+CUST-01208,0.4309,5539.27,At-Risk / Late-Payment Customers,No,No
+CUST-01209,0.4861,3681.43,Low-Value Basic Users,No,No
+CUST-01210,0.4412,4310.05,Low-Value Basic Users,No,No
+CUST-01211,0.2256,3852.27,Low-Value Basic Users,No,No
+CUST-01212,0.6296,4101.03,Low-Value Basic Users,No,No
+CUST-01213,0.5034,3889.95,Low-Value Basic Users,No,No
+CUST-01214,0.396,7189.09,High-Value Power Users,No,No
+CUST-01215,0.364,5625.44,Loyal Long-Tenured Customers,Yes,No
+CUST-01216,0.2516,7440.93,High-Value Power Users,No,No
+CUST-01217,0.365,5393.48,Low-Value Basic Users,No,No
+CUST-01218,0.2366,5293.57,Low-Value Basic Users,No,No
+CUST-01219,0.5411,3772.99,Low-Value Basic Users,No,No
+CUST-01220,0.4603,5112.76,Loyal Long-Tenured Customers,No,No
+CUST-01221,0.2196,5435.04,Low-Value Basic Users,No,No
+CUST-01222,0.4649,3398.93,Low-Value Basic Users,No,No
+CUST-01223,0.2178,7059.43,Loyal Long-Tenured Customers,No,No
+CUST-01224,0.399,4240.6,Loyal Long-Tenured Customers,Yes,No
+CUST-01225,0.5194,5541.63,Loyal Long-Tenured Customers,No,Yes
+CUST-01226,0.5649,5668.11,High-Value Power Users,No,Yes
+CUST-01227,0.3302,4896.32,Low-Value Basic Users,No,No
+CUST-01228,0.1535,3964.27,Loyal Long-Tenured Customers,No,No
+CUST-01229,0.5995,3102.08,Low-Value Basic Users,No,No
+CUST-01230,0.5572,3031.43,Low-Value Basic Users,No,No
+CUST-01231,0.6662,5577.36,High-Value Power Users,No,Yes
+CUST-01232,0.5995,6163.13,High-Value Power Users,No,Yes
+CUST-01233,0.5288,6626.77,Loyal Long-Tenured Customers,Yes,Yes
+CUST-01234,0.308,4875.11,Low-Value Basic Users,No,No
+CUST-01235,0.4504,5414.81,Loyal Long-Tenured Customers,No,No
+CUST-01236,0.6472,5795.63,High-Value Power Users,No,Yes
+CUST-01237,0.6106,6689.61,High-Value Power Users,No,Yes
+CUST-01238,0.4496,5995.21,High-Value Power Users,No,No
+CUST-01239,0.413,6145.23,Loyal Long-Tenured Customers,No,No
+CUST-01240,0.2431,5528.36,Loyal Long-Tenured Customers,No,No
+CUST-01241,0.2704,6628.51,High-Value Power Users,No,No
+CUST-01242,0.2466,6243.55,High-Value Power Users,No,No
+CUST-01243,0.5321,3946.55,Low-Value Basic Users,No,No
+CUST-01244,0.2265,4012.48,Low-Value Basic Users,No,No
+CUST-01245,0.2008,5946.64,Low-Value Basic Users,No,No
+CUST-01246,0.2147,5880.47,Low-Value Basic Users,No,No
+CUST-01247,0.1923,8346.69,High-Value Power Users,No,No
+CUST-01248,0.5871,5505.07,High-Value Power Users,No,Yes
+CUST-01249,0.169,5193.29,Low-Value Basic Users,No,No
+CUST-01250,0.3861,4915.94,At-Risk / Late-Payment Customers,No,No
+CUST-01251,0.1671,6193.01,Loyal Long-Tenured Customers,No,No
+CUST-01252,0.3406,5722.44,Low-Value Basic Users,No,No
+CUST-01253,0.2767,3836.79,At-Risk / Late-Payment Customers,No,No
+CUST-01254,0.7091,5910.79,High-Value Power Users,No,Yes
+CUST-01255,0.4584,4239.66,Low-Value Basic Users,No,No
+CUST-01256,0.3542,6605.41,High-Value Power Users,No,No
+CUST-01257,0.3006,5627.12,Low-Value Basic Users,No,No
+CUST-01258,0.231,4685.7,Low-Value Basic Users,No,No
+CUST-01259,0.535,4582.8,Low-Value Basic Users,No,No
+CUST-01260,0.6234,3179.32,Low-Value Basic Users,No,No
+CUST-01261,0.5858,6836.58,High-Value Power Users,No,Yes
+CUST-01262,0.2917,5053.61,Low-Value Basic Users,No,No
+CUST-01263,0.2855,3620.2,Low-Value Basic Users,No,No
+CUST-01264,0.2729,5489.15,Low-Value Basic Users,No,No
+CUST-01265,0.1638,8466.62,High-Value Power Users,No,No
+CUST-01266,0.2936,6232.16,High-Value Power Users,No,No
+CUST-01267,0.5452,6809.49,High-Value Power Users,No,Yes
+CUST-01268,0.4286,7785.49,High-Value Power Users,No,No
+CUST-01269,0.2928,6160.75,Low-Value Basic Users,No,No
+CUST-01270,0.3397,7605.31,At-Risk / Late-Payment Customers,No,No
+CUST-01271,0.2719,6089.09,At-Risk / Late-Payment Customers,No,No
+CUST-01272,0.173,6100.32,Loyal Long-Tenured Customers,Yes,No
+CUST-01273,0.5706,3606.59,Low-Value Basic Users,No,No
+CUST-01274,0.338,4896.9,Low-Value Basic Users,No,No
+CUST-01275,0.6836,6817.77,High-Value Power Users,No,Yes
+CUST-01276,0.6918,5714.98,High-Value Power Users,No,Yes
+CUST-01277,0.577,2504.39,Low-Value Basic Users,No,No
+CUST-01278,0.4671,5705.79,Loyal Long-Tenured Customers,Yes,No
+CUST-01279,0.5657,5363.61,Loyal Long-Tenured Customers,Yes,Yes
+CUST-01280,0.2247,5980.12,Loyal Long-Tenured Customers,Yes,No
+CUST-01281,0.483,4755.69,Loyal Long-Tenured Customers,No,No
+CUST-01282,0.4572,4195.45,At-Risk / Late-Payment Customers,No,No
+CUST-01283,0.5214,5254.73,High-Value Power Users,No,No
+CUST-01284,0.584,4775.84,Low-Value Basic Users,No,No
+CUST-01285,0.2786,5609.17,Low-Value Basic Users,No,No
+CUST-01286,0.6611,5247.82,At-Risk / Late-Payment Customers,No,No
+CUST-01287,0.3658,5163.18,Loyal Long-Tenured Customers,No,No
+CUST-01288,0.3782,9609.84,High-Value Power Users,No,No
+CUST-01289,0.2412,6163.81,At-Risk / Late-Payment Customers,Yes,No
+CUST-01290,0.2571,6877.44,High-Value Power Users,No,No
+CUST-01291,0.2845,3456.06,Low-Value Basic Users,No,No
+CUST-01292,0.6631,2943.44,Low-Value Basic Users,No,No
+CUST-01293,0.2688,7866.34,Loyal Long-Tenured Customers,No,No
+CUST-01294,0.4072,7778.95,At-Risk / Late-Payment Customers,Yes,No
+CUST-01295,0.623,4463.08,Low-Value Basic Users,No,No
+CUST-01296,0.6684,6944.07,High-Value Power Users,No,Yes
+CUST-01297,0.2445,4925.22,Low-Value Basic Users,No,No
+CUST-01298,0.5586,3864.42,Low-Value Basic Users,No,No
+CUST-01299,0.7367,4011.82,Low-Value Basic Users,No,No
+CUST-01300,0.5197,4113.44,At-Risk / Late-Payment Customers,No,No
+CUST-01301,0.2751,7613.84,High-Value Power Users,No,No
+CUST-01302,0.5298,3668.37,Low-Value Basic Users,No,No
+CUST-01303,0.5378,5918.59,High-Value Power Users,No,Yes
+CUST-01304,0.5789,3871.41,Low-Value Basic Users,No,No
+CUST-01305,0.3776,5285.74,At-Risk / Late-Payment Customers,No,No
+CUST-01306,0.5567,6645.37,High-Value Power Users,No,Yes
+CUST-01307,0.2199,6452.51,High-Value Power Users,No,No
+CUST-01308,0.6107,3274.06,Low-Value Basic Users,No,No
+CUST-01309,0.5654,4819.19,At-Risk / Late-Payment Customers,No,No
+CUST-01310,0.6928,5505.66,High-Value Power Users,No,Yes
+CUST-01311,0.5128,6961.91,High-Value Power Users,No,Yes
+CUST-01312,0.4764,2665.07,Low-Value Basic Users,Yes,No
+CUST-01313,0.6145,5347.75,High-Value Power Users,No,Yes
+CUST-01314,0.1982,5013.33,Low-Value Basic Users,No,No
+CUST-01315,0.6092,5781.51,High-Value Power Users,No,Yes
+CUST-01316,0.5752,4844.01,High-Value Power Users,No,No
+CUST-01317,0.6498,5526.08,Loyal Long-Tenured Customers,Yes,Yes
+CUST-01318,0.4342,2368.97,Low-Value Basic Users,No,No
+CUST-01319,0.4835,5520.17,At-Risk / Late-Payment Customers,No,No
+CUST-01320,0.4147,5564.89,Loyal Long-Tenured Customers,No,No
+CUST-01321,0.6658,4652.64,Low-Value Basic Users,No,No
+CUST-01322,0.5655,4696.3,Low-Value Basic Users,No,No
+CUST-01323,0.2905,5348.9,Low-Value Basic Users,No,No
+CUST-01324,0.4424,7099.93,High-Value Power Users,No,No
+CUST-01325,0.1309,5234.07,Loyal Long-Tenured Customers,No,No
+CUST-01326,0.4825,6629.01,Loyal Long-Tenured Customers,Yes,No
+CUST-01327,0.2802,6053.17,Low-Value Basic Users,No,No
+CUST-01328,0.5787,5301.16,Loyal Long-Tenured Customers,No,No
+CUST-01329,0.4341,6383.7,High-Value Power Users,No,No
+CUST-01330,0.2156,3656.83,Loyal Long-Tenured Customers,No,No
+CUST-01331,0.5643,3886.48,Loyal Long-Tenured Customers,Yes,No
+CUST-01332,0.6499,5903.92,High-Value Power Users,No,Yes
+CUST-01333,0.3802,5210.94,Low-Value Basic Users,No,No
+CUST-01334,0.3105,3569.18,Low-Value Basic Users,No,No
+CUST-01335,0.6875,3565.54,Low-Value Basic Users,No,No
+CUST-01336,0.515,3459.41,Low-Value Basic Users,No,No
+CUST-01337,0.5253,5436.38,At-Risk / Late-Payment Customers,No,Yes
+CUST-01338,0.2736,7670.71,At-Risk / Late-Payment Customers,No,No
+CUST-01339,0.4197,4527.14,Loyal Long-Tenured Customers,No,No
+CUST-01340,0.5143,3860.48,Low-Value Basic Users,No,No
+CUST-01341,0.5497,5571.46,High-Value Power Users,No,Yes
+CUST-01342,0.2998,6648.95,At-Risk / Late-Payment Customers,No,No
+CUST-01343,0.2544,5007.49,Low-Value Basic Users,No,No
+CUST-01344,0.513,3907.81,Loyal Long-Tenured Customers,No,No
+CUST-01345,0.2412,6187.82,Loyal Long-Tenured Customers,No,No
+CUST-01346,0.5575,6166.02,High-Value Power Users,No,Yes
+CUST-01347,0.2339,6973.45,High-Value Power Users,No,No
+CUST-01348,0.6242,4464.63,At-Risk / Late-Payment Customers,No,No
+CUST-01349,0.5256,4611.85,Low-Value Basic Users,No,No
+CUST-01350,0.5379,4919.93,At-Risk / Late-Payment Customers,No,No
+CUST-01351,0.2019,9207.31,High-Value Power Users,No,No
+CUST-01352,0.2853,7442.08,High-Value Power Users,No,No
+CUST-01353,0.3475,7214.31,At-Risk / Late-Payment Customers,No,No
+CUST-01354,0.4889,2860.92,Low-Value Basic Users,No,No
+CUST-01355,0.3979,4393.75,Loyal Long-Tenured Customers,No,No
+CUST-01356,0.5012,3252.0,Low-Value Basic Users,No,No
+CUST-01357,0.5539,3716.95,At-Risk / Late-Payment Customers,No,No
+CUST-01358,0.5208,5312.71,At-Risk / Late-Payment Customers,No,Yes
+CUST-01359,0.2025,6246.73,High-Value Power Users,No,No
+CUST-01360,0.3254,6781.65,High-Value Power Users,No,No
+CUST-01361,0.3255,6502.13,At-Risk / Late-Payment Customers,No,No
+CUST-01362,0.6611,5869.68,High-Value Power Users,No,Yes
+CUST-01363,0.6654,5165.41,High-Value Power Users,No,No
+CUST-01364,0.4785,5004.46,High-Value Power Users,No,No
+CUST-01365,0.6555,5706.61,High-Value Power Users,No,Yes
+CUST-01366,0.3093,5556.7,At-Risk / Late-Payment Customers,No,No
+CUST-01367,0.2619,6706.55,High-Value Power Users,No,No
+CUST-01368,0.5694,5358.61,High-Value Power Users,No,Yes
+CUST-01369,0.5275,3718.71,Low-Value Basic Users,No,No
+CUST-01370,0.2938,7663.1,High-Value Power Users,No,No
+CUST-01371,0.5393,6992.46,Loyal Long-Tenured Customers,Yes,Yes
+CUST-01372,0.4897,2335.34,Low-Value Basic Users,No,No
+CUST-01373,0.2557,6623.2,High-Value Power Users,No,No
+CUST-01374,0.2981,5152.72,At-Risk / Late-Payment Customers,No,No
+CUST-01375,0.54,4915.79,Low-Value Basic Users,No,No
+CUST-01376,0.2855,4030.96,Low-Value Basic Users,No,No
+CUST-01377,0.2963,8242.61,High-Value Power Users,No,No
+CUST-01378,0.5921,5355.04,High-Value Power Users,No,Yes
+CUST-01379,0.504,3732.28,Low-Value Basic Users,No,No
+CUST-01380,0.2498,7067.17,At-Risk / Late-Payment Customers,No,No
+CUST-01381,0.1671,5540.22,Loyal Long-Tenured Customers,No,No
+CUST-01382,0.5982,4683.0,Low-Value Basic Users,No,No
+CUST-01383,0.7406,3918.2,Low-Value Basic Users,No,No
+CUST-01384,0.4397,7064.04,At-Risk / Late-Payment Customers,No,No
+CUST-01385,0.6813,6931.48,High-Value Power Users,No,Yes
+CUST-01386,0.4525,4631.97,At-Risk / Late-Payment Customers,No,No
+CUST-01387,0.606,2857.49,Low-Value Basic Users,No,No
+CUST-01388,0.5554,5544.05,Loyal Long-Tenured Customers,No,Yes
+CUST-01389,0.2246,7004.77,High-Value Power Users,No,No
+CUST-01390,0.3006,6766.1,High-Value Power Users,No,No
+CUST-01391,0.4858,3207.19,Low-Value Basic Users,No,No
+CUST-01392,0.2812,8982.02,High-Value Power Users,No,No
+CUST-01393,0.5226,3538.27,Low-Value Basic Users,Yes,No
+CUST-01394,0.5761,4880.22,Low-Value Basic Users,No,No
+CUST-01395,0.6345,6840.1,High-Value Power Users,No,Yes
+CUST-01396,0.2901,6903.95,High-Value Power Users,No,No
+CUST-01397,0.2947,5499.13,Loyal Long-Tenured Customers,No,No
+CUST-01398,0.2382,7103.72,High-Value Power Users,No,No
+CUST-01399,0.5607,4650.84,Low-Value Basic Users,No,No
+CUST-01400,0.6265,4881.46,High-Value Power Users,No,No
+CUST-01401,0.4413,3819.89,Loyal Long-Tenured Customers,No,No
+CUST-01402,0.1731,6087.23,High-Value Power Users,No,No
+CUST-01403,0.4577,4316.59,Loyal Long-Tenured Customers,No,No
+CUST-01404,0.1494,5548.54,Loyal Long-Tenured Customers,No,No
+CUST-01405,0.4662,7054.17,At-Risk / Late-Payment Customers,No,No
+CUST-01406,0.7166,5911.38,High-Value Power Users,No,Yes
+CUST-01407,0.4727,6420.17,At-Risk / Late-Payment Customers,No,No
+CUST-01408,0.576,4809.06,High-Value Power Users,No,No
+CUST-01409,0.3751,6699.47,High-Value Power Users,No,No
+CUST-01410,0.1864,4857.24,Low-Value Basic Users,No,No
+CUST-01411,0.539,4885.32,High-Value Power Users,No,No
+CUST-01412,0.265,5738.22,Low-Value Basic Users,No,No
+CUST-01413,0.6044,2362.03,Low-Value Basic Users,No,No
+CUST-01414,0.569,6433.26,At-Risk / Late-Payment Customers,No,Yes
+CUST-01415,0.2806,5207.74,Low-Value Basic Users,No,No
+CUST-01416,0.1677,5502.19,Low-Value Basic Users,No,No
+CUST-01417,0.6155,3918.49,Low-Value Basic Users,No,No
+CUST-01418,0.3523,7607.68,High-Value Power Users,No,No
+CUST-01419,0.2384,6256.16,Loyal Long-Tenured Customers,No,No
+CUST-01420,0.4176,5599.51,High-Value Power Users,No,No
+CUST-01421,0.1615,5904.04,Loyal Long-Tenured Customers,No,No
+CUST-01422,0.5927,6757.2,High-Value Power Users,No,Yes
+CUST-01423,0.5477,5500.37,High-Value Power Users,No,Yes
+CUST-01424,0.2914,5604.04,Low-Value Basic Users,No,No
+CUST-01425,0.5956,5329.76,At-Risk / Late-Payment Customers,No,Yes
+CUST-01426,0.3776,2979.12,Low-Value Basic Users,No,No
+CUST-01427,0.4514,5227.09,High-Value Power Users,No,No
+CUST-01428,0.5825,3167.31,Low-Value Basic Users,No,No
+CUST-01429,0.5577,5586.02,High-Value Power Users,No,Yes
+CUST-01430,0.5573,4797.57,At-Risk / Late-Payment Customers,No,No
+CUST-01431,0.4955,5514.18,High-Value Power Users,No,No
+CUST-01432,0.543,4806.99,At-Risk / Late-Payment Customers,No,No
+CUST-01433,0.2024,4393.06,Low-Value Basic Users,No,No
+CUST-01434,0.1914,5652.93,At-Risk / Late-Payment Customers,No,No
+CUST-01435,0.4862,4930.0,High-Value Power Users,No,No
+CUST-01436,0.5979,4659.15,Low-Value Basic Users,No,No
+CUST-01437,0.4225,4253.05,Low-Value Basic Users,No,No
+CUST-01438,0.2199,4984.65,At-Risk / Late-Payment Customers,No,No
+CUST-01439,0.2959,4708.23,Low-Value Basic Users,No,No
+CUST-01440,0.2306,7363.12,High-Value Power Users,No,No
+CUST-01441,0.2988,4999.2,Low-Value Basic Users,No,No
+CUST-01442,0.5788,3904.5,Low-Value Basic Users,No,No
+CUST-01443,0.3799,4030.22,Loyal Long-Tenured Customers,No,No
+CUST-01444,0.6355,3402.08,Low-Value Basic Users,No,No
+CUST-01445,0.5193,5168.77,Low-Value Basic Users,No,No
+CUST-01446,0.585,6857.79,High-Value Power Users,No,Yes
+CUST-01447,0.1659,4895.83,Loyal Long-Tenured Customers,No,No
+CUST-01448,0.3756,5401.67,Loyal Long-Tenured Customers,No,No
+CUST-01449,0.2713,5598.32,At-Risk / Late-Payment Customers,No,No
+CUST-01450,0.5251,3867.34,Low-Value Basic Users,No,No
+CUST-01451,0.6485,5298.86,At-Risk / Late-Payment Customers,No,No
+CUST-01452,0.2816,4328.87,Low-Value Basic Users,No,No
+CUST-01453,0.51,4877.94,At-Risk / Late-Payment Customers,No,No
+CUST-01454,0.5579,5990.28,High-Value Power Users,No,Yes
+CUST-01455,0.5414,5566.79,High-Value Power Users,No,Yes
+CUST-01456,0.267,2567.7,Low-Value Basic Users,No,No
+CUST-01457,0.5316,3690.17,Low-Value Basic Users,No,No
+CUST-01458,0.1614,4945.86,Low-Value Basic Users,No,No
+CUST-01459,0.2367,7751.67,Loyal Long-Tenured Customers,No,No
+CUST-01460,0.3122,4334.34,Low-Value Basic Users,No,No
+CUST-01461,0.6136,3368.58,Low-Value Basic Users,No,No
+CUST-01462,0.2463,5246.14,Low-Value Basic Users,No,No
+CUST-01463,0.5147,3085.78,Low-Value Basic Users,No,No
+CUST-01464,0.2494,5272.13,Low-Value Basic Users,No,No
+CUST-01465,0.4781,5785.74,At-Risk / Late-Payment Customers,No,No
+CUST-01466,0.4438,5595.24,At-Risk / Late-Payment Customers,No,No
+CUST-01467,0.6923,5704.02,High-Value Power Users,No,Yes
+CUST-01468,0.1501,2869.0,Low-Value Basic Users,No,No
+CUST-01469,0.176,6005.95,At-Risk / Late-Payment Customers,Yes,No
+CUST-01470,0.5296,4207.78,Loyal Long-Tenured Customers,No,No
+CUST-01471,0.5327,4592.84,Loyal Long-Tenured Customers,No,No
+CUST-01472,0.2693,5299.67,Low-Value Basic Users,No,No
+CUST-01473,0.174,6058.27,At-Risk / Late-Payment Customers,No,No
+CUST-01474,0.2161,5453.08,Low-Value Basic Users,No,No
+CUST-01475,0.5864,5647.43,High-Value Power Users,No,Yes
+CUST-01476,0.462,6548.79,High-Value Power Users,No,No
+CUST-01477,0.472,8887.13,High-Value Power Users,No,No
+CUST-01478,0.4844,3828.03,Low-Value Basic Users,No,No
+CUST-01479,0.5028,4809.55,Low-Value Basic Users,No,No
+CUST-01480,0.5601,6490.36,High-Value Power Users,No,Yes
+CUST-01481,0.6945,6030.47,High-Value Power Users,No,Yes
+CUST-01482,0.3307,6471.84,At-Risk / Late-Payment Customers,No,No
+CUST-01483,0.6045,3979.93,Low-Value Basic Users,No,No
+CUST-01484,0.6111,4450.24,Low-Value Basic Users,No,No
+CUST-01485,0.4593,6706.5,High-Value Power Users,Yes,No
+CUST-01486,0.2967,9084.18,High-Value Power Users,No,No
+CUST-01487,0.2593,7682.59,High-Value Power Users,No,No
+CUST-01488,0.5844,4659.01,At-Risk / Late-Payment Customers,No,No
+CUST-01489,0.371,5203.23,At-Risk / Late-Payment Customers,Yes,No
+CUST-01490,0.5915,4521.06,Low-Value Basic Users,No,No
+CUST-01491,0.1992,4598.48,Low-Value Basic Users,No,No
+CUST-01492,0.3133,5997.19,Low-Value Basic Users,No,No
+CUST-01493,0.5668,4331.09,At-Risk / Late-Payment Customers,No,No
+CUST-01494,0.3528,7802.57,High-Value Power Users,Yes,No
+CUST-01495,0.5778,5749.67,At-Risk / Late-Payment Customers,No,Yes
+CUST-01496,0.2771,7594.88,High-Value Power Users,No,No
+CUST-01497,0.6784,3885.04,Low-Value Basic Users,No,No
+CUST-01498,0.2255,6682.14,At-Risk / Late-Payment Customers,No,No
+CUST-01499,0.4807,3289.95,Low-Value Basic Users,No,No
+CUST-01500,0.6048,6317.56,High-Value Power Users,No,Yes
+CUST-01501,0.5204,4744.37,Low-Value Basic Users,No,No
+CUST-01502,0.1628,8277.52,High-Value Power Users,No,No
+CUST-01503,0.5695,5966.5,At-Risk / Late-Payment Customers,No,Yes
+CUST-01504,0.3335,5436.28,Loyal Long-Tenured Customers,Yes,No
+CUST-01505,0.6253,4650.03,Low-Value Basic Users,No,No
+CUST-01506,0.3382,8472.41,At-Risk / Late-Payment Customers,No,No
+CUST-01507,0.612,3468.07,Low-Value Basic Users,Yes,No
+CUST-01508,0.3284,3907.18,Low-Value Basic Users,No,No
+CUST-01509,0.2176,6731.74,At-Risk / Late-Payment Customers,No,No
+CUST-01510,0.6192,5878.48,High-Value Power Users,No,Yes
+CUST-01511,0.5362,5910.57,High-Value Power Users,No,Yes
+CUST-01512,0.1954,5376.91,Low-Value Basic Users,No,No
+CUST-01513,0.6212,3325.22,Low-Value Basic Users,No,No
+CUST-01514,0.6181,4126.77,Low-Value Basic Users,No,No
+CUST-01515,0.5704,4914.32,High-Value Power Users,No,No
+CUST-01516,0.4798,6344.02,High-Value Power Users,No,No
+CUST-01517,0.1407,6240.09,Loyal Long-Tenured Customers,No,No
+CUST-01518,0.2006,4917.72,Loyal Long-Tenured Customers,No,No
+CUST-01519,0.174,3601.64,Low-Value Basic Users,No,No
+CUST-01520,0.6173,4874.57,At-Risk / Late-Payment Customers,Yes,No
+CUST-01521,0.6125,6800.42,High-Value Power Users,No,Yes
+CUST-01522,0.5975,3268.11,Low-Value Basic Users,No,No
+CUST-01523,0.6188,4938.64,Low-Value Basic Users,No,No
+CUST-01524,0.5355,4427.13,Low-Value Basic Users,No,No
+CUST-01525,0.2461,7280.61,Loyal Long-Tenured Customers,No,No
+CUST-01526,0.4475,6081.33,High-Value Power Users,No,No
+CUST-01527,0.6581,6449.56,High-Value Power Users,No,Yes
+CUST-01528,0.6752,4751.25,High-Value Power Users,No,No
+CUST-01529,0.7001,6695.95,High-Value Power Users,No,Yes
+CUST-01530,0.6872,5428.76,At-Risk / Late-Payment Customers,No,Yes
+CUST-01531,0.7101,5053.98,High-Value Power Users,No,No
+CUST-01532,0.5385,6193.55,High-Value Power Users,No,Yes
+CUST-01533,0.6393,4958.29,Low-Value Basic Users,No,No
+CUST-01534,0.3927,4331.6,Low-Value Basic Users,No,No
+CUST-01535,0.2683,8915.16,High-Value Power Users,No,No
+CUST-01536,0.288,4913.41,Low-Value Basic Users,No,No
+CUST-01537,0.2149,4987.11,Low-Value Basic Users,No,No
+CUST-01538,0.184,5498.54,Low-Value Basic Users,No,No
+CUST-01539,0.6506,5219.66,At-Risk / Late-Payment Customers,No,No
+CUST-01540,0.1561,4528.63,Loyal Long-Tenured Customers,No,No
+CUST-01541,0.5125,5321.2,High-Value Power Users,No,Yes
+CUST-01542,0.5624,3095.88,At-Risk / Late-Payment Customers,Yes,No
+CUST-01543,0.586,3485.36,Low-Value Basic Users,No,No
+CUST-01544,0.643,4578.23,At-Risk / Late-Payment Customers,No,No
+CUST-01545,0.326,4966.23,Low-Value Basic Users,No,No
+CUST-01546,0.5881,3877.36,Low-Value Basic Users,No,No
+CUST-01547,0.3543,3604.53,Low-Value Basic Users,No,No
+CUST-01548,0.1868,5358.54,Low-Value Basic Users,No,No
+CUST-01549,0.6055,3805.17,At-Risk / Late-Payment Customers,No,No
+CUST-01550,0.5814,5378.38,High-Value Power Users,No,Yes
+CUST-01551,0.45,4646.26,Loyal Long-Tenured Customers,No,No
+CUST-01552,0.5422,5237.76,High-Value Power Users,No,No
+CUST-01553,0.2642,6357.29,Low-Value Basic Users,No,No
+CUST-01554,0.2826,6342.8,High-Value Power Users,No,No
+CUST-01555,0.373,7433.83,High-Value Power Users,No,No
+CUST-01556,0.4415,3637.17,Low-Value Basic Users,No,No
+CUST-01557,0.2413,3184.62,Low-Value Basic Users,No,No
+CUST-01558,0.2516,5628.44,High-Value Power Users,No,No
+CUST-01559,0.6752,6607.48,High-Value Power Users,No,Yes
+CUST-01560,0.6783,5079.09,At-Risk / Late-Payment Customers,No,No
+CUST-01561,0.5772,3946.77,Low-Value Basic Users,No,No
+CUST-01562,0.4625,5825.99,High-Value Power Users,No,No
+CUST-01563,0.276,8249.57,High-Value Power Users,No,No
+CUST-01564,0.1649,5851.18,Loyal Long-Tenured Customers,No,No
+CUST-01565,0.5786,4783.79,At-Risk / Late-Payment Customers,No,No
+CUST-01566,0.147,7879.67,Loyal Long-Tenured Customers,No,No
+CUST-01567,0.4782,3826.06,Low-Value Basic Users,No,No
+CUST-01568,0.4773,3480.6,Loyal Long-Tenured Customers,No,No
+CUST-01569,0.2826,9228.55,High-Value Power Users,No,No
+CUST-01570,0.2503,5907.43,Low-Value Basic Users,No,No
+CUST-01571,0.3597,6359.98,High-Value Power Users,No,No
+CUST-01572,0.6079,3160.89,Low-Value Basic Users,No,No
+CUST-01573,0.1835,6115.73,High-Value Power Users,No,No
+CUST-01574,0.1684,5903.01,Loyal Long-Tenured Customers,No,No
+CUST-01575,0.3436,5437.3,High-Value Power Users,No,No
+CUST-01576,0.6955,5183.04,At-Risk / Late-Payment Customers,No,No
+CUST-01577,0.575,5089.84,Loyal Long-Tenured Customers,No,No
+CUST-01578,0.1809,7291.5,At-Risk / Late-Payment Customers,No,No
+CUST-01579,0.1758,7167.49,High-Value Power Users,No,No
+CUST-01580,0.2683,4620.74,Loyal Long-Tenured Customers,No,No
+CUST-01581,0.6485,5566.93,High-Value Power Users,No,Yes
+CUST-01582,0.2271,7871.23,High-Value Power Users,No,No
+CUST-01583,0.4825,3824.49,Low-Value Basic Users,No,No
+CUST-01584,0.6897,6755.98,High-Value Power Users,No,Yes
+CUST-01585,0.6742,4435.69,At-Risk / Late-Payment Customers,No,No
+CUST-01586,0.646,4599.75,Low-Value Basic Users,No,No
+CUST-01587,0.3103,5590.82,At-Risk / Late-Payment Customers,Yes,No
+CUST-01588,0.6527,3459.03,Low-Value Basic Users,No,No
+CUST-01589,0.6177,2995.55,Low-Value Basic Users,No,No
+CUST-01590,0.2292,6692.25,High-Value Power Users,No,No
+CUST-01591,0.2222,2825.67,Low-Value Basic Users,No,No
+CUST-01592,0.4416,3590.66,Low-Value Basic Users,No,No
+CUST-01593,0.6588,4531.37,Low-Value Basic Users,No,No
+CUST-01594,0.3243,5520.31,At-Risk / Late-Payment Customers,No,No
+CUST-01595,0.6367,4627.29,Low-Value Basic Users,No,No
+CUST-01596,0.5484,5303.38,Loyal Long-Tenured Customers,No,No
+CUST-01597,0.3799,4931.76,Loyal Long-Tenured Customers,No,No
+CUST-01598,0.6475,5583.61,High-Value Power Users,No,Yes
+CUST-01599,0.293,5724.31,Low-Value Basic Users,No,No
+CUST-01600,0.5781,4041.9,Low-Value Basic Users,No,No
+CUST-01601,0.4543,5651.41,At-Risk / Late-Payment Customers,No,No
+CUST-01602,0.6565,7304.64,High-Value Power Users,Yes,Yes
+CUST-01603,0.549,5897.02,High-Value Power Users,No,Yes
+CUST-01604,0.4482,4630.07,Loyal Long-Tenured Customers,No,No
+CUST-01605,0.2548,7070.1,At-Risk / Late-Payment Customers,No,No
+CUST-01606,0.6462,3350.15,Low-Value Basic Users,No,No
+CUST-01607,0.5903,2729.52,Low-Value Basic Users,Yes,No
+CUST-01608,0.6544,2309.95,Low-Value Basic Users,No,No
+CUST-01609,0.364,4994.23,High-Value Power Users,No,No
+CUST-01610,0.4492,6088.85,High-Value Power Users,No,No
+CUST-01611,0.1504,7845.06,Loyal Long-Tenured Customers,No,No
+CUST-01612,0.4087,8221.09,High-Value Power Users,Yes,No
+CUST-01613,0.4874,4141.87,Low-Value Basic Users,No,No
+CUST-01614,0.2448,3891.9,Low-Value Basic Users,No,No
+CUST-01615,0.7104,4704.65,High-Value Power Users,No,No
+CUST-01616,0.2611,7090.59,High-Value Power Users,No,No
+CUST-01617,0.1756,5005.84,Low-Value Basic Users,No,No
+CUST-01618,0.7385,3945.69,Low-Value Basic Users,No,No
+CUST-01619,0.3039,7417.14,At-Risk / Late-Payment Customers,No,No
+CUST-01620,0.44,4237.59,Low-Value Basic Users,No,No
+CUST-01621,0.5812,3600.13,Low-Value Basic Users,No,No
+CUST-01622,0.2992,6305.1,Loyal Long-Tenured Customers,No,No
+CUST-01623,0.3022,7241.85,High-Value Power Users,No,No
+CUST-01624,0.58,5727.32,Loyal Long-Tenured Customers,No,Yes
+CUST-01625,0.2508,4889.55,Loyal Long-Tenured Customers,No,No
+CUST-01626,0.293,4288.17,Low-Value Basic Users,No,No
+CUST-01627,0.5568,5569.76,High-Value Power Users,No,Yes
+CUST-01628,0.3549,5335.75,At-Risk / Late-Payment Customers,No,No
+CUST-01629,0.2625,4864.02,Low-Value Basic Users,No,No
+CUST-01630,0.2284,3426.09,Low-Value Basic Users,No,No
+CUST-01631,0.2056,7065.99,Low-Value Basic Users,No,No
+CUST-01632,0.4261,6896.38,High-Value Power Users,No,No
+CUST-01633,0.6286,5288.57,High-Value Power Users,No,No
+CUST-01634,0.4548,5983.76,At-Risk / Late-Payment Customers,No,No
+CUST-01635,0.5503,5935.69,High-Value Power Users,No,Yes
+CUST-01636,0.3782,5059.96,Loyal Long-Tenured Customers,No,No
+CUST-01637,0.1845,4414.3,Loyal Long-Tenured Customers,No,No
+CUST-01638,0.6344,5166.31,At-Risk / Late-Payment Customers,No,No
+CUST-01639,0.3716,4356.27,Low-Value Basic Users,No,No
+CUST-01640,0.6078,4882.71,High-Value Power Users,No,No
+CUST-01641,0.561,5766.38,At-Risk / Late-Payment Customers,No,Yes
+CUST-01642,0.2088,7566.5,At-Risk / Late-Payment Customers,No,No
+CUST-01643,0.3236,3301.42,Low-Value Basic Users,No,No
+CUST-01644,0.6408,4615.0,Low-Value Basic Users,No,No
+CUST-01645,0.1925,7034.91,At-Risk / Late-Payment Customers,No,No
+CUST-01646,0.5335,4725.06,Low-Value Basic Users,No,No
+CUST-01647,0.5188,5347.44,High-Value Power Users,No,Yes
+CUST-01648,0.3573,4212.18,Low-Value Basic Users,No,No
+CUST-01649,0.1753,5435.66,Loyal Long-Tenured Customers,No,No
+CUST-01650,0.6255,4272.11,Loyal Long-Tenured Customers,No,No
+CUST-01651,0.2753,7870.01,At-Risk / Late-Payment Customers,No,No
+CUST-01652,0.592,3673.51,Low-Value Basic Users,No,No
+CUST-01653,0.555,3684.33,Low-Value Basic Users,No,No
+CUST-01654,0.2357,3965.49,Low-Value Basic Users,No,No
+CUST-01655,0.6694,4352.24,High-Value Power Users,No,No
+CUST-01656,0.7021,5799.75,High-Value Power Users,No,Yes
+CUST-01657,0.4612,3717.15,Loyal Long-Tenured Customers,No,No
+CUST-01658,0.6534,6560.11,High-Value Power Users,No,Yes
+CUST-01659,0.6836,4851.03,High-Value Power Users,No,No
+CUST-01660,0.4166,5302.62,Loyal Long-Tenured Customers,No,No
+CUST-01661,0.2989,3491.77,Low-Value Basic Users,No,No
+CUST-01662,0.384,5480.83,Loyal Long-Tenured Customers,No,No
+CUST-01663,0.4196,5392.66,Loyal Long-Tenured Customers,No,No
+CUST-01664,0.3408,5008.14,Low-Value Basic Users,No,No
+CUST-01665,0.7018,5243.34,High-Value Power Users,No,No
+CUST-01666,0.2632,5507.71,High-Value Power Users,No,No
+CUST-01667,0.3782,8143.75,High-Value Power Users,No,No
+CUST-01668,0.5931,3163.77,Low-Value Basic Users,No,No
+CUST-01669,0.5918,5021.97,High-Value Power Users,No,No
+CUST-01670,0.4581,5462.54,High-Value Power Users,No,No
+CUST-01671,0.4076,4117.92,Low-Value Basic Users,No,No
+CUST-01672,0.6842,4618.84,At-Risk / Late-Payment Customers,No,No
+CUST-01673,0.3701,5528.92,High-Value Power Users,No,No
+CUST-01674,0.2561,6633.81,High-Value Power Users,No,No
+CUST-01675,0.5781,3027.56,Low-Value Basic Users,No,No
+CUST-01676,0.1864,4715.35,Low-Value Basic Users,No,No
+CUST-01677,0.6944,3750.34,Low-Value Basic Users,No,No
+CUST-01678,0.2747,6146.19,At-Risk / Late-Payment Customers,Yes,No
+CUST-01679,0.3301,3715.91,Low-Value Basic Users,No,No
+CUST-01680,0.6347,3445.58,At-Risk / Late-Payment Customers,No,No
+CUST-01681,0.5905,4764.13,High-Value Power Users,No,No
+CUST-01682,0.5334,6728.9,High-Value Power Users,No,Yes
+CUST-01683,0.333,9014.33,High-Value Power Users,No,No
+CUST-01684,0.5426,4975.38,Low-Value Basic Users,No,No
+CUST-01685,0.3494,8102.98,High-Value Power Users,No,No
+CUST-01686,0.604,3012.66,Low-Value Basic Users,No,No
+CUST-01687,0.5501,3594.76,Low-Value Basic Users,No,No
+CUST-01688,0.304,4751.32,At-Risk / Late-Payment Customers,No,No
+CUST-01689,0.7026,5350.34,High-Value Power Users,No,Yes
+CUST-01690,0.6441,5144.53,At-Risk / Late-Payment Customers,No,No
+CUST-01691,0.258,8155.27,At-Risk / Late-Payment Customers,No,No
+CUST-01692,0.6128,4330.85,Loyal Long-Tenured Customers,No,No
+CUST-01693,0.169,5695.17,Low-Value Basic Users,No,No
+CUST-01694,0.2349,8082.06,High-Value Power Users,No,No
+CUST-01695,0.5284,3607.7,Low-Value Basic Users,No,No
+CUST-01696,0.5998,4060.38,Low-Value Basic Users,No,No
+CUST-01697,0.6102,6120.85,High-Value Power Users,No,Yes
+CUST-01698,0.3243,7424.61,High-Value Power Users,No,No
+CUST-01699,0.212,7141.49,High-Value Power Users,No,No
+CUST-01700,0.1459,5034.87,Low-Value Basic Users,No,No
+CUST-01701,0.2081,7706.1,High-Value Power Users,No,No
+CUST-01702,0.427,5877.59,High-Value Power Users,No,No
+CUST-01703,0.5705,6149.42,At-Risk / Late-Payment Customers,No,Yes
+CUST-01704,0.6175,7011.13,High-Value Power Users,No,Yes
+CUST-01705,0.299,5365.44,At-Risk / Late-Payment Customers,No,No
+CUST-01706,0.4582,5529.06,High-Value Power Users,No,No
+CUST-01707,0.5838,5371.6,At-Risk / Late-Payment Customers,No,Yes
+CUST-01708,0.4219,4796.79,Loyal Long-Tenured Customers,No,No
+CUST-01709,0.5386,2946.11,Low-Value Basic Users,No,No
+CUST-01710,0.3984,5013.41,Loyal Long-Tenured Customers,No,No
+CUST-01711,0.6024,3828.53,Low-Value Basic Users,No,No
+CUST-01712,0.3291,8249.04,High-Value Power Users,No,No
+CUST-01713,0.4304,6417.52,At-Risk / Late-Payment Customers,No,No
+CUST-01714,0.3652,4135.2,Loyal Long-Tenured Customers,No,No
+CUST-01715,0.2666,3697.19,Low-Value Basic Users,No,No
+CUST-01716,0.5845,6537.24,High-Value Power Users,No,Yes
+CUST-01717,0.2855,5750.67,At-Risk / Late-Payment Customers,No,No
+CUST-01718,0.5372,4418.78,Low-Value Basic Users,No,No
+CUST-01719,0.3561,4584.98,Low-Value Basic Users,No,No
+CUST-01720,0.5003,2466.27,Low-Value Basic Users,No,No
+CUST-01721,0.593,4781.91,Loyal Long-Tenured Customers,No,No
+CUST-01722,0.1966,5057.85,Low-Value Basic Users,No,No
+CUST-01723,0.1917,5189.6,Low-Value Basic Users,No,No
+CUST-01724,0.1985,5653.59,Loyal Long-Tenured Customers,No,No
+CUST-01725,0.5505,6417.36,High-Value Power Users,No,Yes
+CUST-01726,0.5175,4567.67,Low-Value Basic Users,No,No
+CUST-01727,0.4681,4476.15,Low-Value Basic Users,No,No
+CUST-01728,0.363,4981.17,Loyal Long-Tenured Customers,No,No
+CUST-01729,0.706,5518.46,High-Value Power Users,No,Yes
+CUST-01730,0.5087,3737.47,Low-Value Basic Users,No,No
+CUST-01731,0.6441,6018.68,High-Value Power Users,No,Yes
+CUST-01732,0.705,5683.56,High-Value Power Users,No,Yes
+CUST-01733,0.5286,4516.47,Low-Value Basic Users,No,No
+CUST-01734,0.3231,3912.35,Low-Value Basic Users,No,No
+CUST-01735,0.353,3774.42,Low-Value Basic Users,No,No
+CUST-01736,0.2358,8467.83,High-Value Power Users,No,No
+CUST-01737,0.2001,4478.6,Low-Value Basic Users,No,No
+CUST-01738,0.6002,2595.09,Low-Value Basic Users,No,No
+CUST-01739,0.3443,7417.25,High-Value Power Users,No,No
+CUST-01740,0.181,5677.63,Loyal Long-Tenured Customers,No,No
+CUST-01741,0.564,5392.52,High-Value Power Users,No,Yes
+CUST-01742,0.6268,5259.35,High-Value Power Users,No,No
+CUST-01743,0.207,9178.17,High-Value Power Users,No,No
+CUST-01744,0.2535,4518.55,Low-Value Basic Users,No,No
+CUST-01745,0.3485,4284.23,Low-Value Basic Users,No,No
+CUST-01746,0.3555,5383.31,High-Value Power Users,No,No
+CUST-01747,0.1708,7658.8,At-Risk / Late-Payment Customers,No,No
+CUST-01748,0.1666,7599.75,Loyal Long-Tenured Customers,Yes,No
+CUST-01749,0.1753,3512.74,Low-Value Basic Users,No,No
+CUST-01750,0.3073,7084.02,High-Value Power Users,No,No
+CUST-01751,0.4105,9499.64,High-Value Power Users,No,No
+CUST-01752,0.6637,4751.46,High-Value Power Users,No,No
+CUST-01753,0.2884,5128.54,Low-Value Basic Users,No,No
+CUST-01754,0.5785,4137.36,Low-Value Basic Users,No,No
+CUST-01755,0.5941,3072.28,Low-Value Basic Users,No,No
+CUST-01756,0.7456,4494.28,At-Risk / Late-Payment Customers,Yes,No
+CUST-01757,0.6041,5169.73,Loyal Long-Tenured Customers,Yes,No
+CUST-01758,0.5517,4332.14,Loyal Long-Tenured Customers,No,No
+CUST-01759,0.6552,2300.34,Low-Value Basic Users,No,No
+CUST-01760,0.6141,5079.01,At-Risk / Late-Payment Customers,No,No
+CUST-01761,0.2432,7728.01,High-Value Power Users,No,No
+CUST-01762,0.2612,7423.17,Loyal Long-Tenured Customers,No,No
+CUST-01763,0.2538,3716.7,Low-Value Basic Users,No,No
+CUST-01764,0.5713,4451.17,Low-Value Basic Users,No,No
+CUST-01765,0.7699,4474.52,At-Risk / Late-Payment Customers,No,No
+CUST-01766,0.1853,7267.66,High-Value Power Users,No,No
+CUST-01767,0.6317,4823.48,At-Risk / Late-Payment Customers,No,No
+CUST-01768,0.2501,5705.86,Low-Value Basic Users,No,No
+CUST-01769,0.3812,7688.65,At-Risk / Late-Payment Customers,No,No
+CUST-01770,0.7481,5898.96,High-Value Power Users,No,Yes
+CUST-01771,0.5669,4793.03,Low-Value Basic Users,No,No
+CUST-01772,0.5353,4562.37,Loyal Long-Tenured Customers,No,No
+CUST-01773,0.4679,4965.92,Loyal Long-Tenured Customers,No,No
+CUST-01774,0.5819,2966.44,Low-Value Basic Users,No,No
+CUST-01775,0.2568,7457.34,High-Value Power Users,Yes,No
+CUST-01776,0.3496,3764.5,Low-Value Basic Users,No,No
+CUST-01777,0.5156,2922.48,Low-Value Basic Users,No,No
+CUST-01778,0.6277,6281.29,At-Risk / Late-Payment Customers,No,Yes
+CUST-01779,0.6155,4601.85,Low-Value Basic Users,No,No
+CUST-01780,0.5245,4250.81,Low-Value Basic Users,No,No
+CUST-01781,0.2452,6435.84,At-Risk / Late-Payment Customers,No,No
+CUST-01782,0.2226,5877.35,Loyal Long-Tenured Customers,No,No
+CUST-01783,0.297,5574.21,High-Value Power Users,No,No
+CUST-01784,0.5288,3915.45,Low-Value Basic Users,No,No
+CUST-01785,0.5269,6598.32,High-Value Power Users,No,Yes
+CUST-01786,0.2603,5964.93,Low-Value Basic Users,No,No
+CUST-01787,0.3037,3467.46,Low-Value Basic Users,No,No
+CUST-01788,0.3055,7723.84,At-Risk / Late-Payment Customers,No,No
+CUST-01789,0.5789,5554.33,High-Value Power Users,No,Yes
+CUST-01790,0.2723,4873.13,Low-Value Basic Users,No,No
+CUST-01791,0.5892,4549.01,At-Risk / Late-Payment Customers,No,No
+CUST-01792,0.6568,3484.41,Low-Value Basic Users,No,No
+CUST-01793,0.2819,5415.92,At-Risk / Late-Payment Customers,No,No
+CUST-01794,0.4912,4898.43,Low-Value Basic Users,No,No
+CUST-01795,0.2671,3433.72,Low-Value Basic Users,No,No
+CUST-01796,0.5569,5012.64,Loyal Long-Tenured Customers,No,No
+CUST-01797,0.5248,6610.66,High-Value Power Users,No,Yes
+CUST-01798,0.7241,5475.44,High-Value Power Users,Yes,Yes
+CUST-01799,0.2046,8285.66,High-Value Power Users,No,No
+CUST-01800,0.3764,6137.79,At-Risk / Late-Payment Customers,Yes,No
+CUST-01801,0.576,4235.99,Low-Value Basic Users,No,No
+CUST-01802,0.6213,4865.22,At-Risk / Late-Payment Customers,No,No
+CUST-01803,0.6581,4994.84,Low-Value Basic Users,No,No
+CUST-01804,0.5632,5986.01,High-Value Power Users,No,Yes
+CUST-01805,0.3057,6929.98,At-Risk / Late-Payment Customers,No,No
+CUST-01806,0.4822,5241.88,Loyal Long-Tenured Customers,No,No
+CUST-01807,0.5806,3599.09,Loyal Long-Tenured Customers,No,No
+CUST-01808,0.6371,5099.99,At-Risk / Late-Payment Customers,No,No
+CUST-01809,0.358,4491.35,At-Risk / Late-Payment Customers,Yes,No
+CUST-01810,0.2572,5372.4,Low-Value Basic Users,No,No
+CUST-01811,0.1801,6808.25,High-Value Power Users,No,No
+CUST-01812,0.165,5513.35,Loyal Long-Tenured Customers,No,No
+CUST-01813,0.2613,6150.13,Low-Value Basic Users,No,No
+CUST-01814,0.6893,5646.94,High-Value Power Users,No,Yes
+CUST-01815,0.1813,6574.99,High-Value Power Users,No,No
+CUST-01816,0.2852,4968.99,Low-Value Basic Users,No,No
+CUST-01817,0.6412,3885.46,Low-Value Basic Users,No,No
+CUST-01818,0.26,4600.3,Loyal Long-Tenured Customers,No,No
+CUST-01819,0.2243,6523.62,High-Value Power Users,No,No
+CUST-01820,0.3599,2807.95,Low-Value Basic Users,No,No
+CUST-01821,0.5497,3727.0,Low-Value Basic Users,No,No
+CUST-01822,0.5703,3304.14,Low-Value Basic Users,No,No
+CUST-01823,0.2321,6349.32,Loyal Long-Tenured Customers,No,No
+CUST-01824,0.5083,3858.22,Low-Value Basic Users,No,No
+CUST-01825,0.4503,4949.15,At-Risk / Late-Payment Customers,No,No
+CUST-01826,0.5912,4863.59,Low-Value Basic Users,No,No
+CUST-01827,0.5112,3892.35,Loyal Long-Tenured Customers,No,No
+CUST-01828,0.2189,7240.52,Loyal Long-Tenured Customers,No,No
+CUST-01829,0.4419,4754.72,Low-Value Basic Users,No,No
+CUST-01830,0.2346,4226.91,Low-Value Basic Users,No,No
+CUST-01831,0.496,4973.14,High-Value Power Users,No,No
+CUST-01832,0.5417,5213.51,High-Value Power Users,No,No
+CUST-01833,0.4615,4881.25,Loyal Long-Tenured Customers,No,No
+CUST-01834,0.4835,4735.31,At-Risk / Late-Payment Customers,No,No
+CUST-01835,0.3926,6046.41,At-Risk / Late-Payment Customers,No,No
+CUST-01836,0.5709,3550.43,Low-Value Basic Users,No,No
+CUST-01837,0.4739,5489.47,Loyal Long-Tenured Customers,No,No
+CUST-01838,0.2592,5509.43,Low-Value Basic Users,No,No
+CUST-01839,0.3547,4009.89,Low-Value Basic Users,No,No
+CUST-01840,0.5459,4631.56,At-Risk / Late-Payment Customers,No,No
+CUST-01841,0.1855,5572.23,Low-Value Basic Users,No,No
+CUST-01842,0.5263,3755.27,At-Risk / Late-Payment Customers,No,No
+CUST-01843,0.2451,8794.7,Loyal Long-Tenured Customers,No,No
+CUST-01844,0.2395,7943.41,High-Value Power Users,No,No
+CUST-01845,0.6409,6785.26,High-Value Power Users,No,Yes
+CUST-01846,0.6325,3408.22,Low-Value Basic Users,No,No
+CUST-01847,0.6136,3775.23,Loyal Long-Tenured Customers,Yes,No
+CUST-01848,0.405,5633.12,High-Value Power Users,No,No
+CUST-01849,0.4131,5854.57,Loyal Long-Tenured Customers,No,No
+CUST-01850,0.3024,6975.19,At-Risk / Late-Payment Customers,No,No
+CUST-01851,0.4019,3470.37,Low-Value Basic Users,No,No
+CUST-01852,0.6721,4747.09,At-Risk / Late-Payment Customers,No,No
+CUST-01853,0.4769,6866.88,At-Risk / Late-Payment Customers,No,No
+CUST-01854,0.5744,5749.37,High-Value Power Users,No,Yes
+CUST-01855,0.6439,4985.48,High-Value Power Users,No,No
+CUST-01856,0.3239,3116.53,Low-Value Basic Users,No,No
+CUST-01857,0.2204,5955.69,Loyal Long-Tenured Customers,No,No
+CUST-01858,0.5187,6148.34,High-Value Power Users,No,Yes
+CUST-01859,0.2558,4323.52,Low-Value Basic Users,No,No
+CUST-01860,0.5397,3612.88,Low-Value Basic Users,No,No
+CUST-01861,0.24,7380.22,High-Value Power Users,No,No
+CUST-01862,0.5668,5495.28,At-Risk / Late-Payment Customers,No,Yes
+CUST-01863,0.2574,3579.36,Low-Value Basic Users,No,No
+CUST-01864,0.6531,3890.95,Low-Value Basic Users,No,No
+CUST-01865,0.4479,4360.09,Low-Value Basic Users,No,No
+CUST-01866,0.1776,4919.63,Low-Value Basic Users,No,No
+CUST-01867,0.4124,4429.5,Loyal Long-Tenured Customers,No,No
+CUST-01868,0.502,5327.53,Loyal Long-Tenured Customers,No,Yes
+CUST-01869,0.5888,3158.9,Low-Value Basic Users,No,No
+CUST-01870,0.207,4428.69,Low-Value Basic Users,No,No
+CUST-01871,0.6293,2191.26,Low-Value Basic Users,No,No
+CUST-01872,0.4651,6018.68,High-Value Power Users,No,No
+CUST-01873,0.2155,8692.33,High-Value Power Users,No,No
+CUST-01874,0.1718,4488.36,Low-Value Basic Users,No,No
+CUST-01875,0.6554,6768.75,High-Value Power Users,No,Yes
+CUST-01876,0.3624,4421.4,Low-Value Basic Users,No,No
+CUST-01877,0.4835,4343.24,Low-Value Basic Users,No,No
+CUST-01878,0.4758,3381.96,Low-Value Basic Users,No,No
+CUST-01879,0.652,4757.13,Low-Value Basic Users,No,No
+CUST-01880,0.1786,7743.99,Loyal Long-Tenured Customers,Yes,No
+CUST-01881,0.1733,3721.25,Low-Value Basic Users,No,No
+CUST-01882,0.7352,6849.36,High-Value Power Users,No,Yes
+CUST-01883,0.6738,4699.31,High-Value Power Users,No,No
+CUST-01884,0.6329,3107.97,At-Risk / Late-Payment Customers,No,No
+CUST-01885,0.5999,5687.42,High-Value Power Users,No,Yes
+CUST-01886,0.7256,5435.28,At-Risk / Late-Payment Customers,No,Yes
+CUST-01887,0.2444,8405.57,High-Value Power Users,No,No
+CUST-01888,0.6077,2853.55,Low-Value Basic Users,No,No
+CUST-01889,0.2186,8204.19,High-Value Power Users,No,No
+CUST-01890,0.5081,3863.3,Low-Value Basic Users,No,No
+CUST-01891,0.4638,6184.98,Loyal Long-Tenured Customers,No,No
+CUST-01892,0.6624,6952.27,High-Value Power Users,No,Yes
+CUST-01893,0.2202,8136.0,At-Risk / Late-Payment Customers,No,No
+CUST-01894,0.5926,5528.94,High-Value Power Users,No,Yes
+CUST-01895,0.5433,5136.59,Loyal Long-Tenured Customers,No,No
+CUST-01896,0.5224,4949.75,High-Value Power Users,No,No
+CUST-01897,0.2747,3525.51,Low-Value Basic Users,No,No
+CUST-01898,0.2657,5199.91,Low-Value Basic Users,No,No
+CUST-01899,0.4296,6100.71,High-Value Power Users,No,No
+CUST-01900,0.4334,6115.69,Loyal Long-Tenured Customers,No,No
+CUST-01901,0.5698,3250.56,Low-Value Basic Users,No,No
+CUST-01902,0.6788,6019.45,At-Risk / Late-Payment Customers,No,Yes
+CUST-01903,0.2464,8493.71,At-Risk / Late-Payment Customers,Yes,No
+CUST-01904,0.5508,7032.26,High-Value Power Users,No,Yes
+CUST-01905,0.2527,5719.4,Low-Value Basic Users,No,No
+CUST-01906,0.1887,6875.52,At-Risk / Late-Payment Customers,No,No
+CUST-01907,0.2296,6927.01,High-Value Power Users,No,No
+CUST-01908,0.5652,3295.19,Low-Value Basic Users,No,No
+CUST-01909,0.308,3683.65,Low-Value Basic Users,No,No
+CUST-01910,0.4151,6852.45,High-Value Power Users,No,No
+CUST-01911,0.632,6001.29,High-Value Power Users,No,Yes
+CUST-01912,0.2985,8151.16,High-Value Power Users,No,No
+CUST-01913,0.4007,3172.05,Low-Value Basic Users,No,No
+CUST-01914,0.6366,4788.3,Low-Value Basic Users,No,No
+CUST-01915,0.5135,6163.86,High-Value Power Users,No,Yes
+CUST-01916,0.5315,3967.34,Low-Value Basic Users,No,No
+CUST-01917,0.3344,3989.19,Low-Value Basic Users,No,No
+CUST-01918,0.3993,6204.58,At-Risk / Late-Payment Customers,No,No
+CUST-01919,0.3601,7176.28,High-Value Power Users,No,No
+CUST-01920,0.6202,5329.77,At-Risk / Late-Payment Customers,No,Yes
+CUST-01921,0.6362,5639.13,High-Value Power Users,No,Yes
+CUST-01922,0.5955,5793.1,High-Value Power Users,No,Yes
+CUST-01923,0.391,4972.2,Loyal Long-Tenured Customers,No,No
+CUST-01924,0.3042,6210.66,At-Risk / Late-Payment Customers,No,No
+CUST-01925,0.3332,5325.42,Low-Value Basic Users,No,No
+CUST-01926,0.1986,7126.1,High-Value Power Users,No,No
+CUST-01927,0.2019,6221.99,High-Value Power Users,No,No
+CUST-01928,0.5882,5512.5,High-Value Power Users,No,Yes
+CUST-01929,0.3514,6332.84,High-Value Power Users,No,No
+CUST-01930,0.2855,4296.14,Low-Value Basic Users,No,No
+CUST-01931,0.2341,7886.52,High-Value Power Users,No,No
+CUST-01932,0.5754,3954.29,Loyal Long-Tenured Customers,No,No
+CUST-01933,0.3612,5508.58,Low-Value Basic Users,No,No
+CUST-01934,0.557,2293.83,Low-Value Basic Users,No,No
+CUST-01935,0.1831,7297.78,Loyal Long-Tenured Customers,No,No
+CUST-01936,0.1554,7059.24,Loyal Long-Tenured Customers,No,No
+CUST-01937,0.2183,5498.43,Low-Value Basic Users,No,No
+CUST-01938,0.6251,5980.58,High-Value Power Users,Yes,Yes
+CUST-01939,0.603,6782.11,High-Value Power Users,No,Yes
+CUST-01940,0.3409,8184.86,High-Value Power Users,No,No
+CUST-01941,0.1768,5669.44,Loyal Long-Tenured Customers,No,No
+CUST-01942,0.2283,7767.2,High-Value Power Users,No,No
+CUST-01943,0.6348,6634.76,High-Value Power Users,No,Yes
+CUST-01944,0.2933,6204.78,High-Value Power Users,No,No
+CUST-01945,0.2856,6226.96,At-Risk / Late-Payment Customers,No,No
+CUST-01946,0.5536,5717.68,High-Value Power Users,No,Yes
+CUST-01947,0.455,3820.94,Low-Value Basic Users,No,No
+CUST-01948,0.3588,7110.18,High-Value Power Users,No,No
+CUST-01949,0.496,3201.68,Low-Value Basic Users,Yes,No
+CUST-01950,0.2382,5609.24,At-Risk / Late-Payment Customers,No,No
+CUST-01951,0.3873,4925.11,Low-Value Basic Users,No,No
+CUST-01952,0.549,5053.14,At-Risk / Late-Payment Customers,No,No
+CUST-01953,0.5958,5017.28,At-Risk / Late-Payment Customers,No,No
+CUST-01954,0.262,6459.43,Low-Value Basic Users,No,No
+CUST-01955,0.2736,5264.5,At-Risk / Late-Payment Customers,No,No
+CUST-01956,0.2497,4309.77,Low-Value Basic Users,No,No
+CUST-01957,0.3419,7419.53,High-Value Power Users,No,No
+CUST-01958,0.1588,5529.53,Low-Value Basic Users,No,No
+CUST-01959,0.3384,9135.91,High-Value Power Users,No,No
+CUST-01960,0.3028,5652.47,High-Value Power Users,No,No
+CUST-01961,0.624,4633.32,At-Risk / Late-Payment Customers,No,No
+CUST-01962,0.5219,5696.86,High-Value Power Users,No,Yes
+CUST-01963,0.6081,5509.03,At-Risk / Late-Payment Customers,No,Yes
+CUST-01964,0.2426,5177.84,Loyal Long-Tenured Customers,No,No
+CUST-01965,0.3706,3876.43,Loyal Long-Tenured Customers,No,No
+CUST-01966,0.3371,7251.87,High-Value Power Users,No,No
+CUST-01967,0.1915,7128.9,High-Value Power Users,No,No
+CUST-01968,0.3842,4920.95,Loyal Long-Tenured Customers,No,No
+CUST-01969,0.5424,3575.11,Low-Value Basic Users,No,No
+CUST-01970,0.3497,3845.48,Low-Value Basic Users,No,No
+CUST-01971,0.4487,2722.52,Low-Value Basic Users,No,No
+CUST-01972,0.257,6675.36,At-Risk / Late-Payment Customers,No,No
+CUST-01973,0.6538,6005.71,High-Value Power Users,No,Yes
+CUST-01974,0.6428,4498.17,Low-Value Basic Users,No,No
+CUST-01975,0.276,8289.49,High-Value Power Users,No,No
+CUST-01976,0.5877,4684.51,High-Value Power Users,No,No
+CUST-01977,0.5228,3747.98,Loyal Long-Tenured Customers,No,No
+CUST-01978,0.5675,5570.84,High-Value Power Users,No,Yes
+CUST-01979,0.5626,4143.96,At-Risk / Late-Payment Customers,No,No
+CUST-01980,0.2782,7822.57,High-Value Power Users,No,No
+CUST-01981,0.4941,4609.31,At-Risk / Late-Payment Customers,No,No
+CUST-01982,0.6703,4013.07,Low-Value Basic Users,No,No
+CUST-01983,0.5464,4062.97,Low-Value Basic Users,No,No
+CUST-01984,0.5907,3085.58,Low-Value Basic Users,No,No
+CUST-01985,0.422,5782.04,Loyal Long-Tenured Customers,No,No
+CUST-01986,0.1778,8519.5,High-Value Power Users,No,No
+CUST-01987,0.742,4743.7,At-Risk / Late-Payment Customers,No,No
+CUST-01988,0.185,6314.14,Loyal Long-Tenured Customers,No,No
+CUST-01989,0.6935,5684.81,At-Risk / Late-Payment Customers,No,Yes
+CUST-01990,0.7074,5781.08,High-Value Power Users,No,Yes
+CUST-01991,0.6678,5766.7,High-Value Power Users,No,Yes
+CUST-01992,0.1551,7295.99,Loyal Long-Tenured Customers,Yes,No
+CUST-01993,0.2456,6835.2,Loyal Long-Tenured Customers,No,No
+CUST-01994,0.6169,4616.18,Low-Value Basic Users,No,No
+CUST-01995,0.1993,6876.57,At-Risk / Late-Payment Customers,No,No
+CUST-01996,0.5077,3447.31,Low-Value Basic Users,No,No
+CUST-01997,0.2587,4817.82,Low-Value Basic Users,No,No
+CUST-01998,0.1889,6120.16,Loyal Long-Tenured Customers,No,No
+CUST-01999,0.4732,5993.41,Loyal Long-Tenured Customers,No,No
+CUST-02000,0.5047,4816.12,High-Value Power Users,No,No
+CUST-02001,0.4421,3669.71,Low-Value Basic Users,No,No
+CUST-02002,0.4285,7302.7,At-Risk / Late-Payment Customers,No,No
+CUST-02003,0.4559,6735.64,At-Risk / Late-Payment Customers,No,No
+CUST-02004,0.1861,6664.85,At-Risk / Late-Payment Customers,No,No
+CUST-02005,0.6654,5780.25,High-Value Power Users,No,Yes
+CUST-02006,0.2537,7216.36,High-Value Power Users,No,No
+CUST-02007,0.4187,3885.82,Loyal Long-Tenured Customers,No,No
+CUST-02008,0.1745,4917.09,Loyal Long-Tenured Customers,No,No
+CUST-02009,0.5963,5836.55,High-Value Power Users,No,Yes
+CUST-02010,0.6632,5512.21,At-Risk / Late-Payment Customers,No,Yes
+CUST-02011,0.7213,4002.17,Low-Value Basic Users,No,No
+CUST-02012,0.2691,6343.1,High-Value Power Users,No,No
+CUST-02013,0.3832,6213.26,Loyal Long-Tenured Customers,No,No
+CUST-02014,0.2374,5613.25,High-Value Power Users,No,No
+CUST-02015,0.1869,7311.24,High-Value Power Users,No,No
+CUST-02016,0.6277,5566.87,Low-Value Basic Users,No,Yes
+CUST-02017,0.4486,7029.53,High-Value Power Users,No,No
+CUST-02018,0.425,4966.06,Loyal Long-Tenured Customers,No,No
+CUST-02019,0.5783,3754.6,Low-Value Basic Users,No,No
+CUST-02020,0.4004,5557.23,Loyal Long-Tenured Customers,No,No
+CUST-02021,0.1873,8434.98,High-Value Power Users,No,No
+CUST-02022,0.398,4956.2,Loyal Long-Tenured Customers,No,No
+CUST-02023,0.67,3729.81,Low-Value Basic Users,No,No
+CUST-02024,0.2818,7751.11,High-Value Power Users,No,No
+CUST-02025,0.6988,4090.51,Low-Value Basic Users,No,No
+CUST-02026,0.4458,7585.37,At-Risk / Late-Payment Customers,No,No
+CUST-02027,0.1901,4032.56,Low-Value Basic Users,No,No
+CUST-02028,0.5363,5175.34,High-Value Power Users,No,No
+CUST-02029,0.5365,4555.09,Low-Value Basic Users,No,No
+CUST-02030,0.297,5866.73,At-Risk / Late-Payment Customers,No,No
+CUST-02031,0.2662,5191.58,Low-Value Basic Users,No,No
+CUST-02032,0.3154,7747.5,High-Value Power Users,No,No
+CUST-02033,0.4921,6130.15,High-Value Power Users,Yes,No
+CUST-02034,0.4898,7852.68,High-Value Power Users,Yes,No
+CUST-02035,0.5852,6189.64,High-Value Power Users,No,Yes
+CUST-02036,0.2931,3630.7,Low-Value Basic Users,No,No
+CUST-02037,0.3304,5587.2,At-Risk / Late-Payment Customers,No,No
+CUST-02038,0.3343,6047.54,High-Value Power Users,No,No
+CUST-02039,0.7133,4538.81,At-Risk / Late-Payment Customers,No,No
+CUST-02040,0.274,7915.79,High-Value Power Users,No,No
+CUST-02041,0.6485,5654.34,High-Value Power Users,No,Yes
+CUST-02042,0.6224,3828.11,Low-Value Basic Users,No,No
+CUST-02043,0.5638,5480.55,High-Value Power Users,No,Yes
+CUST-02044,0.6237,3829.85,Low-Value Basic Users,No,No
+CUST-02045,0.3653,6353.37,At-Risk / Late-Payment Customers,No,No
+CUST-02046,0.5928,6972.7,At-Risk / Late-Payment Customers,Yes,Yes
+CUST-02047,0.1768,7541.92,High-Value Power Users,No,No
+CUST-02048,0.4268,4446.65,Loyal Long-Tenured Customers,No,No
+CUST-02049,0.6583,2690.75,Low-Value Basic Users,No,No
+CUST-02050,0.5846,4846.79,High-Value Power Users,No,No
+CUST-02051,0.6672,6796.37,High-Value Power Users,No,Yes
+CUST-02052,0.3681,4902.21,At-Risk / Late-Payment Customers,No,No
+CUST-02053,0.4929,3209.31,Low-Value Basic Users,No,No
+CUST-02054,0.6198,4984.0,High-Value Power Users,No,No
+CUST-02055,0.5562,4766.53,High-Value Power Users,No,No
+CUST-02056,0.4289,4845.68,Loyal Long-Tenured Customers,No,No
+CUST-02057,0.6357,3597.92,Low-Value Basic Users,No,No
+CUST-02058,0.1879,5874.78,Low-Value Basic Users,No,No
+CUST-02059,0.6168,4470.69,At-Risk / Late-Payment Customers,No,No
+CUST-02060,0.5438,6294.07,High-Value Power Users,No,Yes
+CUST-02061,0.2419,7654.75,Loyal Long-Tenured Customers,No,No
+CUST-02062,0.2656,6546.03,At-Risk / Late-Payment Customers,No,No
+CUST-02063,0.622,4844.98,Low-Value Basic Users,No,No
+CUST-02064,0.2051,6253.78,High-Value Power Users,No,No
+CUST-02065,0.2657,5104.41,Low-Value Basic Users,No,No
+CUST-02066,0.6252,3723.92,At-Risk / Late-Payment Customers,No,No
+CUST-02067,0.5046,5940.9,High-Value Power Users,No,Yes
+CUST-02068,0.3036,8545.3,High-Value Power Users,No,No
+CUST-02069,0.2919,6801.01,High-Value Power Users,No,No
+CUST-02070,0.1884,7158.39,At-Risk / Late-Payment Customers,No,No
+CUST-02071,0.4639,7063.87,High-Value Power Users,No,No
+CUST-02072,0.2483,3854.92,Low-Value Basic Users,No,No
+CUST-02073,0.7039,5037.81,High-Value Power Users,No,No
+CUST-02074,0.3687,4942.62,At-Risk / Late-Payment Customers,No,No
+CUST-02075,0.1951,5301.08,Low-Value Basic Users,No,No
+CUST-02076,0.3325,4326.42,Loyal Long-Tenured Customers,No,No
+CUST-02077,0.6052,4713.59,Low-Value Basic Users,No,No
+CUST-02078,0.2211,3451.59,Low-Value Basic Users,No,No
+CUST-02079,0.1692,6181.8,Loyal Long-Tenured Customers,No,No
+CUST-02080,0.6765,6760.29,High-Value Power Users,No,Yes
+CUST-02081,0.2403,4756.78,Low-Value Basic Users,No,No
+CUST-02082,0.4838,5058.52,High-Value Power Users,No,No
+CUST-02083,0.6658,5436.19,High-Value Power Users,No,Yes
+CUST-02084,0.7164,3305.35,Low-Value Basic Users,No,No
+CUST-02085,0.2365,5460.75,Low-Value Basic Users,No,No
+CUST-02086,0.6469,4105.47,Low-Value Basic Users,No,No
+CUST-02087,0.4384,5415.79,High-Value Power Users,No,No
+CUST-02088,0.5389,4669.11,Loyal Long-Tenured Customers,No,No
+CUST-02089,0.1939,4721.33,Low-Value Basic Users,No,No
+CUST-02090,0.2785,8112.7,High-Value Power Users,No,No
+CUST-02091,0.6332,4557.25,Low-Value Basic Users,No,No
+CUST-02092,0.4509,6673.01,High-Value Power Users,No,No
+CUST-02093,0.4074,5878.83,High-Value Power Users,No,No
+CUST-02094,0.6027,5774.33,High-Value Power Users,No,Yes
+CUST-02095,0.3956,6831.84,High-Value Power Users,No,No
+CUST-02096,0.2468,5765.37,High-Value Power Users,No,No
+CUST-02097,0.6196,3877.86,Low-Value Basic Users,No,No
+CUST-02098,0.5423,7579.7,At-Risk / Late-Payment Customers,No,Yes
+CUST-02099,0.6061,7004.54,High-Value Power Users,No,Yes
+CUST-02100,0.6381,4125.24,Low-Value Basic Users,No,No
+CUST-02101,0.3754,5703.98,Loyal Long-Tenured Customers,No,No
+CUST-02102,0.6082,2902.06,Low-Value Basic Users,No,No
+CUST-02103,0.1875,5597.46,Loyal Long-Tenured Customers,No,No
+CUST-02104,0.5266,4623.02,High-Value Power Users,No,No
+CUST-02105,0.2699,5973.58,High-Value Power Users,No,No
+CUST-02106,0.638,6642.77,High-Value Power Users,No,Yes
+CUST-02107,0.2416,2771.22,Low-Value Basic Users,No,No
+CUST-02108,0.4557,5907.39,At-Risk / Late-Payment Customers,No,No
+CUST-02109,0.516,5633.62,High-Value Power Users,No,Yes
+CUST-02110,0.6915,5552.95,High-Value Power Users,No,Yes
+CUST-02111,0.6236,5629.0,High-Value Power Users,No,Yes
+CUST-02112,0.6659,4704.16,High-Value Power Users,No,No
+CUST-02113,0.5771,4889.79,High-Value Power Users,No,No
+CUST-02114,0.2699,5281.64,Low-Value Basic Users,No,No
+CUST-02115,0.6329,5233.98,High-Value Power Users,No,No
+CUST-02116,0.3055,5712.58,High-Value Power Users,No,No
+CUST-02117,0.302,5409.04,High-Value Power Users,No,No
+CUST-02118,0.4087,6733.18,High-Value Power Users,No,No
+CUST-02119,0.3835,5175.33,At-Risk / Late-Payment Customers,No,No
+CUST-02120,0.5409,3431.6,Low-Value Basic Users,No,No
+CUST-02121,0.2335,5657.96,High-Value Power Users,No,No
+CUST-02122,0.3884,6601.71,At-Risk / Late-Payment Customers,No,No
+CUST-02123,0.2953,5444.45,At-Risk / Late-Payment Customers,No,No
+CUST-02124,0.6458,4145.81,Low-Value Basic Users,No,No
+CUST-02125,0.3009,4096.27,At-Risk / Late-Payment Customers,No,No
+CUST-02126,0.6757,3990.83,At-Risk / Late-Payment Customers,No,No
+CUST-02127,0.6276,5575.98,At-Risk / Late-Payment Customers,No,Yes
+CUST-02128,0.5621,4784.9,Low-Value Basic Users,No,No
+CUST-02129,0.642,5069.46,At-Risk / Late-Payment Customers,No,No
+CUST-02130,0.2875,4093.46,Low-Value Basic Users,No,No
+CUST-02131,0.2609,7303.32,High-Value Power Users,No,No
+CUST-02132,0.3834,5095.72,High-Value Power Users,No,No
+CUST-02133,0.3912,7715.78,At-Risk / Late-Payment Customers,No,No
+CUST-02134,0.3745,5497.74,At-Risk / Late-Payment Customers,No,No
+CUST-02135,0.2314,7355.33,At-Risk / Late-Payment Customers,No,No
+CUST-02136,0.2817,4213.7,Low-Value Basic Users,No,No
+CUST-02137,0.5249,5555.75,High-Value Power Users,No,Yes
+CUST-02138,0.5319,4385.36,Low-Value Basic Users,No,No
+CUST-02139,0.3156,6903.03,High-Value Power Users,No,No
+CUST-02140,0.4896,6315.17,High-Value Power Users,No,No
+CUST-02141,0.1618,8464.76,Loyal Long-Tenured Customers,Yes,No
+CUST-02142,0.2395,8280.21,High-Value Power Users,No,No
+CUST-02143,0.2101,5411.52,Low-Value Basic Users,No,No
+CUST-02144,0.6715,5691.03,High-Value Power Users,No,Yes
+CUST-02145,0.2822,5442.49,Low-Value Basic Users,No,No
+CUST-02146,0.2759,3218.56,Low-Value Basic Users,No,No
+CUST-02147,0.401,4974.06,Loyal Long-Tenured Customers,No,No
+CUST-02148,0.4218,5455.78,Loyal Long-Tenured Customers,No,No
+CUST-02149,0.6086,4464.48,Low-Value Basic Users,No,No
+CUST-02150,0.7096,4105.83,Low-Value Basic Users,No,No
+CUST-02151,0.3117,5300.33,Low-Value Basic Users,No,No
+CUST-02152,0.2181,6705.64,Low-Value Basic Users,No,No
+CUST-02153,0.5634,6532.21,High-Value Power Users,No,Yes
+CUST-02154,0.7016,2593.99,Low-Value Basic Users,Yes,No
+CUST-02155,0.4003,3978.92,Loyal Long-Tenured Customers,No,No
+CUST-02156,0.5559,3588.27,Low-Value Basic Users,No,No
+CUST-02157,0.4967,2998.95,Low-Value Basic Users,No,No
+CUST-02158,0.163,2825.04,Loyal Long-Tenured Customers,No,No
+CUST-02159,0.2777,3695.86,Low-Value Basic Users,No,No
+CUST-02160,0.2631,4342.56,Low-Value Basic Users,No,No
+CUST-02161,0.2184,6499.45,Loyal Long-Tenured Customers,No,No
+CUST-02162,0.4035,4854.98,Loyal Long-Tenured Customers,No,No
+CUST-02163,0.3337,7410.02,High-Value Power Users,No,No
+CUST-02164,0.482,6061.65,High-Value Power Users,No,No
+CUST-02165,0.3814,3631.24,Low-Value Basic Users,No,No
+CUST-02166,0.555,5975.75,High-Value Power Users,No,Yes
+CUST-02167,0.5807,4620.79,At-Risk / Late-Payment Customers,No,No
+CUST-02168,0.5484,4088.17,Loyal Long-Tenured Customers,No,No
+CUST-02169,0.4661,6655.33,High-Value Power Users,No,No
+CUST-02170,0.5114,4556.61,Low-Value Basic Users,No,No
+CUST-02171,0.2774,7661.61,High-Value Power Users,No,No
+CUST-02172,0.5378,5077.31,High-Value Power Users,No,No
+CUST-02173,0.4995,4700.2,At-Risk / Late-Payment Customers,No,No
+CUST-02174,0.2168,4487.13,Low-Value Basic Users,No,No
+CUST-02175,0.2565,7388.34,High-Value Power Users,No,No
+CUST-02176,0.5921,3983.06,Low-Value Basic Users,No,No
+CUST-02177,0.2832,7418.52,At-Risk / Late-Payment Customers,No,No
+CUST-02178,0.3775,6503.83,Loyal Long-Tenured Customers,No,No
+CUST-02179,0.569,3767.45,Low-Value Basic Users,No,No
+CUST-02180,0.6421,4950.99,At-Risk / Late-Payment Customers,No,No
+CUST-02181,0.5375,3731.98,Low-Value Basic Users,No,No
+CUST-02182,0.2357,5601.76,Low-Value Basic Users,No,No
+CUST-02183,0.5222,5286.61,Low-Value Basic Users,No,No
+CUST-02184,0.2673,4935.79,Low-Value Basic Users,No,No
+CUST-02185,0.1683,3737.79,Low-Value Basic Users,No,No
+CUST-02186,0.1952,4729.91,Low-Value Basic Users,No,No
+CUST-02187,0.6002,5925.45,At-Risk / Late-Payment Customers,No,Yes
+CUST-02188,0.6299,4586.9,At-Risk / Late-Payment Customers,No,No
+CUST-02189,0.248,5909.07,Low-Value Basic Users,No,No
+CUST-02190,0.2202,5159.81,At-Risk / Late-Payment Customers,No,No
+CUST-02191,0.562,5413.57,High-Value Power Users,No,Yes
+CUST-02192,0.5287,6191.44,High-Value Power Users,No,Yes
+CUST-02193,0.2308,4850.02,At-Risk / Late-Payment Customers,No,No
+CUST-02194,0.1629,5608.04,Loyal Long-Tenured Customers,No,No
+CUST-02195,0.2774,8226.3,High-Value Power Users,Yes,No
+CUST-02196,0.1423,6107.53,Loyal Long-Tenured Customers,No,No
+CUST-02197,0.6147,6712.15,At-Risk / Late-Payment Customers,Yes,Yes
+CUST-02198,0.7177,6048.3,High-Value Power Users,No,Yes
+CUST-02199,0.1677,5216.66,Loyal Long-Tenured Customers,No,No
+CUST-02200,0.2674,5775.63,Low-Value Basic Users,No,No
+CUST-02201,0.4011,5862.62,Loyal Long-Tenured Customers,No,No
+CUST-02202,0.306,5710.97,High-Value Power Users,No,No
+CUST-02203,0.5592,5447.69,At-Risk / Late-Payment Customers,No,Yes
+CUST-02204,0.4845,4524.57,Loyal Long-Tenured Customers,No,No
+CUST-02205,0.1828,7157.83,Loyal Long-Tenured Customers,No,No
+CUST-02206,0.722,3719.78,Low-Value Basic Users,No,No
+CUST-02207,0.5265,4516.67,Low-Value Basic Users,No,No
+CUST-02208,0.365,5451.81,High-Value Power Users,No,No
+CUST-02209,0.4534,5802.7,High-Value Power Users,No,No
+CUST-02210,0.5701,3173.58,Low-Value Basic Users,No,No
+CUST-02211,0.2547,4497.4,Low-Value Basic Users,No,No
+CUST-02212,0.4554,3565.4,At-Risk / Late-Payment Customers,No,No
+CUST-02213,0.208,3667.65,At-Risk / Late-Payment Customers,No,No
+CUST-02214,0.5645,3425.62,Low-Value Basic Users,No,No
+CUST-02215,0.3858,4923.24,Loyal Long-Tenured Customers,No,No
+CUST-02216,0.3176,7459.95,High-Value Power Users,No,No
+CUST-02217,0.5653,6150.21,High-Value Power Users,No,Yes
+CUST-02218,0.1887,8052.36,High-Value Power Users,No,No
+CUST-02219,0.2472,4346.07,Low-Value Basic Users,No,No
+CUST-02220,0.1899,7500.45,High-Value Power Users,No,No
+CUST-02221,0.5284,6766.05,At-Risk / Late-Payment Customers,No,Yes
+CUST-02222,0.5717,3594.75,Low-Value Basic Users,No,No
+CUST-02223,0.1706,7416.26,Loyal Long-Tenured Customers,No,No
+CUST-02224,0.4511,4189.84,Low-Value Basic Users,No,No
+CUST-02225,0.3039,5895.83,At-Risk / Late-Payment Customers,No,No
+CUST-02226,0.29,5982.64,High-Value Power Users,No,No
+CUST-02227,0.3859,5477.77,Loyal Long-Tenured Customers,No,No
+CUST-02228,0.4994,3851.66,Low-Value Basic Users,No,No
+CUST-02229,0.2582,4199.02,Low-Value Basic Users,No,No
+CUST-02230,0.2681,2904.35,Low-Value Basic Users,No,No
+CUST-02231,0.7323,5202.57,At-Risk / Late-Payment Customers,No,No
+CUST-02232,0.2075,6737.7,At-Risk / Late-Payment Customers,No,No
+CUST-02233,0.3518,6788.11,High-Value Power Users,No,No
+CUST-02234,0.3786,3940.91,Loyal Long-Tenured Customers,No,No
+CUST-02235,0.4542,4708.7,Low-Value Basic Users,No,No
+CUST-02236,0.3324,6048.75,At-Risk / Late-Payment Customers,No,No
+CUST-02237,0.3931,4862.47,Low-Value Basic Users,No,No
+CUST-02238,0.2554,6593.62,High-Value Power Users,No,No
+CUST-02239,0.5708,4516.48,Low-Value Basic Users,No,No
+CUST-02240,0.2463,7717.32,Loyal Long-Tenured Customers,No,No
+CUST-02241,0.1639,4833.63,Loyal Long-Tenured Customers,No,No
+CUST-02242,0.3175,6181.88,High-Value Power Users,No,No
+CUST-02243,0.6618,6893.52,High-Value Power Users,No,Yes
+CUST-02244,0.4235,4847.8,Loyal Long-Tenured Customers,No,No
+CUST-02245,0.4582,4845.25,At-Risk / Late-Payment Customers,No,No
+CUST-02246,0.5205,4413.97,Loyal Long-Tenured Customers,No,No
+CUST-02247,0.3502,3157.45,Loyal Long-Tenured Customers,No,No
+CUST-02248,0.2354,5651.05,High-Value Power Users,No,No
+CUST-02249,0.6817,4749.34,At-Risk / Late-Payment Customers,No,No
+CUST-02250,0.2405,6261.37,High-Value Power Users,No,No
+CUST-02251,0.4931,3860.96,Low-Value Basic Users,No,No
+CUST-02252,0.2832,7452.27,High-Value Power Users,No,No
+CUST-02253,0.6855,6640.57,High-Value Power Users,No,Yes
+CUST-02254,0.2355,8561.77,High-Value Power Users,No,No
+CUST-02255,0.2624,7068.01,At-Risk / Late-Payment Customers,No,No
+CUST-02256,0.3618,7294.29,At-Risk / Late-Payment Customers,No,No
+CUST-02257,0.6049,5087.14,High-Value Power Users,No,No
+CUST-02258,0.434,6024.12,High-Value Power Users,No,No
+CUST-02259,0.2431,7180.89,High-Value Power Users,No,No
+CUST-02260,0.4475,3991.48,Low-Value Basic Users,No,No
+CUST-02261,0.2974,4131.22,Low-Value Basic Users,No,No
+CUST-02262,0.5057,4973.78,High-Value Power Users,No,No
+CUST-02263,0.4965,3186.23,Low-Value Basic Users,No,No
+CUST-02264,0.3215,6690.97,High-Value Power Users,No,No
+CUST-02265,0.2892,8012.05,High-Value Power Users,No,No
+CUST-02266,0.2362,5046.48,Loyal Long-Tenured Customers,No,No
+CUST-02267,0.5587,6453.56,High-Value Power Users,No,Yes
+CUST-02268,0.2512,5061.02,Low-Value Basic Users,No,No
+CUST-02269,0.1832,6104.76,Loyal Long-Tenured Customers,No,No
+CUST-02270,0.5512,4806.15,Loyal Long-Tenured Customers,No,No
+CUST-02271,0.6257,4017.34,Low-Value Basic Users,No,No
+CUST-02272,0.395,5482.37,Loyal Long-Tenured Customers,No,No
+CUST-02273,0.1647,5524.96,Loyal Long-Tenured Customers,No,No
+CUST-02274,0.5603,4059.13,Low-Value Basic Users,No,No
+CUST-02275,0.4458,7386.25,High-Value Power Users,No,No
+CUST-02276,0.664,4698.41,High-Value Power Users,No,No
+CUST-02277,0.3988,5458.56,At-Risk / Late-Payment Customers,No,No
+CUST-02278,0.2085,7064.75,High-Value Power Users,No,No
+CUST-02279,0.6375,6976.78,High-Value Power Users,No,Yes
+CUST-02280,0.3876,4571.36,Loyal Long-Tenured Customers,No,No
+CUST-02281,0.5838,6310.82,High-Value Power Users,No,Yes
+CUST-02282,0.7072,6577.01,High-Value Power Users,No,Yes
+CUST-02283,0.5041,6137.03,High-Value Power Users,No,Yes
+CUST-02284,0.1621,7447.95,High-Value Power Users,No,No
+CUST-02285,0.5674,6592.06,High-Value Power Users,No,Yes
+CUST-02286,0.5291,4794.78,High-Value Power Users,No,No
+CUST-02287,0.5091,2981.09,Low-Value Basic Users,No,No
+CUST-02288,0.4521,6775.82,High-Value Power Users,No,No
+CUST-02289,0.2208,8006.57,High-Value Power Users,No,No
+CUST-02290,0.4959,3756.76,Low-Value Basic Users,No,No
+CUST-02291,0.5894,3937.04,Low-Value Basic Users,No,No
+CUST-02292,0.4838,4731.54,Low-Value Basic Users,No,No
+CUST-02293,0.2815,8050.08,High-Value Power Users,No,No
+CUST-02294,0.2148,4987.14,Low-Value Basic Users,No,No
+CUST-02295,0.633,4424.72,Low-Value Basic Users,No,No
+CUST-02296,0.4353,7888.54,High-Value Power Users,No,No
+CUST-02297,0.2203,6777.04,Loyal Long-Tenured Customers,No,No
+CUST-02298,0.2831,8419.33,High-Value Power Users,No,No
+CUST-02299,0.6209,4952.58,High-Value Power Users,No,No
+CUST-02300,0.2955,5849.9,At-Risk / Late-Payment Customers,No,No
+CUST-02301,0.3028,5336.76,High-Value Power Users,No,No
+CUST-02302,0.4065,6105.83,Loyal Long-Tenured Customers,No,No
+CUST-02303,0.5501,5929.18,High-Value Power Users,No,Yes
+CUST-02304,0.3789,4758.19,Loyal Long-Tenured Customers,No,No
+CUST-02305,0.6597,5265.14,At-Risk / Late-Payment Customers,No,No
+CUST-02306,0.6625,5867.24,At-Risk / Late-Payment Customers,No,Yes
+CUST-02307,0.1952,6170.98,At-Risk / Late-Payment Customers,No,No
+CUST-02308,0.1615,6612.76,Loyal Long-Tenured Customers,No,No
+CUST-02309,0.6089,3662.74,Loyal Long-Tenured Customers,No,No
+CUST-02310,0.5922,4151.68,Low-Value Basic Users,No,No
+CUST-02311,0.2712,6035.39,At-Risk / Late-Payment Customers,No,No
+CUST-02312,0.6304,3874.08,Low-Value Basic Users,No,No
+CUST-02313,0.3942,7113.13,Loyal Long-Tenured Customers,No,No
+CUST-02314,0.2133,6628.12,At-Risk / Late-Payment Customers,No,No
+CUST-02315,0.5412,4501.06,High-Value Power Users,No,No
+CUST-02316,0.6137,5596.99,High-Value Power Users,No,Yes
+CUST-02317,0.243,5581.34,High-Value Power Users,No,No
+CUST-02318,0.2901,2867.16,Low-Value Basic Users,No,No
+CUST-02319,0.5215,4305.18,Low-Value Basic Users,No,No
+CUST-02320,0.3018,7906.39,At-Risk / Late-Payment Customers,No,No
+CUST-02321,0.1602,5371.38,Low-Value Basic Users,No,No
+CUST-02322,0.7128,4311.96,At-Risk / Late-Payment Customers,No,No
+CUST-02323,0.2911,4417.95,Low-Value Basic Users,No,No
+CUST-02324,0.4567,5741.94,High-Value Power Users,No,No
+CUST-02325,0.4346,4471.08,Loyal Long-Tenured Customers,Yes,No
+CUST-02326,0.6354,4944.71,Low-Value Basic Users,No,No
+CUST-02327,0.4839,3846.74,Low-Value Basic Users,No,No
+CUST-02328,0.4865,5547.53,At-Risk / Late-Payment Customers,Yes,No
+CUST-02329,0.3012,7258.95,High-Value Power Users,No,No
+CUST-02330,0.3932,3728.07,Low-Value Basic Users,No,No
+CUST-02331,0.2065,4043.42,Low-Value Basic Users,No,No
+CUST-02332,0.4331,6908.62,High-Value Power Users,No,No
+CUST-02333,0.1971,6871.15,High-Value Power Users,No,No
+CUST-02334,0.5231,4938.52,High-Value Power Users,No,No
+CUST-02335,0.6174,3311.99,Low-Value Basic Users,No,No
+CUST-02336,0.2512,4807.72,Low-Value Basic Users,No,No
+CUST-02337,0.373,8218.34,High-Value Power Users,No,No
+CUST-02338,0.5831,3549.66,Low-Value Basic Users,No,No
+CUST-02339,0.5368,4131.92,Low-Value Basic Users,No,No
+CUST-02340,0.3073,6571.83,At-Risk / Late-Payment Customers,No,No
+CUST-02341,0.3016,5373.51,Low-Value Basic Users,No,No
+CUST-02342,0.4984,4269.99,Low-Value Basic Users,No,No
+CUST-02343,0.1539,4379.66,Loyal Long-Tenured Customers,No,No
+CUST-02344,0.6853,2970.6,Low-Value Basic Users,No,No
+CUST-02345,0.6762,5552.79,High-Value Power Users,No,Yes
+CUST-02346,0.4109,6599.06,High-Value Power Users,No,No
+CUST-02347,0.1482,4227.42,Loyal Long-Tenured Customers,No,No
+CUST-02348,0.5091,3859.12,Low-Value Basic Users,No,No
+CUST-02349,0.6026,6464.5,At-Risk / Late-Payment Customers,No,Yes
+CUST-02350,0.4509,4915.88,At-Risk / Late-Payment Customers,No,No
+CUST-02351,0.2244,5055.85,Low-Value Basic Users,No,No
+CUST-02352,0.574,5454.75,At-Risk / Late-Payment Customers,No,Yes
+CUST-02353,0.408,5054.08,High-Value Power Users,No,No
+CUST-02354,0.6376,2629.53,Low-Value Basic Users,No,No
+CUST-02355,0.3106,6878.05,At-Risk / Late-Payment Customers,No,No
+CUST-02356,0.6247,3944.13,Low-Value Basic Users,No,No
+CUST-02357,0.3562,6419.06,High-Value Power Users,No,No
+CUST-02358,0.6312,3128.71,Low-Value Basic Users,Yes,No
+CUST-02359,0.5974,6786.3,High-Value Power Users,No,Yes
+CUST-02360,0.6281,5784.47,High-Value Power Users,No,Yes
+CUST-02361,0.6181,4523.77,High-Value Power Users,No,No
+CUST-02362,0.6077,3971.21,Low-Value Basic Users,No,No
+CUST-02363,0.6114,2456.41,Low-Value Basic Users,No,No
+CUST-02364,0.5779,5295.89,At-Risk / Late-Payment Customers,No,No
+CUST-02365,0.5146,5237.96,High-Value Power Users,No,No
+CUST-02366,0.6683,5295.44,At-Risk / Late-Payment Customers,No,No
+CUST-02367,0.5747,3622.41,Low-Value Basic Users,No,No
+CUST-02368,0.5902,4893.7,Loyal Long-Tenured Customers,No,No
+CUST-02369,0.5074,6750.25,High-Value Power Users,No,Yes
+CUST-02370,0.3195,4470.27,Low-Value Basic Users,No,No
+CUST-02371,0.2494,8042.39,High-Value Power Users,No,No
+CUST-02372,0.3101,4999.52,Low-Value Basic Users,No,No
+CUST-02373,0.7011,3964.19,At-Risk / Late-Payment Customers,No,No
+CUST-02374,0.1879,8947.05,At-Risk / Late-Payment Customers,No,No
+CUST-02375,0.1694,8060.5,High-Value Power Users,No,No
+CUST-02376,0.5533,5147.21,Loyal Long-Tenured Customers,No,No
+CUST-02377,0.3936,4165.33,Loyal Long-Tenured Customers,No,No
+CUST-02378,0.2746,7368.85,At-Risk / Late-Payment Customers,No,No
+CUST-02379,0.3256,6977.61,High-Value Power Users,No,No
+CUST-02380,0.3882,5377.65,Low-Value Basic Users,No,No
+CUST-02381,0.2516,4650.93,Low-Value Basic Users,No,No
+CUST-02382,0.2233,6861.5,High-Value Power Users,No,No
+CUST-02383,0.353,4347.43,At-Risk / Late-Payment Customers,No,No
+CUST-02384,0.631,3501.45,Low-Value Basic Users,No,No
+CUST-02385,0.5949,5851.44,At-Risk / Late-Payment Customers,No,Yes
+CUST-02386,0.2572,7341.26,Loyal Long-Tenured Customers,No,No
+CUST-02387,0.557,5717.16,High-Value Power Users,No,Yes
+CUST-02388,0.3376,5655.86,Loyal Long-Tenured Customers,No,No
+CUST-02389,0.6551,4826.62,High-Value Power Users,No,No
+CUST-02390,0.6667,3828.64,Low-Value Basic Users,No,No
+CUST-02391,0.6023,5290.8,At-Risk / Late-Payment Customers,No,No
+CUST-02392,0.3503,7561.86,High-Value Power Users,No,No
+CUST-02393,0.5484,5216.95,High-Value Power Users,No,No
+CUST-02394,0.3806,6792.06,High-Value Power Users,No,No
+CUST-02395,0.4884,3348.75,Loyal Long-Tenured Customers,Yes,No
+CUST-02396,0.1776,5356.13,Low-Value Basic Users,No,No
+CUST-02397,0.3529,4067.75,At-Risk / Late-Payment Customers,No,No
+CUST-02398,0.2407,5031.43,Loyal Long-Tenured Customers,No,No
+CUST-02399,0.4911,3798.34,Low-Value Basic Users,No,No
+CUST-02400,0.4591,5761.43,Loyal Long-Tenured Customers,No,No
+CUST-02401,0.3463,4740.56,At-Risk / Late-Payment Customers,No,No
+CUST-02402,0.1822,7081.34,At-Risk / Late-Payment Customers,No,No
+CUST-02403,0.5093,4287.86,Loyal Long-Tenured Customers,No,No
+CUST-02404,0.2228,4333.81,Loyal Long-Tenured Customers,No,No
+CUST-02405,0.2407,6378.71,Loyal Long-Tenured Customers,No,No
+CUST-02406,0.7072,4568.49,Low-Value Basic Users,No,No
+CUST-02407,0.401,5363.06,Low-Value Basic Users,No,No
+CUST-02408,0.618,4636.41,High-Value Power Users,No,No
+CUST-02409,0.6505,4311.34,High-Value Power Users,No,No
+CUST-02410,0.2069,4032.38,Low-Value Basic Users,No,No
+CUST-02411,0.5666,5743.67,High-Value Power Users,No,Yes
+CUST-02412,0.2955,6687.79,High-Value Power Users,No,No
+CUST-02413,0.3989,8464.99,High-Value Power Users,No,No
+CUST-02414,0.1728,6314.0,Loyal Long-Tenured Customers,No,No
+CUST-02415,0.5477,3583.42,Low-Value Basic Users,No,No
+CUST-02416,0.4504,4303.91,Low-Value Basic Users,No,No
+CUST-02417,0.6036,4661.59,Low-Value Basic Users,No,No
+CUST-02418,0.3123,4520.35,At-Risk / Late-Payment Customers,No,No
+CUST-02419,0.7048,4657.25,Low-Value Basic Users,No,No
+CUST-02420,0.1986,6155.21,Loyal Long-Tenured Customers,Yes,No
+CUST-02421,0.4965,4731.65,Low-Value Basic Users,No,No
+CUST-02422,0.4424,4132.84,Low-Value Basic Users,No,No
+CUST-02423,0.2156,6881.38,High-Value Power Users,No,No
+CUST-02424,0.1523,4156.14,Low-Value Basic Users,No,No
+CUST-02425,0.616,6424.2,At-Risk / Late-Payment Customers,No,Yes
+CUST-02426,0.3162,6087.03,High-Value Power Users,No,No
+CUST-02427,0.5505,5103.53,Low-Value Basic Users,No,No
+CUST-02428,0.2754,4900.74,Low-Value Basic Users,No,No
+CUST-02429,0.4657,4331.2,Low-Value Basic Users,No,No
+CUST-02430,0.5765,3007.16,Low-Value Basic Users,No,No
+CUST-02431,0.4597,4640.54,Low-Value Basic Users,No,No
+CUST-02432,0.5991,6783.89,At-Risk / Late-Payment Customers,Yes,Yes
+CUST-02433,0.4554,7289.38,High-Value Power Users,No,No
+CUST-02434,0.5391,6108.65,High-Value Power Users,No,Yes
+CUST-02435,0.5561,6062.23,High-Value Power Users,No,Yes
+CUST-02436,0.6929,5569.79,High-Value Power Users,No,Yes
+CUST-02437,0.6603,4715.96,At-Risk / Late-Payment Customers,No,No
+CUST-02438,0.3511,4770.14,Low-Value Basic Users,No,No
+CUST-02439,0.5233,7001.62,High-Value Power Users,No,Yes
+CUST-02440,0.2375,5886.26,High-Value Power Users,No,No
+CUST-02441,0.2446,8114.5,High-Value Power Users,No,No
+CUST-02442,0.4977,4218.06,At-Risk / Late-Payment Customers,No,No
+CUST-02443,0.2374,5642.57,Loyal Long-Tenured Customers,No,No
+CUST-02444,0.5856,5222.21,At-Risk / Late-Payment Customers,Yes,No
+CUST-02445,0.5614,5310.17,High-Value Power Users,No,No
+CUST-02446,0.5617,2777.22,At-Risk / Late-Payment Customers,Yes,No
+CUST-02447,0.7059,4876.51,High-Value Power Users,No,No
+CUST-02448,0.5322,4137.56,Low-Value Basic Users,No,No
+CUST-02449,0.5705,4537.5,Low-Value Basic Users,No,No
+CUST-02450,0.185,4804.87,Low-Value Basic Users,No,No
+CUST-02451,0.5602,6555.44,High-Value Power Users,No,Yes
+CUST-02452,0.1843,7132.5,High-Value Power Users,No,No
+CUST-02453,0.682,2879.68,Low-Value Basic Users,No,No
+CUST-02454,0.4036,5465.26,At-Risk / Late-Payment Customers,No,No
+CUST-02455,0.7023,6045.28,High-Value Power Users,No,Yes
+CUST-02456,0.3718,6757.64,Loyal Long-Tenured Customers,No,No
+CUST-02457,0.498,5387.79,High-Value Power Users,No,No
+CUST-02458,0.4147,9410.94,High-Value Power Users,No,No
+CUST-02459,0.1847,5536.49,Low-Value Basic Users,No,No
+CUST-02460,0.6926,5880.9,High-Value Power Users,No,Yes
+CUST-02461,0.2848,6133.06,High-Value Power Users,No,No
+CUST-02462,0.2802,6200.02,At-Risk / Late-Payment Customers,No,No
+CUST-02463,0.2357,6777.26,High-Value Power Users,No,No
+CUST-02464,0.606,5276.97,High-Value Power Users,No,No
+CUST-02465,0.4052,5279.16,Low-Value Basic Users,No,No
+CUST-02466,0.2331,3627.75,Low-Value Basic Users,No,No
+CUST-02467,0.5143,5403.87,High-Value Power Users,No,Yes
+CUST-02468,0.6639,6907.88,High-Value Power Users,No,Yes
+CUST-02469,0.6104,6416.72,High-Value Power Users,No,Yes
+CUST-02470,0.1891,4271.39,Low-Value Basic Users,No,No
+CUST-02471,0.6727,6880.85,High-Value Power Users,No,Yes
+CUST-02472,0.6498,3103.9,Low-Value Basic Users,No,No
+CUST-02473,0.5701,5375.75,High-Value Power Users,No,Yes
+CUST-02474,0.1857,6951.11,High-Value Power Users,No,No
+CUST-02475,0.2581,5149.72,High-Value Power Users,No,No
+CUST-02476,0.7473,5752.75,High-Value Power Users,No,Yes
+CUST-02477,0.3966,5630.48,Loyal Long-Tenured Customers,No,No
+CUST-02478,0.2847,2360.62,Loyal Long-Tenured Customers,Yes,No
+CUST-02479,0.6629,4138.89,Low-Value Basic Users,No,No
+CUST-02480,0.5831,5333.95,High-Value Power Users,No,Yes
+CUST-02481,0.2004,7207.03,At-Risk / Late-Payment Customers,No,No
+CUST-02482,0.4975,3702.98,Low-Value Basic Users,No,No
+CUST-02483,0.7023,4767.95,Low-Value Basic Users,No,No
+CUST-02484,0.5211,5926.89,High-Value Power Users,No,Yes
+CUST-02485,0.3794,6250.37,High-Value Power Users,No,No
+CUST-02486,0.208,6428.81,At-Risk / Late-Payment Customers,No,No
+CUST-02487,0.726,4574.22,Low-Value Basic Users,No,No
+CUST-02488,0.2467,5429.89,High-Value Power Users,No,No
+CUST-02489,0.1804,4233.79,Loyal Long-Tenured Customers,No,No
+CUST-02490,0.1651,4405.55,Loyal Long-Tenured Customers,No,No
+CUST-02491,0.6306,6717.44,High-Value Power Users,No,Yes
+CUST-02492,0.515,5023.27,High-Value Power Users,No,No
+CUST-02493,0.1914,6579.6,High-Value Power Users,No,No
+CUST-02494,0.5899,5736.52,Loyal Long-Tenured Customers,No,Yes
+CUST-02495,0.5869,6723.07,High-Value Power Users,No,Yes
+CUST-02496,0.6499,4932.87,Low-Value Basic Users,No,No
+CUST-02497,0.1906,6869.23,High-Value Power Users,No,No
+CUST-02498,0.6764,5546.51,High-Value Power Users,No,Yes
+CUST-02499,0.5438,4775.06,Low-Value Basic Users,No,No
+CUST-02500,0.4239,6348.84,At-Risk / Late-Payment Customers,No,No
+CUST-02501,0.6715,5685.32,High-Value Power Users,No,Yes
+CUST-02502,0.6121,7171.85,High-Value Power Users,No,Yes
+CUST-02503,0.4246,4256.2,Loyal Long-Tenured Customers,No,No
+CUST-02504,0.5722,3725.93,Low-Value Basic Users,No,No
+CUST-02505,0.2182,2918.1,Low-Value Basic Users,No,No
+CUST-02506,0.5129,6512.9,High-Value Power Users,No,Yes
+CUST-02507,0.1772,7166.41,Loyal Long-Tenured Customers,No,No
+CUST-02508,0.638,4238.19,At-Risk / Late-Payment Customers,No,No
+CUST-02509,0.5786,5534.55,High-Value Power Users,No,Yes
+CUST-02510,0.5612,5838.86,High-Value Power Users,No,Yes
+CUST-02511,0.6891,3636.43,Low-Value Basic Users,No,No
+CUST-02512,0.6581,5323.84,High-Value Power Users,No,Yes
+CUST-02513,0.5153,5334.84,High-Value Power Users,No,Yes
+CUST-02514,0.201,4870.21,Low-Value Basic Users,No,No
+CUST-02515,0.5972,3144.49,Low-Value Basic Users,No,No
+CUST-02516,0.1683,4877.2,Low-Value Basic Users,No,No
+CUST-02517,0.4556,4775.93,Low-Value Basic Users,No,No
+CUST-02518,0.6887,5714.95,At-Risk / Late-Payment Customers,No,Yes
+CUST-02519,0.3027,6783.96,High-Value Power Users,No,No
+CUST-02520,0.5262,4580.09,Low-Value Basic Users,No,No
+CUST-02521,0.538,4569.84,Loyal Long-Tenured Customers,No,No
+CUST-02522,0.6214,5148.84,At-Risk / Late-Payment Customers,No,No
+CUST-02523,0.4727,5405.38,At-Risk / Late-Payment Customers,No,No
+CUST-02524,0.2493,8049.65,Loyal Long-Tenured Customers,No,No
+CUST-02525,0.6471,4828.14,At-Risk / Late-Payment Customers,No,No
+CUST-02526,0.143,5779.8,Loyal Long-Tenured Customers,No,No
+CUST-02527,0.4134,4343.06,Loyal Long-Tenured Customers,No,No
+CUST-02528,0.6153,5752.66,High-Value Power Users,No,Yes
+CUST-02529,0.6472,4442.76,Low-Value Basic Users,No,No
+CUST-02530,0.6997,5539.62,High-Value Power Users,No,Yes
+CUST-02531,0.2795,6698.03,High-Value Power Users,No,No
+CUST-02532,0.2216,7992.05,High-Value Power Users,No,No
+CUST-02533,0.6663,5174.21,High-Value Power Users,No,No
+CUST-02534,0.6014,5262.72,Loyal Long-Tenured Customers,No,No
+CUST-02535,0.2132,8631.33,High-Value Power Users,No,No
+CUST-02536,0.5945,4088.5,At-Risk / Late-Payment Customers,No,No
+CUST-02537,0.4314,4193.79,Low-Value Basic Users,No,No
+CUST-02538,0.5604,6089.7,High-Value Power Users,No,Yes
+CUST-02539,0.6434,5285.66,High-Value Power Users,No,No
+CUST-02540,0.662,5756.47,High-Value Power Users,No,Yes
+CUST-02541,0.4994,5611.87,At-Risk / Late-Payment Customers,No,No
+CUST-02542,0.2083,5884.95,Low-Value Basic Users,No,No
+CUST-02543,0.5938,5354.38,High-Value Power Users,No,Yes
+CUST-02544,0.1812,5913.44,Low-Value Basic Users,No,No
+CUST-02545,0.2579,4889.8,Loyal Long-Tenured Customers,No,No
+CUST-02546,0.573,3087.32,Low-Value Basic Users,No,No
+CUST-02547,0.5239,3565.05,Low-Value Basic Users,No,No
+CUST-02548,0.6003,3146.92,Low-Value Basic Users,No,No
+CUST-02549,0.3849,3941.45,Low-Value Basic Users,No,No
+CUST-02550,0.6106,4072.03,Low-Value Basic Users,No,No
+CUST-02551,0.229,7391.13,High-Value Power Users,No,No
+CUST-02552,0.241,5071.07,Low-Value Basic Users,No,No
+CUST-02553,0.2453,2741.49,Low-Value Basic Users,No,No
+CUST-02554,0.4901,3597.34,Low-Value Basic Users,No,No
+CUST-02555,0.255,4823.02,Low-Value Basic Users,No,No
+CUST-02556,0.3298,6380.95,High-Value Power Users,No,No
+CUST-02557,0.2249,4392.12,Low-Value Basic Users,No,No
+CUST-02558,0.7383,3184.03,Low-Value Basic Users,No,No
+CUST-02559,0.3098,6346.1,High-Value Power Users,No,No
+CUST-02560,0.4049,4742.74,Loyal Long-Tenured Customers,No,No
+CUST-02561,0.212,6478.48,High-Value Power Users,No,No
+CUST-02562,0.6598,4808.03,At-Risk / Late-Payment Customers,No,No
+CUST-02563,0.5912,5769.33,At-Risk / Late-Payment Customers,No,Yes
+CUST-02564,0.261,4772.8,Low-Value Basic Users,No,No
+CUST-02565,0.6001,5352.65,Loyal Long-Tenured Customers,No,Yes
+CUST-02566,0.332,7133.41,High-Value Power Users,No,No
+CUST-02567,0.2663,5563.46,Low-Value Basic Users,No,No
+CUST-02568,0.1666,7112.12,Loyal Long-Tenured Customers,No,No
+CUST-02569,0.3177,4628.18,Low-Value Basic Users,No,No
+CUST-02570,0.4252,4768.84,Loyal Long-Tenured Customers,No,No
+CUST-02571,0.5781,5406.44,At-Risk / Late-Payment Customers,No,Yes
+CUST-02572,0.3473,6060.17,High-Value Power Users,No,No
+CUST-02573,0.5304,5341.51,High-Value Power Users,No,Yes
+CUST-02574,0.5615,4395.6,At-Risk / Late-Payment Customers,No,No
+CUST-02575,0.6221,2870.28,Low-Value Basic Users,No,No
+CUST-02576,0.5874,3190.49,Low-Value Basic Users,No,No
+CUST-02577,0.1726,7115.04,High-Value Power Users,No,No
+CUST-02578,0.6326,6586.45,High-Value Power Users,No,Yes
+CUST-02579,0.6135,5244.16,Low-Value Basic Users,No,No
+CUST-02580,0.2095,3502.46,Low-Value Basic Users,No,No
+CUST-02581,0.2523,6530.29,Loyal Long-Tenured Customers,No,No
+CUST-02582,0.6534,5849.76,Loyal Long-Tenured Customers,No,Yes
+CUST-02583,0.2298,6892.61,At-Risk / Late-Payment Customers,No,No
+CUST-02584,0.5139,4525.17,Low-Value Basic Users,No,No
+CUST-02585,0.2938,5816.83,Low-Value Basic Users,No,No
+CUST-02586,0.4937,3864.99,Low-Value Basic Users,No,No
+CUST-02587,0.6011,6608.96,High-Value Power Users,No,Yes
+CUST-02588,0.6948,5546.67,High-Value Power Users,No,Yes
+CUST-02589,0.2599,5438.1,Low-Value Basic Users,No,No
+CUST-02590,0.6786,5744.45,At-Risk / Late-Payment Customers,No,Yes
+CUST-02591,0.5628,5089.61,High-Value Power Users,No,No
+CUST-02592,0.394,5587.43,At-Risk / Late-Payment Customers,No,No
+CUST-02593,0.4438,4102.92,Low-Value Basic Users,No,No
+CUST-02594,0.226,4263.35,Low-Value Basic Users,No,No
+CUST-02595,0.5853,5443.53,High-Value Power Users,No,Yes
+CUST-02596,0.5997,5849.33,High-Value Power Users,No,Yes
+CUST-02597,0.6601,4861.56,Low-Value Basic Users,No,No
+CUST-02598,0.5706,5161.49,Loyal Long-Tenured Customers,No,No
+CUST-02599,0.5308,5817.26,Loyal Long-Tenured Customers,No,Yes
+CUST-02600,0.3909,5700.81,Loyal Long-Tenured Customers,No,No
+CUST-02601,0.3427,6313.82,At-Risk / Late-Payment Customers,No,No
+CUST-02602,0.585,5556.13,High-Value Power Users,No,Yes
+CUST-02603,0.5975,4622.46,At-Risk / Late-Payment Customers,No,No
+CUST-02604,0.2317,4766.57,At-Risk / Late-Payment Customers,No,No
+CUST-02605,0.5771,3861.59,Low-Value Basic Users,No,No
+CUST-02606,0.2403,5681.99,High-Value Power Users,No,No
+CUST-02607,0.1715,9251.72,Loyal Long-Tenured Customers,Yes,No
+CUST-02608,0.3954,5693.4,Loyal Long-Tenured Customers,No,No
+CUST-02609,0.2359,4602.3,Low-Value Basic Users,No,No
+CUST-02610,0.312,7929.91,High-Value Power Users,No,No
+CUST-02611,0.5233,5266.93,High-Value Power Users,No,No
+CUST-02612,0.2817,6401.72,High-Value Power Users,No,No
+CUST-02613,0.6517,4887.09,High-Value Power Users,No,No
+CUST-02614,0.4366,5383.87,At-Risk / Late-Payment Customers,No,No
+CUST-02615,0.4458,4873.31,High-Value Power Users,No,No
+CUST-02616,0.6473,3957.19,Low-Value Basic Users,No,No
+CUST-02617,0.1675,8493.43,High-Value Power Users,No,No
+CUST-02618,0.4924,2445.26,Low-Value Basic Users,No,No
+CUST-02619,0.1468,7269.05,Loyal Long-Tenured Customers,No,No
+CUST-02620,0.2433,4138.47,Low-Value Basic Users,No,No
+CUST-02621,0.1681,7763.88,High-Value Power Users,No,No
+CUST-02622,0.1968,3950.56,Low-Value Basic Users,No,No
+CUST-02623,0.2988,8155.25,High-Value Power Users,No,No
+CUST-02624,0.3516,4907.74,Low-Value Basic Users,No,No
+CUST-02625,0.3076,8171.81,High-Value Power Users,No,No
+CUST-02626,0.5175,5974.92,High-Value Power Users,No,Yes
+CUST-02627,0.2705,8117.8,High-Value Power Users,No,No
+CUST-02628,0.4252,4017.93,Loyal Long-Tenured Customers,No,No
+CUST-02629,0.6156,6942.61,High-Value Power Users,No,Yes
+CUST-02630,0.5168,3382.15,Loyal Long-Tenured Customers,No,No
+CUST-02631,0.5772,5406.93,High-Value Power Users,No,Yes
+CUST-02632,0.4189,4926.49,Loyal Long-Tenured Customers,No,No
+CUST-02633,0.5222,4987.38,Loyal Long-Tenured Customers,No,No
+CUST-02634,0.2691,6633.58,At-Risk / Late-Payment Customers,No,No
+CUST-02635,0.236,5712.7,Loyal Long-Tenured Customers,No,No
+CUST-02636,0.2671,5642.38,Low-Value Basic Users,No,No
+CUST-02637,0.174,7242.43,Loyal Long-Tenured Customers,No,No
+CUST-02638,0.1782,10129.35,High-Value Power Users,No,No
+CUST-02639,0.3192,6728.33,High-Value Power Users,No,No
+CUST-02640,0.534,6474.3,At-Risk / Late-Payment Customers,Yes,Yes
+CUST-02641,0.2215,4684.79,Loyal Long-Tenured Customers,No,No
+CUST-02642,0.3683,6174.99,Loyal Long-Tenured Customers,Yes,No
+CUST-02643,0.6129,4550.82,At-Risk / Late-Payment Customers,No,No
+CUST-02644,0.685,5860.29,High-Value Power Users,No,Yes
+CUST-02645,0.478,7293.95,High-Value Power Users,No,No
+CUST-02646,0.2816,6584.67,High-Value Power Users,No,No
+CUST-02647,0.6028,5752.93,High-Value Power Users,No,Yes
+CUST-02648,0.3474,4916.62,Low-Value Basic Users,No,No
+CUST-02649,0.4364,5712.88,At-Risk / Late-Payment Customers,No,No
+CUST-02650,0.665,5950.69,High-Value Power Users,No,Yes
+CUST-02651,0.4423,3547.24,Low-Value Basic Users,No,No
+CUST-02652,0.5302,4054.49,Low-Value Basic Users,No,No
+CUST-02653,0.1854,5104.29,Loyal Long-Tenured Customers,No,No
+CUST-02654,0.6452,5313.35,At-Risk / Late-Payment Customers,No,Yes
+CUST-02655,0.3912,4469.96,Loyal Long-Tenured Customers,No,No
+CUST-02656,0.4018,5785.74,Loyal Long-Tenured Customers,No,No
+CUST-02657,0.2903,6561.7,At-Risk / Late-Payment Customers,No,No
+CUST-02658,0.2565,6262.2,High-Value Power Users,No,No
+CUST-02659,0.2856,5699.51,Low-Value Basic Users,No,No
+CUST-02660,0.2716,4615.36,Low-Value Basic Users,No,No
+CUST-02661,0.2433,6437.15,Loyal Long-Tenured Customers,No,No
+CUST-02662,0.397,4441.1,Loyal Long-Tenured Customers,No,No
+CUST-02663,0.5353,5679.48,High-Value Power Users,No,Yes
+CUST-02664,0.5789,4717.03,Loyal Long-Tenured Customers,No,No
+CUST-02665,0.7116,6094.52,High-Value Power Users,No,Yes
+CUST-02666,0.7065,5706.02,At-Risk / Late-Payment Customers,No,Yes
+CUST-02667,0.5518,4521.81,Loyal Long-Tenured Customers,No,No
+CUST-02668,0.4651,5380.08,High-Value Power Users,No,No
+CUST-02669,0.3978,5157.18,Loyal Long-Tenured Customers,No,No
+CUST-02670,0.363,4372.42,Loyal Long-Tenured Customers,No,No
+CUST-02671,0.4608,6014.16,High-Value Power Users,No,No
+CUST-02672,0.2502,3846.45,Low-Value Basic Users,Yes,No
+CUST-02673,0.2935,8334.12,High-Value Power Users,No,No
+CUST-02674,0.6601,4470.43,Low-Value Basic Users,No,No
+CUST-02675,0.6909,5616.2,High-Value Power Users,No,Yes
+CUST-02676,0.6685,4852.87,High-Value Power Users,No,No
+CUST-02677,0.375,4014.31,Loyal Long-Tenured Customers,No,No
+CUST-02678,0.6393,4768.69,At-Risk / Late-Payment Customers,No,No
+CUST-02679,0.6185,4927.26,At-Risk / Late-Payment Customers,No,No
+CUST-02680,0.2427,7598.98,At-Risk / Late-Payment Customers,No,No
+CUST-02681,0.2546,5479.99,Low-Value Basic Users,No,No
+CUST-02682,0.3145,4731.69,At-Risk / Late-Payment Customers,No,No
+CUST-02683,0.3041,5424.76,Low-Value Basic Users,No,No
+CUST-02684,0.2737,5247.86,At-Risk / Late-Payment Customers,No,No
+CUST-02685,0.3372,7670.15,High-Value Power Users,No,No
+CUST-02686,0.2967,5484.21,Low-Value Basic Users,No,No
+CUST-02687,0.2755,5806.97,Loyal Long-Tenured Customers,No,No
+CUST-02688,0.309,5172.16,Low-Value Basic Users,Yes,No
+CUST-02689,0.2827,5596.63,High-Value Power Users,No,No
+CUST-02690,0.3085,7592.45,High-Value Power Users,No,No
+CUST-02691,0.6019,5401.01,High-Value Power Users,No,Yes
+CUST-02692,0.5779,5898.64,High-Value Power Users,No,Yes
+CUST-02693,0.5561,4666.21,At-Risk / Late-Payment Customers,No,No
+CUST-02694,0.6419,6430.31,At-Risk / Late-Payment Customers,No,Yes
+CUST-02695,0.4883,5058.21,Loyal Long-Tenured Customers,No,No
+CUST-02696,0.486,2961.83,Low-Value Basic Users,No,No
+CUST-02697,0.679,5598.47,At-Risk / Late-Payment Customers,No,Yes
+CUST-02698,0.426,7729.49,At-Risk / Late-Payment Customers,No,No
+CUST-02699,0.6375,4176.67,Low-Value Basic Users,No,No
+CUST-02700,0.5319,4601.29,Low-Value Basic Users,No,No
+CUST-02701,0.5165,3936.61,Low-Value Basic Users,No,No
+CUST-02702,0.5552,4004.23,Low-Value Basic Users,No,No
+CUST-02703,0.343,5478.0,Low-Value Basic Users,No,No
+CUST-02704,0.402,5490.76,At-Risk / Late-Payment Customers,Yes,No
+CUST-02705,0.6626,3742.38,At-Risk / Late-Payment Customers,No,No
+CUST-02706,0.3728,3983.93,Low-Value Basic Users,No,No
+CUST-02707,0.6331,2858.8,Low-Value Basic Users,No,No
+CUST-02708,0.3321,5357.26,Low-Value Basic Users,No,No
+CUST-02709,0.2107,6491.89,High-Value Power Users,No,No
+CUST-02710,0.1738,6387.5,Low-Value Basic Users,No,No
+CUST-02711,0.575,5758.43,High-Value Power Users,No,Yes
+CUST-02712,0.2748,7503.34,High-Value Power Users,No,No
+CUST-02713,0.198,5806.15,Loyal Long-Tenured Customers,No,No
+CUST-02714,0.276,7223.8,At-Risk / Late-Payment Customers,No,No
+CUST-02715,0.5639,3598.33,At-Risk / Late-Payment Customers,No,No
+CUST-02716,0.5997,7660.42,High-Value Power Users,No,Yes
+CUST-02717,0.4623,4747.83,Low-Value Basic Users,No,No
+CUST-02718,0.6335,5946.29,High-Value Power Users,No,Yes
+CUST-02719,0.2003,7774.93,High-Value Power Users,No,No
+CUST-02720,0.6829,6505.89,High-Value Power Users,No,Yes
+CUST-02721,0.5234,3270.91,Low-Value Basic Users,No,No
+CUST-02722,0.1946,6220.94,High-Value Power Users,No,No
+CUST-02723,0.6265,3934.44,Low-Value Basic Users,No,No
+CUST-02724,0.1676,3826.13,Low-Value Basic Users,No,No
+CUST-02725,0.3639,3768.31,Low-Value Basic Users,No,No
+CUST-02726,0.1945,7104.34,High-Value Power Users,No,No
+CUST-02727,0.2799,6402.04,High-Value Power Users,No,No
+CUST-02728,0.6945,3868.01,Low-Value Basic Users,No,No
+CUST-02729,0.5718,6291.2,High-Value Power Users,No,Yes
+CUST-02730,0.2448,7265.17,Loyal Long-Tenured Customers,No,No
+CUST-02731,0.5439,6877.15,High-Value Power Users,No,Yes
+CUST-02732,0.5978,6033.41,High-Value Power Users,No,Yes
+CUST-02733,0.3947,5972.72,At-Risk / Late-Payment Customers,No,No
+CUST-02734,0.3766,2543.09,Loyal Long-Tenured Customers,No,No
+CUST-02735,0.559,5175.02,At-Risk / Late-Payment Customers,No,No
+CUST-02736,0.6035,4375.2,Low-Value Basic Users,No,No
+CUST-02737,0.5623,3414.26,Low-Value Basic Users,Yes,No
+CUST-02738,0.2639,4625.28,Loyal Long-Tenured Customers,No,No
+CUST-02739,0.6131,4889.53,High-Value Power Users,No,No
+CUST-02740,0.5668,5925.13,High-Value Power Users,No,Yes
+CUST-02741,0.5265,5496.14,High-Value Power Users,No,Yes
+CUST-02742,0.3156,8440.0,High-Value Power Users,No,No
+CUST-02743,0.511,5608.52,Loyal Long-Tenured Customers,No,Yes
+CUST-02744,0.5566,2977.17,Low-Value Basic Users,Yes,No
+CUST-02745,0.4207,6969.92,At-Risk / Late-Payment Customers,No,No
+CUST-02746,0.4941,4066.16,Low-Value Basic Users,No,No
+CUST-02747,0.3234,4957.48,At-Risk / Late-Payment Customers,No,No
+CUST-02748,0.4433,5556.05,High-Value Power Users,No,No
+CUST-02749,0.5266,4795.84,Low-Value Basic Users,No,No
+CUST-02750,0.4555,3950.99,Low-Value Basic Users,No,No
+CUST-02751,0.2386,4689.76,Loyal Long-Tenured Customers,No,No
+CUST-02752,0.6021,3491.22,At-Risk / Late-Payment Customers,No,No
+CUST-02753,0.4526,6130.95,High-Value Power Users,No,No
+CUST-02754,0.614,4407.8,Low-Value Basic Users,No,No
+CUST-02755,0.535,3788.19,At-Risk / Late-Payment Customers,No,No
+CUST-02756,0.3457,5706.09,High-Value Power Users,No,No
+CUST-02757,0.1686,4890.09,Low-Value Basic Users,No,No
+CUST-02758,0.6123,4307.53,Low-Value Basic Users,No,No
+CUST-02759,0.4376,3002.72,Low-Value Basic Users,No,No
+CUST-02760,0.5341,4004.07,Low-Value Basic Users,No,No
+CUST-02761,0.2451,7850.9,High-Value Power Users,No,No
+CUST-02762,0.5701,3473.4,Low-Value Basic Users,No,No
+CUST-02763,0.4808,5036.2,Low-Value Basic Users,No,No
+CUST-02764,0.2474,7097.0,High-Value Power Users,No,No
+CUST-02765,0.1479,5135.55,Loyal Long-Tenured Customers,No,No
+CUST-02766,0.4973,3961.89,Low-Value Basic Users,No,No
+CUST-02767,0.6012,4950.42,Loyal Long-Tenured Customers,No,No
+CUST-02768,0.3055,5189.54,At-Risk / Late-Payment Customers,No,No
+CUST-02769,0.1828,7271.92,At-Risk / Late-Payment Customers,No,No
+CUST-02770,0.5545,6622.34,High-Value Power Users,No,Yes
+CUST-02771,0.5272,3097.36,Low-Value Basic Users,No,No
+CUST-02772,0.4396,4131.7,Low-Value Basic Users,No,No
+CUST-02773,0.4794,5273.79,High-Value Power Users,No,No
+CUST-02774,0.5454,4217.65,Low-Value Basic Users,No,No
+CUST-02775,0.3711,7430.86,High-Value Power Users,No,No
+CUST-02776,0.3461,2393.91,Low-Value Basic Users,Yes,No
+CUST-02777,0.5105,5276.08,High-Value Power Users,No,No
+CUST-02778,0.4322,9468.05,High-Value Power Users,No,No
+CUST-02779,0.5398,5945.34,High-Value Power Users,No,Yes
+CUST-02780,0.491,3485.58,Low-Value Basic Users,No,No
+CUST-02781,0.2611,4764.43,Low-Value Basic Users,No,No
+CUST-02782,0.6966,5711.17,At-Risk / Late-Payment Customers,No,Yes
+CUST-02783,0.1623,6968.23,Loyal Long-Tenured Customers,No,No
+CUST-02784,0.437,5091.54,High-Value Power Users,No,No
+CUST-02785,0.6819,5677.1,High-Value Power Users,No,Yes
+CUST-02786,0.2338,6328.65,High-Value Power Users,No,No
+CUST-02787,0.6812,3553.08,Low-Value Basic Users,No,No
+CUST-02788,0.5289,5711.89,High-Value Power Users,No,Yes
+CUST-02789,0.6417,6301.76,At-Risk / Late-Payment Customers,No,Yes
+CUST-02790,0.1727,3577.05,Loyal Long-Tenured Customers,No,No
+CUST-02791,0.7089,5738.08,At-Risk / Late-Payment Customers,No,Yes
+CUST-02792,0.4374,5450.19,At-Risk / Late-Payment Customers,No,No
+CUST-02793,0.3407,6017.75,High-Value Power Users,No,No
+CUST-02794,0.4397,8155.25,High-Value Power Users,Yes,No
+CUST-02795,0.4661,5477.04,Loyal Long-Tenured Customers,No,No
+CUST-02796,0.629,5028.34,High-Value Power Users,No,No
+CUST-02797,0.1787,6593.28,High-Value Power Users,No,No
+CUST-02798,0.5503,5849.55,High-Value Power Users,No,Yes
+CUST-02799,0.2693,5496.45,At-Risk / Late-Payment Customers,No,No
+CUST-02800,0.6105,5711.98,High-Value Power Users,No,Yes
+CUST-02801,0.5642,6987.07,High-Value Power Users,No,Yes
+CUST-02802,0.3169,6260.28,At-Risk / Late-Payment Customers,No,No
+CUST-02803,0.4927,2414.9,Low-Value Basic Users,No,No
+CUST-02804,0.5655,6569.05,Loyal Long-Tenured Customers,No,Yes
+CUST-02805,0.2586,4491.29,Low-Value Basic Users,No,No
+CUST-02806,0.3355,5519.22,High-Value Power Users,No,No
+CUST-02807,0.6296,4072.32,Low-Value Basic Users,No,No
+CUST-02808,0.4164,4020.57,Low-Value Basic Users,No,No
+CUST-02809,0.5208,6875.16,High-Value Power Users,No,Yes
+CUST-02810,0.2684,3597.8,Low-Value Basic Users,No,No
+CUST-02811,0.6483,4153.81,Low-Value Basic Users,No,No
+CUST-02812,0.3625,5711.51,Loyal Long-Tenured Customers,No,No
+CUST-02813,0.3068,5086.37,At-Risk / Late-Payment Customers,No,No
+CUST-02814,0.2262,8405.03,High-Value Power Users,No,No
+CUST-02815,0.4203,4608.93,Loyal Long-Tenured Customers,No,No
+CUST-02816,0.6363,6083.63,High-Value Power Users,No,Yes
+CUST-02817,0.4811,6049.73,High-Value Power Users,No,No
+CUST-02818,0.6011,5527.9,At-Risk / Late-Payment Customers,No,Yes
+CUST-02819,0.5919,5992.79,High-Value Power Users,No,Yes
+CUST-02820,0.1866,7081.34,At-Risk / Late-Payment Customers,No,No
+CUST-02821,0.6233,3270.62,Low-Value Basic Users,No,No
+CUST-02822,0.5342,2377.31,Low-Value Basic Users,No,No
+CUST-02823,0.5186,4342.98,Low-Value Basic Users,No,No
+CUST-02824,0.2678,7121.38,At-Risk / Late-Payment Customers,No,No
+CUST-02825,0.575,7009.9,High-Value Power Users,No,Yes
+CUST-02826,0.3214,6436.82,High-Value Power Users,No,No
+CUST-02827,0.2388,3341.99,Loyal Long-Tenured Customers,Yes,No
+CUST-02828,0.559,5600.97,High-Value Power Users,No,Yes
+CUST-02829,0.4059,8267.27,High-Value Power Users,No,No
+CUST-02830,0.4838,6312.81,Loyal Long-Tenured Customers,No,No
+CUST-02831,0.5578,3514.72,At-Risk / Late-Payment Customers,No,No
+CUST-02832,0.5622,5398.93,At-Risk / Late-Payment Customers,No,Yes
+CUST-02833,0.6417,5084.98,At-Risk / Late-Payment Customers,No,No
+CUST-02834,0.4084,5639.37,Low-Value Basic Users,No,No
+CUST-02835,0.1985,4966.97,Low-Value Basic Users,No,No
+CUST-02836,0.5613,5880.26,High-Value Power Users,No,Yes
+CUST-02837,0.2272,5618.47,Low-Value Basic Users,No,No
+CUST-02838,0.5992,3722.44,Low-Value Basic Users,No,No
+CUST-02839,0.6188,5417.47,High-Value Power Users,No,Yes
+CUST-02840,0.2752,5749.82,Low-Value Basic Users,No,No
+CUST-02841,0.5742,4153.97,Low-Value Basic Users,No,No
+CUST-02842,0.2539,8491.41,High-Value Power Users,No,No
+CUST-02843,0.6439,4942.67,High-Value Power Users,No,No
+CUST-02844,0.3877,4625.27,Low-Value Basic Users,No,No
+CUST-02845,0.6142,4746.45,Low-Value Basic Users,No,No
+CUST-02846,0.4569,4903.48,High-Value Power Users,No,No
+CUST-02847,0.2995,7846.85,High-Value Power Users,No,No
+CUST-02848,0.645,4099.16,Low-Value Basic Users,No,No
+CUST-02849,0.7,6716.1,High-Value Power Users,No,Yes
+CUST-02850,0.2649,4096.2,Low-Value Basic Users,No,No
+CUST-02851,0.5025,4911.51,At-Risk / Late-Payment Customers,No,No
+CUST-02852,0.4754,4047.86,Low-Value Basic Users,No,No
+CUST-02853,0.6003,4862.75,Loyal Long-Tenured Customers,No,No
+CUST-02854,0.3374,4319.7,Low-Value Basic Users,No,No
+CUST-02855,0.3267,7216.91,At-Risk / Late-Payment Customers,No,No
+CUST-02856,0.1722,7617.5,Loyal Long-Tenured Customers,No,No
+CUST-02857,0.5937,4223.88,Low-Value Basic Users,No,No
+CUST-02858,0.6271,5844.07,High-Value Power Users,No,Yes
+CUST-02859,0.6675,4623.46,Low-Value Basic Users,No,No
+CUST-02860,0.484,3930.81,Low-Value Basic Users,No,No
+CUST-02861,0.2388,3920.36,Low-Value Basic Users,No,No
+CUST-02862,0.4369,6173.57,High-Value Power Users,No,No
+CUST-02863,0.2524,5604.27,At-Risk / Late-Payment Customers,No,No
+CUST-02864,0.3615,6701.41,At-Risk / Late-Payment Customers,No,No
+CUST-02865,0.2399,5276.91,Loyal Long-Tenured Customers,No,No
+CUST-02866,0.565,6473.75,High-Value Power Users,No,Yes
+CUST-02867,0.6474,2695.1,Low-Value Basic Users,Yes,No
+CUST-02868,0.1508,8250.45,High-Value Power Users,No,No
+CUST-02869,0.2509,5436.28,Loyal Long-Tenured Customers,No,No
+CUST-02870,0.7143,4706.56,High-Value Power Users,No,No
+CUST-02871,0.2931,7437.2,High-Value Power Users,No,No
+CUST-02872,0.2052,7443.43,At-Risk / Late-Payment Customers,No,No
+CUST-02873,0.5708,4552.21,Low-Value Basic Users,No,No
+CUST-02874,0.2676,5602.0,Low-Value Basic Users,No,No
+CUST-02875,0.6802,5409.1,High-Value Power Users,No,Yes
+CUST-02876,0.1864,4047.18,Low-Value Basic Users,Yes,No
+CUST-02877,0.5691,2909.29,Low-Value Basic Users,No,No
+CUST-02878,0.547,4584.51,Low-Value Basic Users,No,No
+CUST-02879,0.6462,2866.75,Low-Value Basic Users,No,No
+CUST-02880,0.3055,3083.6,Low-Value Basic Users,No,No
+CUST-02881,0.3419,8710.04,High-Value Power Users,No,No
+CUST-02882,0.4924,4631.37,Low-Value Basic Users,No,No
+CUST-02883,0.5035,5342.45,High-Value Power Users,No,Yes
+CUST-02884,0.547,5041.2,High-Value Power Users,No,No
+CUST-02885,0.5628,6847.69,High-Value Power Users,No,Yes
+CUST-02886,0.2298,3761.45,Low-Value Basic Users,No,No
+CUST-02887,0.4644,4012.11,Loyal Long-Tenured Customers,Yes,No
+CUST-02888,0.1785,6304.95,Low-Value Basic Users,No,No
+CUST-02889,0.2161,5940.06,Low-Value Basic Users,No,No
+CUST-02890,0.6841,4588.06,Low-Value Basic Users,No,No
+CUST-02891,0.5744,3954.66,Low-Value Basic Users,No,No
+CUST-02892,0.1517,7893.77,High-Value Power Users,No,No
+CUST-02893,0.2909,5031.96,Low-Value Basic Users,No,No
+CUST-02894,0.2547,6756.62,High-Value Power Users,No,No
+CUST-02895,0.386,2481.96,Loyal Long-Tenured Customers,No,No
+CUST-02896,0.5641,5897.76,High-Value Power Users,No,Yes
+CUST-02897,0.2919,6404.71,At-Risk / Late-Payment Customers,No,No
+CUST-02898,0.43,4733.92,Low-Value Basic Users,No,No
+CUST-02899,0.314,5455.32,Low-Value Basic Users,No,No
+CUST-02900,0.3036,2741.44,Low-Value Basic Users,Yes,No
+CUST-02901,0.6129,5338.21,High-Value Power Users,No,Yes
+CUST-02902,0.7521,5652.13,At-Risk / Late-Payment Customers,No,Yes
+CUST-02903,0.5468,2916.56,Low-Value Basic Users,No,No
+CUST-02904,0.2284,6350.89,At-Risk / Late-Payment Customers,Yes,No
+CUST-02905,0.6268,5845.84,High-Value Power Users,No,Yes
+CUST-02906,0.5541,4506.02,At-Risk / Late-Payment Customers,No,No
+CUST-02907,0.3002,7660.35,High-Value Power Users,No,No
+CUST-02908,0.222,5711.67,Loyal Long-Tenured Customers,No,No
+CUST-02909,0.6379,5513.11,High-Value Power Users,No,Yes
+CUST-02910,0.1536,6513.78,Loyal Long-Tenured Customers,No,No
+CUST-02911,0.6567,6079.85,High-Value Power Users,No,Yes
+CUST-02912,0.2038,6856.84,High-Value Power Users,No,No
+CUST-02913,0.1967,4620.78,Low-Value Basic Users,No,No
+CUST-02914,0.6259,5276.45,High-Value Power Users,No,No
+CUST-02915,0.7347,5207.64,At-Risk / Late-Payment Customers,No,No
+CUST-02916,0.4195,3409.86,Low-Value Basic Users,No,No
+CUST-02917,0.2843,7141.67,At-Risk / Late-Payment Customers,No,No
+CUST-02918,0.2672,6990.73,High-Value Power Users,No,No
+CUST-02919,0.5849,4404.2,Low-Value Basic Users,No,No
+CUST-02920,0.1759,9051.96,Loyal Long-Tenured Customers,Yes,No
+CUST-02921,0.6237,3144.49,Low-Value Basic Users,No,No
+CUST-02922,0.2013,5131.07,Low-Value Basic Users,No,No
+CUST-02923,0.394,4270.55,Low-Value Basic Users,No,No
+CUST-02924,0.707,5171.65,High-Value Power Users,No,No
+CUST-02925,0.4503,4053.32,Low-Value Basic Users,No,No
+CUST-02926,0.197,5049.54,Low-Value Basic Users,No,No
+CUST-02927,0.2709,7118.92,At-Risk / Late-Payment Customers,No,No
+CUST-02928,0.4535,4156.77,Loyal Long-Tenured Customers,No,No
+CUST-02929,0.1646,4922.48,Loyal Long-Tenured Customers,No,No
+CUST-02930,0.7011,6695.16,At-Risk / Late-Payment Customers,No,Yes
+CUST-02931,0.5329,3813.16,Low-Value Basic Users,No,No
+CUST-02932,0.1945,3975.61,Low-Value Basic Users,No,No
+CUST-02933,0.6299,4229.12,At-Risk / Late-Payment Customers,No,No
+CUST-02934,0.1833,3613.97,Loyal Long-Tenured Customers,No,No
+CUST-02935,0.1861,5182.66,Loyal Long-Tenured Customers,No,No
+CUST-02936,0.661,5586.2,High-Value Power Users,No,Yes
+CUST-02937,0.5293,6577.25,At-Risk / Late-Payment Customers,No,Yes
+CUST-02938,0.4279,6022.54,High-Value Power Users,No,No
+CUST-02939,0.4752,4862.65,At-Risk / Late-Payment Customers,No,No
+CUST-02940,0.2354,3954.89,Low-Value Basic Users,No,No
+CUST-02941,0.5876,4208.05,Low-Value Basic Users,No,No
+CUST-02942,0.2047,6066.59,Low-Value Basic Users,No,No
+CUST-02943,0.5671,5458.06,High-Value Power Users,No,Yes
+CUST-02944,0.5365,2228.96,Low-Value Basic Users,No,No
+CUST-02945,0.3881,7770.57,At-Risk / Late-Payment Customers,No,No
+CUST-02946,0.6711,4436.12,At-Risk / Late-Payment Customers,No,No
+CUST-02947,0.312,4201.74,Low-Value Basic Users,No,No
+CUST-02948,0.2707,6515.77,At-Risk / Late-Payment Customers,No,No
+CUST-02949,0.1994,5452.1,Low-Value Basic Users,No,No
+CUST-02950,0.4415,3606.9,Loyal Long-Tenured Customers,No,No
+CUST-02951,0.4795,4490.45,At-Risk / Late-Payment Customers,No,No
+CUST-02952,0.2594,7831.43,High-Value Power Users,No,No
+CUST-02953,0.5936,5857.95,High-Value Power Users,No,Yes
+CUST-02954,0.1492,5880.08,Loyal Long-Tenured Customers,No,No
+CUST-02955,0.1532,5665.08,Loyal Long-Tenured Customers,No,No
+CUST-02956,0.3085,7719.38,High-Value Power Users,No,No
+CUST-02957,0.1634,3643.68,Low-Value Basic Users,No,No
+CUST-02958,0.1847,3995.71,Low-Value Basic Users,No,No
+CUST-02959,0.6421,3569.34,Low-Value Basic Users,No,No
+CUST-02960,0.2528,7242.77,High-Value Power Users,No,No
+CUST-02961,0.3627,7981.33,High-Value Power Users,No,No
+CUST-02962,0.5576,5767.72,At-Risk / Late-Payment Customers,No,Yes
+CUST-02963,0.1602,6238.68,Loyal Long-Tenured Customers,No,No
+CUST-02964,0.544,6976.17,High-Value Power Users,No,Yes
+CUST-02965,0.5867,4600.4,At-Risk / Late-Payment Customers,No,No
+CUST-02966,0.215,5511.5,Loyal Long-Tenured Customers,Yes,No
+CUST-02967,0.2499,6827.06,High-Value Power Users,No,No
+CUST-02968,0.7186,5609.76,High-Value Power Users,No,Yes
+CUST-02969,0.2519,3552.08,Low-Value Basic Users,No,No
+CUST-02970,0.65,3962.39,Low-Value Basic Users,No,No
+CUST-02971,0.4035,4119.72,Low-Value Basic Users,No,No
+CUST-02972,0.7075,5692.92,High-Value Power Users,No,Yes
+CUST-02973,0.2581,6187.33,Low-Value Basic Users,No,No
+CUST-02974,0.6974,5548.26,High-Value Power Users,No,Yes
+CUST-02975,0.38,3938.41,Loyal Long-Tenured Customers,No,No
+CUST-02976,0.2069,3301.32,Low-Value Basic Users,No,No
+CUST-02977,0.6692,3826.87,Low-Value Basic Users,No,No
+CUST-02978,0.3991,5216.0,Loyal Long-Tenured Customers,No,No
+CUST-02979,0.4858,3897.65,Low-Value Basic Users,No,No
+CUST-02980,0.283,5452.73,Loyal Long-Tenured Customers,No,No
+CUST-02981,0.3264,6196.08,High-Value Power Users,No,No
+CUST-02982,0.2349,7810.36,Loyal Long-Tenured Customers,Yes,No
+CUST-02983,0.5463,3263.07,Low-Value Basic Users,No,No
+CUST-02984,0.6998,4562.98,At-Risk / Late-Payment Customers,No,No
+CUST-02985,0.291,4387.03,Low-Value Basic Users,No,No
+CUST-02986,0.4211,4261.97,Low-Value Basic Users,No,No
+CUST-02987,0.4853,4052.89,Low-Value Basic Users,No,No
+CUST-02988,0.5524,5349.07,High-Value Power Users,No,Yes
+CUST-02989,0.4446,6306.3,High-Value Power Users,No,No
+CUST-02990,0.6187,5453.81,At-Risk / Late-Payment Customers,No,Yes
+CUST-02991,0.1603,4960.6,Low-Value Basic Users,No,No
+CUST-02992,0.7192,3772.01,Low-Value Basic Users,No,No
+CUST-02993,0.2168,4324.54,At-Risk / Late-Payment Customers,No,No
+CUST-02994,0.4183,3877.61,Loyal Long-Tenured Customers,No,No
+CUST-02995,0.1565,6338.48,Loyal Long-Tenured Customers,No,No
+CUST-02996,0.3146,5983.09,At-Risk / Late-Payment Customers,No,No
+CUST-02997,0.1781,5954.01,Low-Value Basic Users,No,No
+CUST-02998,0.5208,5775.54,High-Value Power Users,No,Yes
+CUST-02999,0.317,5495.92,High-Value Power Users,No,No
+CUST-03000,0.5495,3674.29,Low-Value Basic Users,No,No
